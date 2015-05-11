@@ -1,0 +1,1368 @@
+2,'2','Courtney St / Dewdney Ave',50.455198,-104.686835
+3,'3','Courtney St / 8th Ave',50.457297,-104.686823
+4,'4','Courtney St / 7th Ave',50.458498,-104.686838
+5,'5','Courtney St / 6th Ave',50.459488,-104.68684
+6,'6','Courtney St / Kelly Ave',50.460441,-104.686841
+7,'7','5th Ave / Duncan Cr',50.46144,-104.686082
+8,'8','Dorothy St / 5th Ave',50.461094,-104.682574
+9,'9','Dorothy St / Kelly Ave',50.459985,-104.682324
+10,'10','Dorothy St / 6th Ave',50.459133,-104.681964
+11,'11','Dorothy St / 7th Ave',50.458354,-104.681231
+12,'12','Dorothy St / 8th Ave',50.457099,-104.679877
+13,'13','Dorothy St / Bowman Ave',50.455715,-104.679682
+14,'14','Dewdney Ave / Dorothy St',50.455165,-104.678963
+15,'15','Dewdney Ave / Southam St',50.455157,-104.67674
+16,'16','Dewdney Ave / Kent St',50.455167,-104.673853
+17,'17','Dewdney Ave / Carlton St',50.455159,-104.671589
+18,'18','Dewdney Ave / Donald St',50.455151,-104.669269
+19,'19','Dewdney Ave / Bonner Dr',50.45517,-104.665471
+20,'20','Dewdney Ave / Horace St',50.455172,-104.660334
+21,'21','Dewdney Ave / Minto St',50.455183,-104.656136
+22,'22','Dewdney Ave / Empress St',50.455183,-104.654907
+23,'23','Dewdney Ave / Royal St',50.455193,-104.65057
+24,'24','Dewdney Ave / Hewitt Pl',50.455185,-104.648361
+25,'25','Dewdney Ave / York St',50.455176,-104.645668
+26,'26','Dewdney Ave / Pasqua St',50.455113,-104.641276
+27,'27','Dewdney Ave / Wascana St',50.455067,-104.639371
+28,'28','Dewdney Ave / Princess St',50.455059,-104.634965
+29,'29','Dewdney Ave / Argyle St',50.455078,-104.632134
+30,'30','Dewdney Ave / Elphinstone St',50.455069,-104.630712
+31,'31','Dewdney Ave / Montague St',50.455069,-104.629262
+32,'32','Dewdney Ave / Garnet St',50.455069,-104.626486
+33,'33','Dewdney Ave / Robinson St',50.455069,-104.623503
+34,'34','Dewdney Ave / Rae St',50.45506,-104.620659
+35,'35','Albert St / Dewdney Ave',50.454721,-104.618145
+37,'37','Albert St / 11th Ave',50.449488,-104.618131
+38,'38','12th Ave / Smith St',50.448791,-104.615701
+41,'41','Broad St / 11th Ave',50.449753,-104.606408
+42,'42','Broad St / Dewdney Ave',50.455583,-104.606393
+43,'43','Broad St / 8th Ave',50.457242,-104.606393
+44,'44','Broad St / 7th Ave',50.458773,-104.606393
+45,'45','Broad St / 6th Ave',50.460276,-104.606392
+46,'46','Broad St / 5th Ave',50.461917,-104.606392
+47,'47','Broad St / 4th Ave',50.463475,-104.606392
+48,'48','Broad St / 2nd Ave',50.465904,-104.606392
+49,'49','Broad St / 1st Ave',50.467912,-104.606392
+50,'50','Broad St / 1st Ave N',50.470011,-104.606405
+51,'51','Broad St / 1st Ave N',50.471395,-104.606419
+52,'52','2nd Ave N / Broad St',50.472431,-104.606902
+53,'53','Hamilton St / 2nd Ave N',50.472889,-104.609361
+54,'54','Hamilton St / 3rd Ave N',50.474375,-104.609347
+55,'55','Hamilton St / 5th Ave N',50.476675,-104.609361
+56,'56','5th Ave N / Cornwall St',50.47707,-104.612814
+57,'57','5th Ave N / Smith St',50.47707,-104.615632
+58,'58','Albert St / 5th Ave N',50.477546,-104.618091
+59,'59','Albert St / 6th Ave N',50.479389,-104.618078
+60,'60','7th Ave N / Smith St',50.480691,-104.615632
+61,'61','Lorne St / 8th Ave N',50.482543,-104.613726
+62,'62','9th Ave N / Lorne St',50.484349,-104.613325
+63,'63','9th Ave N / Kleisinger Cr',50.484339,-104.609733
+64,'64','Broad St / 9th Ave N',50.484614,-104.606403
+65,'65','Broad St / Elmview Rd',50.489968,-104.606237
+66,'66','Fairview Rd / Broad St',50.492315,-104.605601
+67,'67','Fairview Rd / Lloyd Cr',50.492324,-104.603211
+68,'68','Bothwell Cr / Aitken Cr',50.491966,-104.601055
+69,'69','Sturdy St / 12th Ave N',50.493827,-104.597158
+70,'70','Rodenbush Dr / Andrews Cr',50.496495,-104.597738
+71,'71','Rodenbush Dr / Cullum Pl',50.497871,-104.600805
+72,'72','Rodenbush Dr / Fairview Rd',50.49788,-104.603196
+73,'73','Rodenbush Dr / Kowalchuck Cr',50.497422,-104.605379
+74,'74','Rodenbush Dr / Broad St',50.497046,-104.607867
+75,'75','Rodenbush Dr / Brandon Cr',50.497046,-104.611086
+76,'76','Rodenbush Dr / Basin Cr',50.496707,-104.612924
+77,'77','Rodenbush Dr / 12th Ave N',50.494589,-104.61461
+78,'78','Upland Dr / Carmichael Rd',50.492829,-104.615467
+79,'79','Upland Dr / Fairview Rd',50.491151,-104.61555
+80,'80','Upland Dr / Spruceview Rd',50.488987,-104.614154
+81,'81','Upland Dr / Willowview Rd',50.48852,-104.611018
+82,'82','Upland Dr / Oakview Rd',50.488566,-104.608393
+83,'83','Elmview Rd / Broad St',50.48929,-104.606928
+84,'84','9th Ave N / Broad St',50.484367,-104.606873
+85,'85','9th Ave N / Kleisinger Cr',50.484367,-104.610894
+86,'86','Lorne St / 9th Ave N',50.483918,-104.613781
+87,'87','Lorne St / 8th Ave N',50.481452,-104.613767
+88,'88','7th Ave N / Smith St',50.480718,-104.615605
+89,'89','7th Ave N / Cornwall St',50.480691,-104.611806
+90,'90','7th Ave N / Hamilton St',50.4807,-104.60896
+91,'91','7th Ave N / Broad St',50.480691,-104.605906
+92,'92','7th Ave N / Halifax St',50.480672,-104.602922
+93,'93','7th Ave N / Ottawa St',50.480672,-104.60027
+94,'94','7th Ave N / Montreal St',50.480671,-104.5973
+95,'95','7th Ave N / Winnipeg St',50.480671,-104.595545
+96,'96','6th Ave N / Winnipeg St',50.478893,-104.595767
+97,'97','Toronto St / 6th Ave N',50.478417,-104.599207
+98,'98','Toronto St / 5th Ave N',50.476675,-104.599221
+99,'99','Toronto St / 4th Ave N',50.475263,-104.599207
+101,'101','2nd Ave N / Toronto St',50.472412,-104.599553
+102,'102','2nd Ave N / St John St',50.472412,-104.601584
+103,'103','2nd Ave N / Halifax St',50.472412,-104.603891
+104,'104','Broad St / 2nd Ave N',50.472376,-104.60646
+105,'105','Broad St / 1st Ave N',50.470698,-104.606474
+106,'106','Broad St / 1st Ave',50.468205,-104.606433
+107,'107','Broad St / 2nd Ave',50.466738,-104.606433
+108,'108','Broad St / 4th Ave',50.463228,-104.606447
+109,'109','Broad St / 4th Ave',50.462494,-104.606447
+110,'110','Broad St / 6th Ave',50.459543,-104.606434
+111,'111','Broad St / 8th Ave',50.456463,-104.606448
+112,'112','Broad St / Saskatchewan Dr',50.451431,-104.606476
+114,'114','11th Ave / Hamilton St',50.450395,-104.608741
+118,'118','Albert St / 9th Ave',50.453731,-104.618076
+119,'119','Dewdney Ave / Albert St',50.455106,-104.618421
+120,'120','Dewdney Ave / Rae St',50.455097,-104.621335
+121,'121','Dewdney Ave / Robinson St',50.455097,-104.624249
+122,'122','Dewdney Ave / Garnet St',50.455106,-104.627204
+123,'123','Dewdney Ave / Montague St',50.455105,-104.630077
+124,'124','Dewdney Ave / Elphinstone St',50.455105,-104.631472
+125,'125','Dewdney Ave / Mctavish St',50.455105,-104.634302
+126,'126','Dewdney Ave / Queen St',50.455095,-104.637216
+127,'127','Dewdney Ave / Wascana St',50.455113,-104.640089
+128,'128','Dewdney Ave / Pasqua St',50.45515,-104.641221
+129,'129','Dewdney Ave / Lewvan Dr',50.455204,-104.643997
+130,'130','Dewdney Ave / York St',50.455213,-104.645557
+131,'131','Dewdney Ave / Connaught St',50.455222,-104.646966
+132,'132','Dewdney Ave / Forget St',50.455212,-104.649825
+133,'133','Dewdney Ave / Mcintosh St',50.455229,-104.652683
+134,'134','Dewdney Ave / Grey St',50.455219,-104.655611
+135,'135','Dewdney Ave / Aberdeen St',50.455209,-104.658511
+136,'136','Dewdney Ave / Grace St',50.455199,-104.661342
+137,'137','Dewdney Ave / Bonner St',50.455216,-104.666037
+138,'138','Dewdney Ave / Ellice St',50.455188,-104.668426
+139,'139','Dewdney Ave / Carlton St',50.455205,-104.671354
+140,'140','Dewdney Ave / Kent St',50.455204,-104.674226
+141,'141','Dewdney Ave / Southam St',50.455202,-104.677085
+142,'142','Dewdney Ave / Dorothy St',50.455201,-104.67993
+143,'143','Dewdney Ave / Easement 7100 Blk',50.45519,-104.683879
+144,'144','Sangster Blvd / Stern Bay',50.487905,-104.630113
+145,'145','Sangster Blvd / Semple Bay',50.488272,-104.626714
+146,'146','Sangster Blvd / Vernon Cr',50.489757,-104.623661
+147,'147','Sangster Blvd / Hyland St',50.491508,-104.626065
+148,'148','Sangster Blvd / Carnegie St',50.491517,-104.629589
+149,'149','Sangster Blvd / Hicke Bay',50.491498,-104.633181
+150,'150','Sangster Blvd / Shore Bay',50.491498,-104.635309
+151,'151','Sangster Blvd / Garuik Cr',50.490938,-104.638528
+152,'152','Rochdale Blvd / Walmart',50.495311,-104.638834
+153,'153','Rochdale Blvd / Pasqua St',50.496713,-104.642248
+155,'155','Sangster Blvd / Mcgee Cr',50.488848,-104.638569
+156,'156','Sangster Blvd / Brockelbank Cr',50.487977,-104.638071
+157,'157','Sangster Blvd / Brockelbank Cr',50.487868,-104.63441
+158,'158','Argyle St N / Sangster Blvd',50.487859,-104.632669
+159,'159','Argyle St N / Mccaul Cr',50.483201,-104.632667
+160,'160','Mcmurchy Ave / Argyle St N',50.482065,-104.632239
+161,'161','Mcmurchy Ave / Mcinnis Cr',50.482074,-104.629793
+162,'162','Mcmurchy Ave / Garnet St',50.482075,-104.62645
+163,'163','Mcmurchy Ave / Lawson St',50.482084,-104.624834
+164,'164','Angus Rd / Mcmurchy Ave',50.481864,-104.620413
+165,'165','Angus Rd / Reilly Ave',50.479966,-104.620399
+166,'166','Smith St / 7th Ave N',50.480434,-104.615177
+167,'167','Albert St / 6th Ave N',50.478601,-104.618119
+168,'168','Albert St / 5th Ave N',50.476868,-104.618147
+169,'169','Albert St / 4th Ave N',50.475319,-104.618133
+170,'170','Albert St / 3rd Ave N',50.473779,-104.618133
+171,'171','Albert St / 2nd Ave N',50.472229,-104.618119
+172,'172','Albert St / Avonhurst Dr',50.470579,-104.618215
+173,'173','Albert St / 1st Ave',50.467499,-104.61816
+174,'174','Albert St / 3rd Ave',50.464337,-104.618132
+175,'175','Albert St / 4th Ave',50.462623,-104.618298
+176,'176','Albert St / 5th Ave',50.461147,-104.618132
+177,'177','Albert St / 6th Ave',50.459653,-104.618145
+178,'178','Albert St / 7th Ave',50.458094,-104.618145
+179,'179','Albert St / 8th Ave',50.456014,-104.618131
+180,'180','11th Ave / Cornwall St',50.450404,-104.611972
+181,'181','Albert St / Dewdney Ave',50.455354,-104.618076
+182,'182','Albert St / 8th Ave',50.45694,-104.618049
+183,'183','Albert St / 7th Ave',50.458498,-104.618076
+184,'184','Albert St / 6th Ave',50.460029,-104.618076
+185,'185','Albert St / 5th Ave',50.461523,-104.618077
+186,'186','Albert St / 4th Ave',50.463228,-104.618077
+187,'187','Albert St / 2nd Ave',50.466693,-104.618091
+188,'188','Albert St / 1st Ave',50.468664,-104.618091
+189,'189','Albert St / Avonhurst Dr',50.471029,-104.618091
+190,'190','Albert St / 2nd Ave N',50.472624,-104.618077
+191,'191','Albert St / 3rd Ave N',50.474145,-104.618077
+192,'192','Albert St / 4th Ave N',50.475685,-104.618091
+193,'193','6th Ave N / Albert St',50.478876,-104.618395
+194,'194','Angus Rd / 6th Ave N',50.479031,-104.620343
+195,'195','Mcmurchy Ave / Angus Rd',50.482102,-104.620675
+196,'196','Mcmurchy Ave / Patton St',50.482111,-104.623079
+197,'197','Mcmurchy Ave / Lawson St',50.482111,-104.625552
+198,'198','Mcmurchy Ave / Garnet St',50.482111,-104.628039
+199,'199','Mcmurchy Ave / Mcinnis Cres',50.482111,-104.63047
+200,'200','Argyle St N / Mcmurchy Ave',50.482331,-104.632626
+201,'201','Sangster Blvd / Argyle St N',50.487868,-104.632254
+202,'202','Rochdale Blvd / Sherwood Mall',50.495606,-104.66614
+203,'203','Rochdale Blvd / Riffel High',50.495635,-104.66303
+204,'204','Rochdale Blvd / Lakeridge Rd',50.496059,-104.655969
+205,'205','Mcintosh St / Rochdale Blvd',50.496363,-104.652073
+206,'206','Mcintosh St / Donnelly Cr',50.493438,-104.652624
+207,'207','Mcintosh St / Tremaine Ave',50.492246,-104.652789
+208,'208','Dalgliesh Dr / Kyle St',50.491192,-104.649458
+209,'209','Dalgliesh Dr / Pasqua Gate',50.489791,-104.643765
+210,'210','Dalgliesh Dr / Rink Ave',50.487444,-104.643764
+211,'211','Dalgliesh Dr / Wells St S',50.485812,-104.646954
+212,'212','Dalgliesh Dr / Cooper Cr',50.485802,-104.650408
+213,'213','Mcintosh St / Dalgliesh Dr',50.485563,-104.652564
+214,'214','Mcintosh St / Rupert Pl',50.482189,-104.652562
+215,'215','Mcintosh St / 7th Ave N',50.480695,-104.652547
+216,'216','Sherwood Dr / Mcintosh St',50.477,-104.652213
+217,'217','Sherwood Dr / Edward St',50.475545,-104.642639
+218,'218','Sherwood Dr / King St',50.475527,-104.639089
+219,'219','Sherwood Dr / Queen St',50.475528,-104.636533
+220,'220','Argyle St / Sherwood Dr',50.474942,-104.632651
+221,'221','Elphinstone St / Avonhurst Dr',50.473769,-104.631187
+222,'222','Elphinstone St / Patricia Ave',50.471843,-104.631186
+223,'223','Elphinstone St / Mckinley Ave',50.469964,-104.631186
+224,'224','Elphinstone St / 1st Ave',50.46748,-104.631199
+225,'225','Elphinstone St / 2nd Ave',50.46594,-104.631198
+226,'226','Elphinstone St / 3rd Ave',50.464308,-104.631184
+227,'227','Elphinstone St / 4th Ave',50.462704,-104.631184
+228,'228','Elphinstone St / 5th Ave',50.46121,-104.631197
+229,'229','Elphinstone St / 6th Ave',50.459643,-104.631183
+230,'230','7th Ave / Elphinstone St',50.458259,-104.630865
+231,'231','7th Ave / Athol St',50.458268,-104.628034
+232,'232','7th Ave / Cameron St',50.458268,-104.625175
+233,'233','7th Ave / Rae St',50.458269,-104.620797
+236,'236','Broad St / Victoria Ave',50.447022,-104.606449
+237,'237','Broad St / 13th Ave',50.445344,-104.60645
+238,'238','Broad St / 14th Ave',50.443823,-104.606464
+239,'239','Broad St / 15th Ave',50.442265,-104.606464
+240,'240','Broad St / College Ave',50.440569,-104.606464
+241,'241','Broad St / Broadway Ave',50.438159,-104.606464
+242,'242','Broad St / Quinn Dr',50.433319,-104.60496
+243,'243','Broad St / Wascana Dr',50.431615,-104.604491
+245,'245','23rd Ave / Hillsdale St',50.423439,-104.601359
+246,'246','23rd Ave / Quincy Dr',50.423723,-104.597577
+247,'247','Wascana Pkwy / 23rd Ave',50.424236,-104.595327
+248,'248','University Dr W / Classroom Bldg',50.419603,-104.593079
+249,'249','University Dr W / Riddell Centre',50.416327,-104.59388
+250,'250','Kramer Blvd / Wascana Pkwy',50.415621,-104.595578
+251,'251','Kramer Blvd / Darke St',50.415603,-104.59809
+252,'252','Hillsdale St / Latta St',50.416254,-104.601636
+253,'253','Macpherson Ave / Hillsdale St',50.416758,-104.604438
+254,'254','Macpherson Ave / Cowan Cr',50.416777,-104.607074
+255,'255','Parliament Ave / Massey Rd',50.415485,-104.609296
+256,'256','Parliament Ave / Bell St',50.415485,-104.612098
+257,'257','Parliament Ave / Procter Pl',50.415485,-104.614403
+258,'258','Parliament Ave / Albert St',50.415476,-104.61777
+259,'259','Parliament Ave / Albert St',50.415467,-104.618377
+260,'260','Parliament Ave / Rae St',50.415457,-104.620737
+261,'261','Rae St / Golden Mile',50.417272,-104.621013
+262,'262','Albert St / 25th Ave',50.418546,-104.618088
+263,'263','Parliament Ave / Albert St',50.415448,-104.617839
+265,'265','Parliament Ave / Bell St',50.415448,-104.611808
+266,'266','Massey Rd / Parliament Ave',50.415787,-104.609034
+267,'267','Macpherson Ave / Knowles St',50.416722,-104.605266
+268,'268','Kramer Blvd / Hillsdale St',50.415567,-104.601388
+269,'269','Kramer Blvd / Centennial St',50.415576,-104.597538
+270,'270','University Dr W / Riddell Centre',50.416354,-104.593853
+271,'271','University Dr W / Classroom Bldg',50.419452,-104.593051
+272,'272','23rd Ave / Wascana Pkwy',50.424328,-104.5957
+273,'273','23rd Ave / Hillsdale St',50.423467,-104.599675
+277,'277','Broad St / Lakeshore Dr',50.428773,-104.602214
+278,'278','Broad St / Wascana Dr',50.431935,-104.604629
+279,'279','Broad St / Quinn Dr',50.434547,-104.605084
+280,'280','Broad St / Broadway Ave',50.437884,-104.606423
+281,'281','Broad St / College Ave',50.440972,-104.606422
+282,'282','Broad St / 15th Ave',50.442576,-104.606422
+283,'283','Broad St / 14th Ave',50.444144,-104.606422
+284,'284','Broad St / 13th Ave',50.445702,-104.606394
+286,'286','5th Ave / Albert St',50.461404,-104.618242
+287,'287','5th Ave / Rae St',50.461385,-104.621212
+288,'288','5th Ave / Robinson St',50.461385,-104.624043
+289,'289','5th Ave / Garnet St',50.461394,-104.626957
+290,'290','5th Ave / Montague St',50.461394,-104.629871
+291,'291','5th Ave / Elphinstone St',50.461393,-104.631335
+292,'292','5th Ave / Mctavish St',50.461402,-104.634153
+293,'293','5th Ave / Queen St',50.461411,-104.637081
+294,'294','5th Ave / King St',50.461411,-104.638489
+295,'295','Pasqua St / 5th Ave',50.461548,-104.640934
+296,'296','4th Ave / Pasqua St',50.462941,-104.64139
+297,'297','1st Ave N / Alexandra St',50.47097,-104.644004
+298,'298','1st Ave N / York St',50.47097,-104.645427
+299,'299','1st Ave N / Arthur St',50.47097,-104.648314
+300,'300','1st Ave N / Royal St',50.470969,-104.651187
+301,'301','Mcintosh St / 2nd Ave N',50.472545,-104.652473
+302,'302','Mcintosh St / Royal St',50.474379,-104.652502
+303,'303','Sherwood Dr / Mcintosh St',50.477037,-104.652876
+304,'304','Sherwood Dr / Milne St',50.477027,-104.656385
+305,'305','Sherwood Dr / Atchison Cr',50.477035,-104.660308
+306,'306','Mccarthy Blvd / Sherwood Dr',50.477171,-104.663928
+307,'307','Mccarthy Blvd / Krivel Cr',50.47938,-104.663943
+308,'308','Mccarthy Blvd / 7th Ave N',50.481021,-104.663945
+309,'309','Rink Ave / Mccarthy Blvd',50.488135,-104.66413
+310,'310','Rink Ave / Burgess St',50.487932,-104.668648
+311,'311','Rink Ave / Fyfe St',50.487711,-104.671453
+312,'312','Rink Ave / Markwell Dr',50.487719,-104.674188
+313,'313','Rink Ave / Kelsey St',50.487717,-104.679342
+314,'314','Rink Ave / Nelles St',50.488045,-104.683239
+315,'315','Rink Ave / Courtney St',50.488409,-104.687591
+316,'316','Dalgliesh Dr / Courtney St',50.491463,-104.686918
+317,'317','Dalgliesh Dr / Vanier Dr',50.491465,-104.682704
+318,'318','Dalgliesh Dr / Battel St',50.491961,-104.679333
+319,'319','Dalgliesh Dr / Landsdown Ave',50.491964,-104.673695
+320,'320','Devonshire Dr / Hopkins Cr',50.493367,-104.671693
+321,'321','Rochdale Blvd / Devonshire Dr',50.495082,-104.671515
+322,'322','Rochdale Blvd / Radway St',50.495706,-104.668765
+323,'323','Rochdale Blvd / Lakewood Crt',50.495799,-104.666223
+324,'324','Rochdale Blvd / Radway St',50.495734,-104.66889
+325,'325','Rochdale Blvd / Engle Dr',50.495412,-104.670948
+326,'326','Devonshire Dr / Rochdale Blvd',50.49488,-104.672164
+327,'327','Dalgliesh Dr / Devonshire Dr',50.492001,-104.671871
+328,'328','Dalgliesh Dr / Heffernan Dr',50.491991,-104.675118
+329,'329','Dalgliesh Dr / Arnason St',50.491988,-104.680714
+330,'330','Dalgliesh Dr / Courtney St',50.491499,-104.686725
+331,'331','Rink Ave / Courtney St',50.488382,-104.687633
+332,'332','Rink Ave / Nelles St',50.487962,-104.682866
+333,'333','Rink Ave / Church Dr',50.487671,-104.677877
+334,'334','Rink Ave / Markwell Dr',50.487673,-104.673857
+335,'335','Rink Ave / Burgess St',50.487877,-104.668758
+336,'336','Mccarthy Blvd / Rink Ave',50.488099,-104.66395
+337,'337','Mccarthy Blvd / 7th Ave N',50.481104,-104.663986
+338,'338','Mccarthy Blvd / Krivel Cr',50.479124,-104.663985
+339,'339','Sherwood Dr / Mccarthy Blvd',50.476997,-104.663734
+340,'340','Sherwood Dr / Hanbidge Cr',50.476998,-104.660543
+341,'341','Sherwood Dr / Hanbidge Cr',50.476999,-104.655791
+342,'342','Mcintosh St / Sherwood Dr',50.476973,-104.652545
+343,'343','Mcintosh St / 3rd Ave N',50.473847,-104.652501
+344,'344','Mcintosh St / 2nd Ave N',50.472316,-104.652514
+345,'345','1st Ave N / Mcintosh St',50.470941,-104.652306
+346,'346','1st Ave N / Forget St',50.470951,-104.649543
+347,'347','1st Ave N / Connaught St',50.470952,-104.646601
+348,'348','1st Ave N / Alexandra St',50.470943,-104.643714
+349,'349','4th Ave / Lewvan Dr',50.462913,-104.642426
+350,'350','Pasqua St / 4th Ave',50.462822,-104.64099
+351,'351','5th Ave / Pasqua St',50.461374,-104.640768
+352,'352','5th Ave / King St',50.461374,-104.638199
+353,'353','5th Ave / Princess St',50.461375,-104.635327
+354,'354','5th Ave / Argyle St',50.461366,-104.63244
+355,'355','5th Ave / Elphinstone St',50.461366,-104.630962
+356,'356','5th Ave / Montague St',50.461366,-104.629553
+357,'357','5th Ave / Garnet St',50.461366,-104.626598
+358,'358','5th Ave / Robinson St',50.461357,-104.623767
+359,'359','5th Ave / Rae St',50.461358,-104.620949
+360,'360','Albert St / 12th Ave',50.448553,-104.618131
+361,'361','Albert St / Victoria Ave',50.446857,-104.618297
+362,'362','Albert St / 13th Ave',50.445418,-104.618103
+363,'363','Albert St / 14th Ave',50.443823,-104.618117
+364,'364','Albert St / 15th Ave',50.442127,-104.618213
+365,'365','Albert St / College Ave',50.440927,-104.618117
+366,'366','Albert St / 19th Ave',50.437563,-104.618089
+367,'367','Albert St / Regina Ave',50.434777,-104.618089
+368,'368','Albert St / 20th Ave',50.433164,-104.618089
+369,'369','Albert St / Mccallum Ave',50.431587,-104.618102
+370,'370','Albert St / 21st Ave',50.42991,-104.618088
+371,'371','Albert St / Hill Ave',50.428251,-104.618102
+372,'372','Albert St / 22nd Ave',50.426583,-104.618102
+373,'373','Albert St / Assiniboine Ave',50.424897,-104.618116
+374,'374','23rd Ave / Albert St',50.423403,-104.617743
+375,'375','Memorial Way / Wascana Rehab',50.423885,-104.61091
+376,'376','Scott St / Lamont Cr',50.422798,-104.608412
+377,'377','Jubilee Ave / Scott St',50.420974,-104.608233
+378,'378','Jubilee Ave / Turgeon Cr',50.421304,-104.604865
+382,'382','University Dr E / Luther College',50.418011,-104.583694
+383,'383','Wascana Pkwy / Kramer Blvd',50.415365,-104.595468
+384,'384','Saskatchewan Polytechnic / Main Campus',50.407435,-104.58196
+385,'385','Saskatchewan Polytechnic / Parkway Building',50.406701,-104.576552
+387,'387','Jubilee Ave / Hillsdale St',50.42178,-104.601884
+388,'388','Jubilee Ave / Turgeon Cr',50.42124,-104.605169
+389,'389','Scott St / Jubilee Ave',50.421203,-104.608357
+390,'390','Memorial Way / Wascana Rehab',50.42398,-104.610745
+391,'391','Albert St / 23rd Ave',50.423651,-104.618047
+392,'392','Albert St / 22nd Ave',50.427014,-104.618061
+393,'393','Albert St / Hill Ave',50.428554,-104.618061
+394,'394','Albert St / 21st Ave',50.430203,-104.618047
+395,'395','Albert St / Mccallum Ave',50.431844,-104.618047
+396,'396','Albert St / 20th Ave',50.433173,-104.618033
+397,'397','Albert St / Regina Ave',50.434703,-104.618061
+398,'398','Albert St / 19th Ave',50.437646,-104.618047
+399,'399','Albert St / Leopold Cr',50.439396,-104.618061
+400,'400','Albert St / College Ave',50.440945,-104.618075
+401,'401','Albert St / 15th Ave',50.44254,-104.618075
+402,'402','Albert St / 14th Ave',50.444135,-104.618075
+403,'403','Albert St / 13th Ave',50.445858,-104.617965
+404,'404','Albert St / Victoria Ave',50.447334,-104.618089
+405,'405','7th Ave / Albert St',50.458305,-104.618132
+406,'406','7th Ave / Rae St',50.458296,-104.621253
+407,'407','7th Ave / Robinson St',50.458296,-104.624084
+408,'408','7th Ave / Garnet St',50.458296,-104.62697
+409,'409','7th Ave / Athol St',50.458295,-104.628406
+410,'410','Elphinstone St / 7th Ave',50.458799,-104.631141
+411,'411','Elphinstone St / 5th Ave',50.46154,-104.631156
+412,'412','Elphinstone St / 4th Ave',50.46308,-104.631156
+413,'413','Elphinstone St / 3rd Ave',50.464684,-104.631143
+414,'414','Elphinstone St / 2nd Ave',50.466288,-104.631157
+415,'415','Elphinstone St / 1st Ave',50.467819,-104.631144
+416,'416','Elphinstone St / Mckinley Ave',50.469863,-104.631158
+417,'417','Elphinstone St / Patricia Ave',50.472568,-104.631145
+418,'418','Argyle St N / Sherwood Dr',50.474694,-104.632596
+419,'419','Sherwood Dr / Argyle St N',50.475556,-104.632872
+420,'420','Sherwood Dr / Queen St',50.475565,-104.636644
+421,'421','Sherwood Dr / Carey St',50.475555,-104.638605
+422,'422','Sherwood Dr / Edward St',50.475664,-104.642736
+423,'423','Sherwood Dr / Ellison Cr',50.476232,-104.645513
+425,'425','Sherwood Dr / Stapleford Cr',50.476781,-104.648773
+426,'426','Mcintosh St / Sherwood Dr',50.47723,-104.652503
+427,'427','Mcintosh St / Alcove Pl',50.479155,-104.652491
+428,'428','Mcintosh St / Rupert Pl',50.482418,-104.65252
+429,'429','Mcintosh St / Dalgliesh Dr',50.485389,-104.652522
+430,'430','Dalgliesh Dr / Cooper Cr',50.485775,-104.647866
+431,'431','Dalgliesh Dr / Kennedy Cr',50.486133,-104.643984
+432,'432','Dalgliesh Dr / Rink Ave',50.487783,-104.643722
+433,'433','Dalgliesh Dr / Wheeler Cr',50.490525,-104.643724
+434,'434','Dalgliesh Dr / Wells St',50.491221,-104.647206
+435,'435','Dalgliesh Dr / Kyle St',50.49122,-104.650039
+436,'436','Mcintosh St / Tremaine Ave',50.492567,-104.652706
+437,'437','Mcintosh St / Juniper Dr',50.494309,-104.652445
+438,'438','Mcintosh St / Marigold Dr',50.495812,-104.651934
+439,'439','Rochdale Blvd / Mcintosh St',50.496518,-104.652778
+440,'440','Rochdale Blvd / Lakeridge Rd',50.496013,-104.657337
+441,'441','Rochdale Blvd / Mccarthy Blvd',50.495736,-104.662063
+442,'442','Rochdale Blvd / Mccarthy Blvd',50.495836,-104.66426
+443,'443','Sherwood Dr / Herman Cr',50.481156,-104.706206
+444,'444','Sherwood Dr / Fairway Rd',50.481315,-104.701039
+445,'445','Sherwood Dr / Warwick Dr',50.481684,-104.697849
+446,'446','Sherwood Dr / Doiron Rd',50.481603,-104.695279
+447,'447','Sherwood Dr / Venture Rd',50.480955,-104.690221
+448,'448','Sherwood Dr / Goldie St',50.480958,-104.684723
+449,'449','Sherwood Dr / Dorothy St',50.480592,-104.681711
+450,'450','Dorothy St / Sherwood Dr',50.480217,-104.681503
+452,'452','Dorothy St / 1060 Dorothy Dy',50.476714,-104.682715
+453,'453','Dorothy St / 1st Ave N',50.475293,-104.6827
+454,'454','1st Ave N / Greenwood St',50.475056,-104.679205
+455,'455','1st Ave N / Greenwood Cr',50.475049,-104.675986
+458,'458','7th Ave N / Sherwood Dr',50.479324,-104.668848
+459,'459','7th Ave N / Mccarthy Blvd',50.480874,-104.664732
+460,'460','7th Ave N / Champ Cr',50.480876,-104.658985
+461,'461','7th Ave N / Milne St',50.480877,-104.655904
+462,'462','Stapleford Cr / Sherwood Dr',50.476882,-104.648469
+463,'463','Stapleford Cr / Eddy St',50.479239,-104.646191
+464,'464','Stapleford Cr / Drope St',50.48044,-104.643387
+465,'465','Donahue Ave / Pasqua St',50.480606,-104.640831
+466,'466','Donahue Ave / Derby St',50.480616,-104.637074
+467,'467','Argyle St N / Donahue Ave',50.480442,-104.632639
+468,'468','6th Ave N / Argyle St N',50.479278,-104.632266
+471,'471','Garnet St / Woodward Ave',50.477903,-104.626878
+472,'472','Garnet St / 4th Ave N',50.475456,-104.626891
+473,'473','Garnet St / 3rd Ave N',50.474062,-104.626891
+474,'474','Avonhurst Dr / Patricia Ave',50.47222,-104.62678
+475,'475','Avonhurst Dr / Retallack St',50.470744,-104.622332
+480,'480','Avonhurst Dr / Albert St',50.470873,-104.618367
+481,'481','Avonhurst Dr / Retallack St',50.470763,-104.622774
+482,'482','Avonhurst Dr / Patricia Ave',50.472293,-104.626807
+483,'483','Garnet St / Avonhurst Dr',50.472788,-104.627153
+484,'484','Garnet St / 3rd Ave N',50.474237,-104.626835
+485,'485','Garnet St / 4th Ave N',50.475914,-104.626836
+486,'486','Garnet St / Woodward Ave',50.478435,-104.62685
+487,'487','6th Ave N / Garnet St',50.479471,-104.629475
+488,'488','Argyle St N / 6th Ave N',50.47959,-104.632583
+489,'489','Donahue Ave / Argyle St N',50.480653,-104.632998
+490,'490','Donahue Ave / Derby St',50.480652,-104.637571
+491,'491','Stapleford Cr / Pasqua St',50.480642,-104.641453
+492,'492','Stapleford Cr / Drope St',50.480293,-104.643995
+493,'493','Stapleford Cr / Eddy St',50.479046,-104.646564
+494,'494','7th Ave N / Mcintosh St',50.480906,-104.652796
+495,'495','7th Ave N / Pickard St',50.480904,-104.657811
+496,'496','7th Ave N / Hanley Cr',50.480903,-104.66161
+497,'497','7th Ave N / Mccarthy Blvd',50.480902,-104.665174
+507,'507','Sherwood Dr / Dorothy St',50.480574,-104.681435
+508,'508','Sherwood Dr / Goldie St',50.480985,-104.685248
+509,'509','Sherwood Dr / Courtney St',50.480983,-104.688301
+510,'510','Sherwood Dr / Discovery Rd',50.481055,-104.690788
+511,'511','Sherwood Dr / Doiron Rd',50.481685,-104.695914
+512,'512','Sherwood Dr / Fairway Rd',50.481278,-104.701537
+513,'513','Dewdney Ave / Cavendish St',50.45516,-104.558556
+514,'514','9th Ave / Cavendish St',50.453491,-104.558226
+515,'515','Oxford St / 10th Ave',50.45176,-104.560686
+516,'516','Cambridge Ave / Oxford St',50.450367,-104.560439
+517,'517','Cambridge Ave / Cavendish St',50.450375,-104.55776
+518,'518','Cambridge Ave / Glencairn Rd',50.450374,-104.554791
+519,'519','Fleet St / Cambridge Ave',50.450279,-104.549088
+520,'520','University Park Dr / Vic Sq Mall',50.445082,-104.549273
+521,'521','Quance St / University Park Dr',50.44368,-104.549026
+522,'522','Quance St / Heseltine Gate',50.443798,-104.546181
+523,'523','Quance St / Coleman St',50.445968,-104.542023
+524,'524','Quance St / Westfair Rd',50.44438,-104.53675
+525,'525','Quance St / Tregarva Dr',50.443535,-104.534073
+526,'526','Quance St / Prince Of Wales Dr',50.443562,-104.532512
+528,'528','Westfair Rd / Superstore',50.445568,-104.530218
+529,'529','Westfair Rd / Prince Of Wales',50.444863,-104.532511
+530,'530','Prince Of Wales Dr / Westfair Rd',50.444634,-104.53305
+531,'531','Quance St / Prince Of Wales Dr',50.443648,-104.533188
+532,'532','Quance St / Westfair Rd',50.444847,-104.537067
+533,'533','Coleman Cr / Eastgate Dr',50.447856,-104.540571
+534,'534','Fines Dr / Fines Dr',50.449486,-104.539381
+535,'535','Brown St / Thompson Ave',50.451962,-104.540552
+536,'536','Brown St / Dewdney Ave',50.455262,-104.540548
+537,'537','Brown St / Mackenzie Cr',50.457407,-104.540601
+538,'538','7th Ave E / Brown St',50.459158,-104.54129
+539,'539','7th Ave E / Mcveety Dr',50.45944,-104.537395
+540,'540','Mcveety Dr / Barton Pl',50.456708,-104.536528
+541,'541','Mcveety Dr / Swan Pl',50.456522,-104.532523
+542,'542','Mcveety Dr / Creekside Rd',50.458427,-104.529786
+543,'543','Mcveety Dr / Degelman Dr',50.460032,-104.530475
+544,'544','Wadey Dr / Deutsch Dr',50.463084,-104.530871
+545,'545','Jenkins Dr / Cormorant Dr',50.464588,-104.531822
+546,'546','Jenkins Dr / Cherry Dr',50.464444,-104.535469
+547,'547','Graham Rd / Jenkins Dr',50.463061,-104.538578
+548,'548','Graham Rd / Hartman Cr',50.463384,-104.54221
+549,'549','Graham Rd / Hall Ave',50.461268,-104.546411
+550,'550','Bentley Dr / 7th Ave E',50.458472,-104.545268
+551,'551','Dewdney Ave / Bentley Dr',50.455172,-104.545092
+552,'552','Dewdney Ave / Fleet St',50.455174,-104.548876
+553,'553','Cannon St / Nagel Cr',50.456019,-104.552576
+554,'554','Cannon St / Scrivener Cr',50.459355,-104.552573
+555,'555','Cannon St / Young Cr',50.461225,-104.552598
+556,'556','Cavendish St / Armstrong Bay',50.460888,-104.556328
+557,'557','Cavendish St / 7th Ave E',50.458184,-104.55825
+558,'558','Dewdney Ave / Cavendish St',50.455187,-104.558045
+559,'559','Dewdney Ave / Oxford St',50.455179,-104.56089
+560,'560','Dewdney Ave / Rupert St',50.455172,-104.566607
+561,'561','Dewdney Ave / Lacon St',50.455182,-104.56948
+562,'562','Park St / Dewdney Ave',50.454954,-104.572339
+563,'563','Park St / 9th Ave',50.453368,-104.572298
+564,'564','Park St / 10th Ave',50.451819,-104.572299
+565,'565','Park St / 11th Ave',50.450297,-104.5723
+566,'566','Victoria Ave / Park St',50.447199,-104.572427
+567,'567','Victoria Ave / Embury St',50.447191,-104.575658
+568,'568','Victoria Ave / Fleury St',50.447201,-104.577176
+569,'569','Victoria Ave / Francis St',50.447192,-104.579496
+570,'570','Victoria Ave / Mcara St',50.447193,-104.582078
+571,'571','Victoria Ave / Lindsay St',50.447193,-104.584564
+572,'572','Victoria Ave / Edgar St',50.447194,-104.588071
+573,'573','Victoria Ave / Reynolds St',50.447194,-104.589521
+574,'574','Victoria Ave / Atkinson St',50.447194,-104.59242
+575,'575','Victoria Ave / Winnipeg St',50.447186,-104.595306
+576,'576','Victoria Ave / Montreal St',50.447186,-104.597819
+577,'577','Victoria Ave / Ottawa St',50.447186,-104.600733
+578,'578','Victoria Ave / Halifax St',50.447187,-104.603591
+579,'579','Victoria Ave / Osler St',50.447196,-104.605151
+580,'580','Albert St / 23rd Ave',50.423339,-104.618088
+581,'581','Albert St / Lakeview Ave',50.422367,-104.618074
+582,'582','Albert St / 24th Ave',50.42047,-104.618088
+583,'583','25th Ave / Albert St',50.418738,-104.618074
+584,'584','Rae St / Golden Mile',50.417602,-104.621055
+585,'585','Parliament Ave / Rae St',50.41543,-104.620806
+586,'586','Massey Rd / Parliament Ave',50.415292,-104.609062
+587,'587','Massey Rd / Parker Ave',50.412479,-104.609076
+588,'588','Massey Rd / Balfour Dr',50.410032,-104.609062
+589,'589','Grant Dr / Durham Dr',50.407924,-104.608138
+590,'590','Grant Dr / Castle Rd',50.407942,-104.60259
+591,'591','Grant Dr / Grant Rd',50.407447,-104.598299
+592,'592','Grant Rd / Capitol Rd',50.404955,-104.6003
+593,'593','Grant Rd / Castle Rd',50.402224,-104.602246
+594,'594','Grant Rd / Orchard Rd',50.401354,-104.605862
+595,'595','Grant Rd / Shannon Rd',50.401821,-104.612098
+596,'596','Gordon Rd / Grant Rd',50.404589,-104.613464
+597,'597','Gordon Rd / Richardson Cr',50.40458,-104.616196
+598,'598','Gordon Rd / Rae St',50.40457,-104.620791
+599,'599','Lockwood Rd / Gordon Rd',50.404937,-104.625593
+600,'600','Lockwood Rd / Lincoln Dr',50.402756,-104.625662
+601,'601','Plainsview Dr / Lockwood Rd',50.401308,-104.625344
+602,'602','Southland Mall / Plainsview Rd',50.402032,-104.624779
+603,'603','Lockwood Rd / Lincoln Dr',50.402655,-104.62562
+604,'604','Lockwood Rd / Gordon Rd',50.404726,-104.625552
+605,'605','Gordon Rd / Montague St',50.405459,-104.629774
+606,'606','Gordon Rd / Argyle St',50.405458,-104.632755
+607,'607','Queen St / Gordon Rd',50.405824,-104.636908
+608,'608','Sunset Dr / Queen St',50.408784,-104.636785
+609,'609','Sunset Dr / Mctavish St',50.408775,-104.63368
+610,'610','Montague St / Sunset Dr',50.408932,-104.629651
+611,'611','Montague St / 29th Ave',50.412002,-104.629638
+612,'612','Parliament Ave / Montague St',50.415264,-104.62917
+613,'613','Parliament Ave / Garnet St',50.41542,-104.626658
+614,'614','Parliament Ave / Robinson St',50.41543,-104.62376
+615,'615','Albert St / 25th Ave',50.418857,-104.618019
+616,'616','Albert St / 24th Ave',50.420718,-104.618046
+617,'617','Albert St / 23rd Ave',50.423211,-104.618033
+618,'618','Victoria Ave / Broad St',50.447159,-104.606242
+619,'619','Victoria Ave / Halifax St',50.447159,-104.603329
+620,'620','Victoria Ave / Ottawa St',50.447159,-104.600429
+621,'621','Victoria Ave / Montreal St',50.447158,-104.597474
+622,'622','Victoria Ave / Winnipeg St',50.447158,-104.594947
+623,'623','Victoria Ave / Atkinson St',50.447167,-104.592061
+624,'624','Victoria Ave / Reynolds St',50.447166,-104.589203
+625,'625','Victoria Ave / Lindsay St',50.447166,-104.584909
+626,'626','Victoria Ave / Mcara St',50.447156,-104.581899
+627,'627','Victoria Ave / Mackay St',50.447156,-104.580739
+628,'628','Victoria Ave / Harvey St',50.447155,-104.578198
+629,'629','Victoria Ave / Abbott St',50.447163,-104.574084
+630,'630','Park St / Service Rd',50.447694,-104.572247
+631,'631','Park St / 11th Ave',50.450499,-104.572259
+632,'632','Park St / 10th Ave',50.452057,-104.572244
+633,'633','Park St / 9th Ave',50.453588,-104.572257
+634,'634','Dewdney Ave / Park St',50.455146,-104.572104
+635,'635','Dewdney Ave / Lacon St',50.455154,-104.569121
+636,'636','Dewdney Ave / Rupert St',50.455144,-104.566304
+637,'637','Dewdney Ave / Grosvenor St',50.455152,-104.562036
+638,'638','Garrett Ave / Shaw St',50.449853,-104.661971
+640,'640','11th Ave / Empress St',50.450469,-104.653355
+641,'641','11th Ave / Royal St',50.45047,-104.650594
+642,'642','11th Ave / Forget St',50.450461,-104.649185
+643,'643','11th Ave / Connaught St',50.450462,-104.646382
+644,'644','11th Ave / Alexandr St',50.450471,-104.644076
+645,'645','13th Ave / Lewvan Dr',50.445421,-104.642983
+646,'646','13th Ave / Pasqua St',50.445412,-104.640788
+647,'647','13th Ave / King St',50.445413,-104.638178
+648,'648','13th Ave / Princess St',50.445422,-104.635292
+649,'649','13th Ave / Argyle St',50.445423,-104.632379
+650,'650','13th Ave / Montague St',50.445423,-104.629534
+651,'651','13th Ave / Garnet St',50.445423,-104.626676
+652,'652','13th Ave / Robinson St',50.445432,-104.623749
+653,'653','13th Ave / Rae St',50.445432,-104.620877
+654,'654','13th Ave / Angus St',50.445432,-104.619427
+656,'656','11th Ave / Halifax St',50.45029,-104.603575
+657,'657','11th Ave / Ottawa St',50.45028,-104.600441
+658,'658','11th Ave / Montreal St',50.45028,-104.597555
+659,'659','Winnipeg St / 11th Ave',50.450536,-104.595069
+660,'660','Winnipeg St / Saskatchewan Dr',50.452058,-104.595068
+661,'661','Winnipeg St / 9th Ave',50.453359,-104.595068
+662,'662','Winnipeg St / Dewdney Ave',50.454734,-104.595081
+663,'663','Winnipeg St / 8th Ave',50.456815,-104.59508
+664,'664','Winnipeg St / 7th Ave',50.458373,-104.595066
+665,'665','6th Ave / Winnipeg St',50.45972,-104.595024
+666,'666','6th Ave / Atkinson St',50.459738,-104.592152
+667,'667','6th Ave / Broder St',50.459738,-104.590715
+668,'668','6th Ave / Edgar St',50.459747,-104.587856
+669,'669','6th Ave / Lindsay St',50.459737,-104.584956
+673,'673','4th Ave / Park St',50.46302,-104.573659
+674,'674','4th Ave / Fleury St',50.463016,-104.576999
+675,'675','4th Ave / Mcdonald St',50.463018,-104.58338
+676,'676','4th Ave / Lindsay St',50.463018,-104.585258
+677,'677','4th Ave / Edgar St',50.463019,-104.588186
+678,'678','4th Ave / Broder St',50.46302,-104.591004
+679,'679','4th Ave / Winnipeg St',50.46302,-104.594388
+680,'680','Winnipeg St / 5th Ave',50.461425,-104.595314
+681,'681','Winnipeg St / 6th Ave',50.459656,-104.595314
+682,'682','Winnipeg St / 7th Ave',50.458126,-104.595329
+683,'683','Winnipeg St / 8th Ave',50.456971,-104.595329
+684,'684','Winnipeg St / Dewdney Ave',50.454688,-104.59533
+685,'685','Winnipeg St / Saskatchewan Dr',50.451792,-104.595317
+686,'686','11th Ave / Winnipeg St',50.450454,-104.5954
+687,'687','11th Ave / Montreal St',50.450449,-104.598371
+688,'688','11th Ave / Ottawa St',50.450454,-104.601241
+689,'689','11th Ave / Halifax St',50.450455,-104.603658
+690,'690','11th Ave / Broad St',50.450464,-104.606185
+691,'691','13th Ave / Albert St',50.445601,-104.618614
+692,'692','13th Ave / Rae St',50.445601,-104.6215
+693,'693','13th Ave / Robinson St',50.445597,-104.624136
+694,'694','13th Ave / Garnet St',50.445588,-104.627008
+695,'695','13th Ave / Montague St',50.445579,-104.629907
+696,'696','13th Ave / Elphinstone St',50.445588,-104.631357
+697,'697','13th Ave / Mctavish St',50.445587,-104.634229
+698,'698','13th Ave / Queen St',50.445578,-104.637101
+699,'699','13th Ave / King St',50.445578,-104.638523
+700,'700','13th Ave / Pasqua St',50.445577,-104.641147
+701,'701','13th Ave / Edward St',50.445586,-104.642624
+702,'702','Alexandra St / 11th Ave',50.4507,-104.64362
+703,'703','10th Ave / York St',50.452185,-104.644836
+704,'704','10th Ave / Connaught St',50.452176,-104.646369
+705,'705','10th Ave / Arthur St',50.452184,-104.648634
+706,'706','10th Ave / Royal St',50.452193,-104.650953
+707,'707','Empress St / 10th Ave',50.451917,-104.653674
+708,'708','Empress St / 11th Ave',50.450753,-104.653673
+710,'710','Cavendish St / Bradley Ave',50.456727,-104.558072
+711,'711','Cavendish St / 7th Ave E',50.458505,-104.558084
+712,'712','Cavendish St / Rootman Ave',50.460265,-104.558096
+713,'713','Cavendish St / Cooksley Bay',50.460942,-104.555471
+714,'714','Cannon St / Cavendish St',50.461299,-104.552778
+715,'715','Cannon St / Rosen Cr',50.459869,-104.55271
+716,'716','Cannon St / 7th Ave E',50.458118,-104.552726
+717,'717','Dewdney Ave / Cannon St',50.455075,-104.552314
+718,'718','Dewdney Ave / Fleet St',50.455074,-104.549649
+719,'719','Bentley Dr / Dewdney Ave',50.455346,-104.54476
+720,'720','Graham Rd / 7th Ave E',50.458866,-104.545267
+721,'721','Graham Rd / Hall Ave',50.461232,-104.546232
+722,'722','Graham Rd / Pawson St',50.463036,-104.54355
+723,'723','Graham Rd / Brown St',50.463347,-104.541823
+724,'724','Jenkins Dr / Graham Rd',50.463308,-104.538205
+725,'725','Jenkins Dr / Middleton Cr',50.464416,-104.534958
+726,'726','Wadey Dr / Jenkins Dr',50.464304,-104.530994
+727,'727','Wadey Dr / Bercovich Cr',50.462819,-104.530982
+728,'728','Wadey Dr / 7th Ave E',50.461022,-104.530708
+729,'729','Mcveety Dr / Hammstrom Way',50.458409,-104.529938
+730,'730','Mcveety Dr / Swan Pl',50.456395,-104.534512
+731,'731','Mcveety Dr / Gould Bay',50.459137,-104.537064
+732,'732','Brown St / 7th Ave E',50.458782,-104.541304
+733,'733','Brown St / Mackenzie Way',50.457507,-104.540781
+734,'734','Brown St / Dewdney Ave',50.454923,-104.540687
+735,'735','Brown St / Peart Cres',50.453117,-104.540675
+736,'736','Fines Dr / Thomson Ave',50.45164,-104.539517
+737,'737','Fines Dr / Fines Dr',50.449303,-104.539962
+738,'738','Quance St / Starlite St',50.445117,-104.544716
+739,'739','Quance St / Coleman St',50.446095,-104.540103
+740,'740','Quance St / Coleman Cres',50.446151,-104.541374
+741,'741','Quance St / Starlite St',50.444723,-104.545269
+742,'742','University Park Dr / Quance St',50.443946,-104.549108
+743,'743','University Park Dr / Vic Square',50.445376,-104.549107
+744,'744','Fleet St / North Service Rd',50.4483,-104.54909
+745,'745','Fleet St / Fines Dr',50.4495,-104.549089
+746,'746','Cambridge Ave / Milford Cres',50.450464,-104.551214
+747,'747','Cambridge Ave / Glencairn Rd',50.450465,-104.555191
+748,'748','Cambridge Ave / Cavendish St',50.450458,-104.558395
+749,'749','Oxford St / 10th Ave',50.452163,-104.560506
+750,'750','Oxford St / Cambridge Ave',50.450678,-104.560535
+751,'751','9th Ave / Oxford St',50.453382,-104.560339
+752,'752','Cavendish St / 9th Ave',50.45373,-104.557757
+753,'753','Parliament Ave / Rae St',50.415512,-104.621331
+754,'754','Parliament Ave / Robinson St',50.415521,-104.624215
+755,'755','Parliament Ave / Garnet St',50.415521,-104.626906
+756,'756','Montague St / Parliament Ave',50.415218,-104.629791
+757,'757','Montague St / 28th Ave',50.413596,-104.629776
+758,'758','Montague St / 29th Ave',50.411681,-104.62979
+759,'759','Montague St / Simpson Rd',50.41037,-104.629789
+760,'760','Sunset Dr / Montague St',50.408858,-104.630079
+761,'761','Sunset Dr / Argyle St',50.408867,-104.63288
+762,'762','Sunset Dr / Queen St',50.408867,-104.636523
+763,'763','Queen St / Prospect Pl',50.407015,-104.637033
+764,'764','Gordon Rd / Queen St',50.405457,-104.637598
+765,'765','Pasqua St / Gordon Rd',50.4052,-104.641034
+766,'766','Pasqua St / Lincoln Dr',50.403679,-104.641033
+767,'767','Ryan Rd / Pasqua St',50.401975,-104.640495
+768,'768','Ryan Rd / Queen St',50.401975,-104.637169
+769,'769','Gordon Rd / Queen St',50.405357,-104.636605
+770,'770','Gordon Rd / Mctavish St',50.405348,-104.633583
+771,'771','Gordon Rd / Montague St',50.405349,-104.630119
+772,'772','Gordon Rd / Lockwood Rd',50.404937,-104.625152
+773,'773','Gordon Rd / Rae St',50.404689,-104.622889
+774,'774','Gordon Rd / Albert St',50.404479,-104.617135
+775,'775','Grant Rd / Gordon Rd',50.404296,-104.613437
+776,'776','Grant Rd / Marsh Cres',50.403013,-104.613437
+777,'777','Grant Rd / Shannon Rd',50.401748,-104.612222
+778,'778','Grant Rd / Wesley Rd',50.401253,-104.609187
+779,'779','Grant Rd / Chisholm Rd',50.401253,-104.606731
+780,'780','Grant Rd / Birchwood Rd',50.401262,-104.604247
+781,'781','Grant Rd / Norris Rd',50.401748,-104.60266
+782,'782','Grant Rd / Mcdougall Cres',50.403708,-104.600218
+783,'783','Grant Rd / Shannon Rd',50.4061,-104.599086
+784,'784','Grant Dr / Grant Rd',50.40753,-104.59823
+785,'785','Grant Dr / Cowburn Cres',50.408043,-104.601252
+786,'786','Grant Dr / Castle Rd',50.408034,-104.60328
+787,'787','Massey Rd / Grant Dr',50.408291,-104.608924
+788,'788','Massey Rd / Balfour Dr',50.410729,-104.608924
+789,'789','Massey Rd / Parker Ave',50.412186,-104.60891
+790,'790','Massey Rd / Davis Pl',50.414513,-104.60891
+791,'791','14th Ave / Broad St',50.443878,-104.606118
+792,'792','Halifax St / 14th Ave',50.443759,-104.603592
+793,'793','Halifax St / 15th Ave',50.442228,-104.603606
+794,'794','Halifax St / College Ave',50.440908,-104.603606
+795,'795','College Ave / St John St',50.440679,-104.601756
+796,'796','College Ave / Ottawa St',50.440679,-104.600292
+797,'797','College Ave / Montreal St',50.440688,-104.597434
+798,'798','College Ave / Wallace St',50.440779,-104.593486
+799,'799','College Ave / Broder St',50.440787,-104.590628
+800,'800','College Ave / Edgar St',50.440787,-104.587715
+801,'801','College Ave / Lindsay St',50.440786,-104.584829
+802,'802','College Ave / Mcara St',50.440786,-104.581957
+803,'803','College Ave / Francis St',50.440785,-104.579086
+804,'804','College Ave / Abbott St',50.440794,-104.577277
+805,'805','Park St / Arcola Ave',50.441856,-104.572168
+806,'806','14th Ave / Park St',50.443954,-104.572028
+807,'807','14th Ave / Cochrane High',50.443944,-104.567444
+808,'808','Froom Cres / 14th Ave',50.443778,-104.564931
+809,'809','Dixon Cres / Froom Cres',50.441826,-104.566148
+810,'810','Dixon Cres / Arcola Ave',50.440168,-104.568565
+811,'811','University Park Dr / Cunning Cr',50.434371,-104.554902
+812,'812','Truesdale Dr / University Pk Dr',50.435901,-104.554777
+813,'813','Truesdale Dr / Ehman Bay',50.436369,-104.556916
+814,'814','Truesdale Dr / Blair Bay',50.437919,-104.558268
+815,'815','Truesdale Dr / Wagman Dr',50.439266,-104.55828
+816,'816','Truesdale Dr / Laurier Cr',50.440989,-104.558293
+817,'817','Truesdale Dr / Mahony Cres',50.442932,-104.557725
+818,'818','Truesdale Dr / Boyd St',50.443931,-104.556675
+819,'819','Quance St / Vic Square Mall',50.443809,-104.550517
+820,'820','Arens Rd / Prince Of Wales Dr',50.436387,-104.535987
+821,'821','Arens Rd / Parkland Dr',50.438506,-104.539629
+822,'822','Arens Rd / Heseltine Rd',50.439295,-104.541437
+823,'823','Arens Rd / Crocus Cres',50.440618,-104.547013
+829,'829','Woodhams Rd / Prince Of Wales Dr',50.429074,-104.537197
+830,'830','Woodhams Rd / Ss Leisure Centre',50.428972,-104.535692
+831,'831','Assiniboine Av / Prince Of Wales',50.421654,-104.544425
+832,'832','Assiniboine Ave / Philip Rd',50.421655,-104.546523
+833,'833','Assiniboine Av / Balmoral Gate',50.423178,-104.550786
+834,'834','Assiniboine Ave / Banberry Dr',50.425875,-104.556415
+835,'835','Assiniboine Av / University Pk Dr',50.426079,-104.562157
+836,'836','Assiniboine Ave / Windfield Rd',50.426118,-104.570273
+837,'837','Park St / Assiniboine Ave',50.426678,-104.571971
+838,'838','Assiniboine Ave / Park St',50.425954,-104.571405
+839,'839','Windfield Rd / Assiniboine Ave',50.426365,-104.568051
+840,'840','Windfield Rd / Windfield Gate',50.428784,-104.566959
+841,'841','Windfield Rd / Mayfield Rd',50.430378,-104.565384
+842,'842','Windfield Rd / Metcalfe Rd',50.431698,-104.564044
+843,'843','Michener Dr / Windfield Rd',50.433072,-104.562165
+844,'844','Michener Dr / Houston Rd',50.431962,-104.559819
+845,'845','University Park Dr / Laval Dr',50.431622,-104.558135
+846,'846','Park St / Broadway Ave',50.440188,-104.572445
+847,'847','Park St / 18th Ave',50.437988,-104.572446
+848,'848','Park St / 19th Ave',50.435596,-104.572448
+849,'849','Douglas Ave / Park St',50.433286,-104.573071
+850,'850','Douglas Ave / Fleury St',50.433287,-104.576743
+851,'851','Douglas Ave / Francis St',50.433288,-104.579587
+852,'852','Mcdonald St / Douglas Ave',50.433445,-104.583493
+853,'853','Mcdonald St / 18th Ave',50.43635,-104.583478
+854,'854','Broadway Ave / Mcdonald St',50.437798,-104.583988
+855,'855','Broadway Ave / Elliott St',50.437799,-104.586736
+856,'856','Broadway Ave / Reynolds St',50.43779,-104.589566
+857,'857','Broadway Ave / Atkinson St',50.437809,-104.592617
+858,'858','Broadway Ave / Winnipeg St',50.4378,-104.595613
+859,'859','Broadway Ave / Montreal Cres',50.437801,-104.598664
+860,'860','Broadway Ave / Ottawa St',50.437792,-104.601812
+861,'861','Broadway Ave / St Chads Cres',50.437792,-104.603593
+862,'862','Sherwood Dr / 7th Ave N',50.47936,-104.669276
+863,'863','Sherwood Dr / Hastings Cres',50.480028,-104.672509
+864,'864','Sherwood Dr / Hastings Cres',50.480036,-104.674982
+865,'865','Sherwood Dr / Williston Dr',50.480026,-104.677566
+866,'866','Dorothy St / Rendek Cres',50.472451,-104.682793
+867,'867','Dorothy St / Hansen Dr',50.469985,-104.682791
+868,'868','Mikkelson Dr / Dorothy St',50.467153,-104.682249
+869,'869','Mikkelson Dr / Sweeney St',50.467155,-104.677276
+870,'870','Mikkelson Dr / Straub St',50.467156,-104.675522
+871,'871','Mccarthy Blvd / Mikkelson Dr',50.466397,-104.671778
+872,'872','Mccarthy Blvd / Oriole Pl',50.464224,-104.672688
+873,'873','4th Ave / Krauss St',50.462474,-104.671651
+874,'874','4th Ave / Fort St',50.462467,-104.666292
+875,'875','4th Ave / Campbell St',50.462843,-104.66353
+876,'876','Horace St / 4th Ave',50.462707,-104.659787
+877,'877','North West Blvd / Horace St',50.460709,-104.659316
+878,'878','North West Blvd / Minto St',50.46071,-104.656512
+879,'879','North West Blvd / Mcintosh St',50.460491,-104.652756
+880,'880','Mcintosh St / 7th Ave',50.458209,-104.652588
+881,'881','Elphinstone St / Dewdney Ave',50.454757,-104.631278
+882,'882','Elphinstone St / 10th Ave',50.451366,-104.631263
+883,'883','Saskatchewan Dr / Athol St',50.449285,-104.627645
+884,'884','Saskatchewan Dr / Cameron St',50.449744,-104.62509
+886,'886','Hamilton St / Victoria Ave',50.446499,-104.609501
+887,'887','Hamilton St / 13th Ave',50.445299,-104.609418
+888,'888','Hamilton St / 14th Ave',50.443181,-104.609405
+889,'889','Hamilton St / 15th Ave',50.442201,-104.609487
+890,'890','College Ave / Hamilton St',50.440844,-104.609708
+891,'891','College Ave / Cornwall St',50.440853,-104.612497
+892,'892','College Ave / Smith St',50.440853,-104.615493
+893,'893','Mcintyre St / College Ave',50.441037,-104.61646
+894,'894','15th Ave / Mcintyre St',50.442494,-104.61704
+895,'895','15th Ave / Albert St',50.442494,-104.618531
+896,'896','College Ave / Angus St',50.440945,-104.620022
+897,'897','College Ave / Retallack St',50.440945,-104.622742
+898,'898','College Ave / Cameron St',50.440954,-104.625199
+899,'899','College Ave / Athol St',50.440944,-104.628513
+900,'900','Elphinstone St / College Ave',50.440623,-104.631274
+901,'901','Elphinstone St / 17th Ave',50.438506,-104.63126
+902,'902','Qu''appelle Dr / Elphinstone St',50.43715,-104.631563
+903,'903','Qu''appelle Dr / Argyle St',50.437369,-104.634352
+904,'904','Qu''appelle Dr / Mctavish St',50.437397,-104.634421
+905,'905','Qu''appelle Dr / Wascana St',50.438762,-104.639323
+906,'906','Pasqua St / 18th Ave',50.437634,-104.64102
+907,'907','Pasqua St / 19th Ave',50.435682,-104.641006
+908,'908','Regina Ave / Pasqua St',50.434811,-104.640605
+910,'910','Regina Ave / Queen St',50.434802,-104.637526
+911,'911','Princess St / Regina Ave',50.434555,-104.635607
+912,'912','Princess St / 20th Ave',50.432814,-104.635621
+913,'913','Princess St / Mccallum Ave',50.431384,-104.635606
+914,'914','Kings Rd / Mccallum Ave',50.429532,-104.637566
+915,'915','Kings Rd / 21st Ave',50.428112,-104.635426
+916,'916','Hill Ave / Kings Rd',50.426664,-104.634473
+917,'917','Hill Ave / Pasqua St',50.426389,-104.639732
+918,'918','Pasqua St / Mcphail Ave',50.42154,-104.641013
+919,'919','25th Ave / Pasqua St',50.418608,-104.639936
+920,'920','25th Ave / Queen St',50.418627,-104.635919
+921,'921','25th Ave / Mctavish St',50.418627,-104.632924
+922,'922','25th Ave / Athol St',50.418637,-104.627901
+923,'923','25th Ave / Robinson St',50.418628,-104.623608
+924,'924','25th Ave / Retallack St',50.418628,-104.622214
+925,'925','Rae St / Parliament Ave',50.415072,-104.621137
+926,'926','Rae St / 28th Ave',50.413533,-104.621123
+927,'927','Rae St / 29th Ave',50.412085,-104.621151
+928,'928','Rae St / Compton Rd',50.410857,-104.621151
+929,'929','Rae St / Sommerville Rd',50.409418,-104.621151
+930,'930','Rae St / Extendicare',50.407558,-104.62115
+931,'931','Rae St / Westfield Dr',50.405175,-104.621178
+932,'932','Albert St / Gordon Rd',50.404946,-104.617935
+933,'933','Albert St / Albert St Srvrd E',50.407824,-104.617949
+934,'934','Albert St / 31st Ave',50.41038,-104.617963
+935,'935','Albert St / 29th Ave',50.412671,-104.617949
+936,'936','Albert St / 28th Ave',50.414083,-104.617935
+937,'937','Argyle Rd / 25th Ave',50.419215,-104.622684
+938,'938','Argyle Rd / 24th Ave',50.42058,-104.623595
+939,'939','Argyle Rd / Lakeview Ave',50.42245,-104.624823
+940,'940','Argyle Rd / Assiniboine Ave',50.423733,-104.625969
+941,'941','Argyle Rd / Westgate Ave',50.425199,-104.627819
+942,'942','Argyle Rd / Garner Ave',50.426335,-104.629269
+943,'943','Montague St / Hill Ave',50.428764,-104.629559
+944,'944','Montague St / 21st Ave',50.430193,-104.62956
+945,'945','Montague St / Mccallum Ave',50.432164,-104.629546
+946,'946','Montague St / 20th Ave',50.433539,-104.62956
+947,'947','Montague St / Regina Ave',50.435207,-104.629561
+948,'948','Elphinstone St / Qu''appelle Dr',50.437351,-104.631011
+949,'949','Elphinstone St / 17th Ave',50.438983,-104.631025
+950,'950','College Ave / Elphinstone St',50.440788,-104.63075
+951,'951','College Ave / Athol St',50.440779,-104.628375
+952,'952','College Ave / Cameron St',50.440789,-104.625558
+953,'953','College Ave / Retallack St',50.440789,-104.622107
+954,'954','Angus St / College Ave',50.441211,-104.61947
+955,'955','College Ave / Smith St',50.440679,-104.614734
+956,'956','Lorne St / College Ave',50.441147,-104.61356
+957,'957','Lorne St / 15th Ave',50.442723,-104.613657
+958,'958','Lorne St / 14th Ave',50.444575,-104.613671
+959,'959','Lorne St / Victoria Ave',50.44704,-104.613574
+960,'960','4th Ave / Broad St',50.463017,-104.606751
+961,'961','4th Ave / Scarth St',50.463008,-104.610922
+962,'962','4th Ave / Albert St',50.463008,-104.617041
+963,'963','3rd Ave / Albert St',50.464621,-104.618491
+964,'964','3rd Ave / Angus St',50.464621,-104.620024
+965,'965','3rd Ave / Retallack St',50.464621,-104.622925
+966,'966','3rd Ave / Cameron St',50.464611,-104.625853
+967,'967','3rd Ave / Athol St',50.464611,-104.628919
+968,'968','3rd Ave / Elphinstone St',50.464611,-104.631405
+969,'969','3rd Ave / Mctavish St',50.46461,-104.634361
+970,'970','3rd Ave / Queen St',50.464601,-104.63722
+971,'971','3rd Ave / Pasqua St',50.4646,-104.640618
+972,'972','4th Ave / Lewvan Dr',50.463004,-104.644829
+973,'973','4th Ave / Connaught St',50.463004,-104.647053
+974,'974','4th Ave / Arthur St',50.462994,-104.648393
+975,'975','4th Ave / Royal St',50.462994,-104.651514
+976,'976','Mcintosh St / 4th Ave',50.463333,-104.652343
+977,'977','2nd Ave / Mcintosh St',50.46523,-104.65291
+978,'978','2nd Ave / Grey St',50.465697,-104.655024
+979,'979','2nd Ave / Aberdeen St',50.465696,-104.658643
+980,'980','2nd Ave / Horace St',50.465695,-104.6603
+981,'981','Mikkelson Dr / Campbell St',50.465703,-104.664457
+982,'982','Mikkelson Dr / Mcmanus St',50.465721,-104.666778
+983,'983','Mikkelson Dr / Mccormick Cres',50.46582,-104.669098
+984,'984','Mccarthy Blvd / Mikkelson Dr',50.466791,-104.67113
+986,'986','Mccarthy Blvd / 611 Mccarthy',50.468965,-104.66917
+987,'987','Mccarthy Blvd / 1st Ave N',50.471844,-104.666548
+988,'988','Mccarthy Blvd / Eden Ave',50.473825,-104.664809
+989,'989','Mccarthy Blvd / Ken Jenkins Pk',50.475787,-104.663816
+990,'990','Broadway Ave / Broad St',50.437627,-104.606022
+991,'991','Broadway Ave / St Chads Cres',50.437627,-104.604007
+992,'992','Broadway Ave / Ottawa St',50.437636,-104.600196
+993,'993','Broadway Ave / Montreal Cres',50.437635,-104.597836
+994,'994','Broadway Ave / Winnipeg St',50.437635,-104.594895
+995,'995','Broadway Ave / Wallace St',50.437644,-104.593293
+996,'996','Broadway Ave / Broder St',50.437625,-104.59056
+997,'997','Broadway Ave / Edgar St',50.437634,-104.587536
+998,'998','Broadway Ave / Lindsay St',50.437633,-104.584679
+999,'999','Mcdonald St / Broadway Ave',50.437477,-104.583726
+1000,'1000','Mcdonald St / 18th Ave',50.436139,-104.583727
+1001,'1001','Mcdonald St / 19th Ave',50.43438,-104.583741
+1002,'1002','Douglas Ave / Mcdonald St',50.433124,-104.583231
+1003,'1003','Douglas Ave / Kerr Pl',50.433123,-104.58036
+1004,'1004','Douglas Ave / Harvey St',50.433122,-104.577571
+1005,'1005','Douglas Ave / Borden St',50.433113,-104.575114
+1006,'1006','Park St / Douglas Ave',50.433524,-104.572201
+1007,'1007','Park St / 18th Ave',50.435843,-104.572199
+1008,'1008','Park St / Broadway Ave',50.437951,-104.572198
+1009,'1009','Park St / 17th Ave',50.439766,-104.572197
+1010,'1010','University Park Dr / Laval Dr',50.432538,-104.557375
+1011,'1011','Michener Dr / University Pk Dr',50.431678,-104.558784
+1012,'1012','Michener Dr / Houston Rd',50.432861,-104.561254
+1013,'1013','Windfield Rd / Michener Dr',50.433164,-104.562662
+1014,'1014','Windfield Rd / Metcalfe Rd',50.431368,-104.564706
+1015,'1015','Windfield Rd / Mayfield Rd',50.430195,-104.565881
+1016,'1016','Windfield Rd / Winfield Gate',50.428427,-104.567621
+1017,'1017','Windfield Rd / Assiniboine Ave',50.426255,-104.568313
+1018,'1018','Assiniboine Av / University Pk Dr',50.425914,-104.56224
+1019,'1019','Assiniboine Ave / Edinburgh Dr',50.424637,-104.55418
+1020,'1020','Assiniboine Ave / Boyle St',50.423123,-104.551076
+1021,'1021','Assiniboine Ave / Philip Rd',50.42149,-104.545777
+1022,'1022','Prince Of Wales / Assiniboine Ave',50.421636,-104.543997
+1023,'1023','Truesdale Dr / Prince Of Wales',50.432859,-104.537896
+1024,'1024','Truesdale Dr / Helmsing St',50.433448,-104.541374
+1025,'1025','Truesdale Dr / Fowler St',50.4342,-104.543582
+1026,'1026','Truesdale Dr / Shooter Dr',50.434852,-104.545722
+1027,'1027','Truesdale Dr / Harding St',50.435165,-104.548441
+1028,'1028','Truesdale Dr / Cunning Cres',50.43535,-104.552127
+1032,'1032','Arens Rd / University Park Dr',50.4405,-104.548863
+1033,'1033','Arens Rd / Heseltine Rd',50.440434,-104.546392
+1034,'1034','Arens Rd / Crocus Dr',50.440149,-104.544183
+1035,'1035','Arens Rd / Meadow Park Cres',50.439094,-104.541409
+1036,'1036','Arens Rd / Parkland Dr',50.437993,-104.53934
+1037,'1037','Arens Rd / 3211 Arens Rd',50.436442,-104.536622
+1038,'1038','Quance St / Victoria Square Mall',50.443928,-104.550158
+1039,'1039','Truesdale Dr / Sinclair St',50.443903,-104.55702
+1040,'1040','Truesdale Dr / Longworthy Bay',50.441109,-104.558541
+1041,'1041','Truesdale Dr / Lee Pl',50.438011,-104.558516
+1042,'1042','Truesdale Dr / Kilman Cres',50.436122,-104.556627
+1043,'1043','University Pk Dr / Truesdale Dr',50.435452,-104.554501
+1044,'1044','Dixon Cres / Froom Cres',50.440718,-104.567585
+1045,'1045','Dixon Cres / Froom Cres',50.441231,-104.566977
+1046,'1046','Froom Cres / 14th Ave',50.443952,-104.564738
+1047,'1047','14th Ave / Vaughn St',50.444109,-104.56761
+1048,'1048','14th Ave / Rothwell St',50.44411,-104.569902
+1049,'1049','Park St / 14th Ave',50.443826,-104.572401
+1050,'1050','College Ave / Abbott St',50.441114,-104.576421
+1051,'1051','College Ave / Harvey St',50.44095,-104.578257
+1052,'1052','College Ave / Mackay St',50.440951,-104.581115
+1053,'1053','College Ave / Mcdonald St',50.440951,-104.583987
+1054,'1054','College Ave / Elliott St',50.440952,-104.586748
+1055,'1055','College Ave / Reynolds St',50.440952,-104.58991
+1056,'1056','College Ave / Wallace St',50.440944,-104.593969
+1057,'1057','College Ave / Quebec St',50.440852,-104.596716
+1059,'1059','College Ave / Toronto St',50.440844,-104.599643
+1060,'1060','College Ave / St John St',50.440844,-104.602336
+1061,'1061','Halifax St / College Ave',50.440963,-104.603357
+1062,'1062','Halifax St / 15th Ave',50.44264,-104.603343
+1063,'1063','14th Ave / Halifax St',50.444034,-104.603882
+1064,'1064','Mccarthy Blve / Sherwood Dr',50.477098,-104.664066
+1065,'1065','Mccarthy Blve / Button Park',50.474118,-104.664851
+1066,'1066','Mccarthy Blvd / 1st Ave N',50.471358,-104.66728
+1067,'1067','Mccarthy Blvd / Mikkelson Dr',50.467837,-104.670481
+1068,'1068','Mikkelson Dr / Mccarthy Blvd',50.466333,-104.671019
+1069,'1069','Mikkelson Dr / Lyons St',50.465555,-104.66838
+1070,'1070','2nd Ave / Campbell St',50.465538,-104.663546
+1071,'1071','2nd Ave / Horace St',50.465531,-104.659015
+1072,'1072','2nd Ave / Grey St',50.465532,-104.654955
+1073,'1073','2nd Ave / Empress St',50.465065,-104.653587
+1074,'1074','Mcintosh St / 4th Ave',50.463516,-104.652592
+1075,'1075','4th Ave / Mcintosh St',50.462829,-104.65197
+1076,'1076','4th Ave / Forget St',50.462829,-104.64918
+1077,'1077','4th Ave / Connaught St',50.462839,-104.646238
+1078,'1078','4th Ave / Lewvan Dr',50.46284,-104.64389
+1079,'1079','Pasqua St / 4th Ave',50.463262,-104.640838
+1080,'1080','3rd Ave / Pasqua St',50.464435,-104.640521
+1081,'1081','3rd Ave / King St',50.464436,-104.637772
+1082,'1082','3rd Ave / Princess St',50.464445,-104.635065
+1083,'1083','3rd Ave / Argyle St',50.464446,-104.632261
+1084,'1084','3rd Ave / Elphinstone St',50.464446,-104.630728
+1085,'1085','3rd Ave / Montague St',50.464446,-104.629223
+1086,'1086','3rd Ave / Garnet St',50.464446,-104.626447
+1087,'1087','3rd Ave / Robinson St',50.464456,-104.623643
+1088,'1088','3rd Ave / Rae St',50.464456,-104.620673
+1089,'1089','3rd Ave / Albert St',50.464456,-104.618325
+1090,'1090','4th Ave / Albert St',50.462843,-104.617289
+1091,'1091','4th Ave / Scarth St',50.462843,-104.610936
+1092,'1092','4th Ave / Broad St',50.462852,-104.606779
+1093,'1093','Elphinstone St / 15th Ave',50.4422,-104.631275
+1094,'1094','Elphinstone St / Qu''appelle Dr',50.436765,-104.631246
+1095,'1095','Montague St / Regina Ave',50.435234,-104.629809
+1096,'1096','Montague St / 20th Ave',50.433007,-104.629795
+1097,'1097','Montague St / Mccallum Ave',50.431275,-104.629808
+1098,'1098','Montague St / 21st Ave',50.429671,-104.629808
+1099,'1099','Montague St / Hill Ave',50.42771,-104.629808
+1100,'1100','Argyle Rd / Garner Ave',50.426271,-104.629517
+1101,'1101','Argyle Rd / Westgate Ave',50.424823,-104.627667
+1102,'1102','Argyle Rd / Assiniboine Ave',50.423302,-104.625735
+1103,'1103','Argyle Rd / Lakeview Ave',50.421735,-104.624644
+1104,'1104','Argyle Rd / L''arche Cres',50.420186,-104.623622
+1105,'1105','Albert St / Parliament Ave',50.414917,-104.618184
+1106,'1106','Albert St / 28th Ave',50.413276,-104.618198
+1107,'1107','Albert St / 29th Ave',50.411957,-104.618211
+1108,'1108','Albert St / 31st Ave',50.409831,-104.618197
+1109,'1109','Albert St / Albert St Service Rd',50.408071,-104.618197
+1110,'1110','Rae St / Westfield Rd',50.405496,-104.620902
+1111,'1111','Rae St / Extendicare',50.406806,-104.620902
+1112,'1112','Rae St / Sunset Dr',50.408795,-104.620902
+1113,'1113','Rae St / 31st Ave',50.410408,-104.620902
+1114,'1114','Rae St / 29th Ave',50.412534,-104.620889
+1115,'1115','Rae St / 28th Ave',50.413973,-104.620889
+1116,'1116','25th Ave / Argyle Rd',50.418793,-104.622946
+1117,'1117','25th Ave / Athol St',50.418802,-104.627597
+1118,'1118','25th Ave / Mctavish St',50.418801,-104.633297
+1119,'1119','25th Ave / Queen St',50.418792,-104.636513
+1120,'1120','Pasqua St / 25th Ave',50.418773,-104.639687
+1121,'1121','Pasqua St / Lakeview Ave',50.421109,-104.640765
+1122,'1122','Pasqua St / Mcphail Ave',50.422805,-104.640779
+1123,'1123','Hill Ave / Pasqua St',50.426223,-104.640367
+1125,'1125','Kings Rd / Hill Ave',50.427288,-104.634294
+1126,'1126','Kings Rd / 21st Ave',50.428845,-104.636282
+1127,'1127','Mccallum Ave / Kings Rd',50.430027,-104.637304
+1128,'1128','Princess St / Mccallum Ave',50.431402,-104.635358
+1129,'1129','Princess St / 20th Ave',50.433281,-104.635358
+1130,'1130','Regina Ave / Princess St',50.434968,-104.63598
+1131,'1131','Regina Ave / Coronation St',50.434976,-104.638217
+1132,'1132','Pasqua St / Regina Ave',50.435113,-104.640757
+1133,'1133','18th Ave / Pasqua St',50.437625,-104.640772
+1134,'1134','Qu''appelle Dr / Wascana St',50.438597,-104.638908
+1135,'1135','Qu''appelle Dr / Coronation St',50.437699,-104.635677
+1136,'1136','Qu''appelle Dr / Argyle St',50.436994,-104.633441
+1137,'1137','Elphinstone St / College Ave',50.441192,-104.631026
+1138,'1138','Elphinstone St / 14th Ave',50.444244,-104.631027
+1139,'1139','Saskatchewan Dr / Cameron St',50.449762,-104.625947
+1140,'1140','Saskatchewan Dr / Athol St',50.449285,-104.628639
+1141,'1141','Elphinstone St / 10th Ave',50.451265,-104.631015
+1142,'1142','Elphinstone St / 9th Ave',50.453217,-104.631015
+1143,'1143','Mcintosh St / 8th Ave',50.457136,-104.652339
+1144,'1144','Mcintosh St / 7th Ave',50.458612,-104.652354
+1145,'1145','North West Blvd / Mcintosh St',50.460876,-104.653723
+1146,'1146','North West Blvd / Minto St',50.460875,-104.656595
+1147,'1147','Horace St / North West Blvd',50.461149,-104.659537
+1148,'1148','4th Ave / Horace St',50.463009,-104.660215
+1149,'1149','4th Ave / Campbell St',50.462632,-104.664234
+1150,'1150','4th Ave / Lyons St',50.462631,-104.668336
+1151,'1151','Mccarthy Blvd / 4th Ave',50.462767,-104.672438
+1152,'1152','Mccarthy Blvd / Oriole Pl',50.464178,-104.672439
+1153,'1153','Mikkelson Dr / Mccarthy Blvd',50.466764,-104.671724
+1154,'1154','Mikkeson Dr / Straub Cres',50.467321,-104.676006
+1155,'1155','Mikkelson Dr / Sweeney St',50.46732,-104.678699
+1156,'1156','Mikkelson Dr / Dorothy St',50.467318,-104.682291
+1157,'1157','Dorothy St / Read Ave',50.469756,-104.682542
+1158,'1158','Dorothy St / Rendek Ave',50.472965,-104.682545
+1159,'1159','Sherwood Dr / Murphy Cres',50.479861,-104.677538
+1160,'1160','Sherwood Dr / Hastings Cres',50.479871,-104.675148
+1161,'1161','Sherwood Dr / Auld Bay',50.479863,-104.672261
+1163,'1163','Henderson Dr / Sioux St',50.46817,-104.566473
+1164,'1164','Henderson Dr / Maxwell Cres',50.4696,-104.567605
+1165,'1165','Henderson Dr / Maxwell Cres',50.472406,-104.570849
+1166,'1166','Leonard St / Henderson Dr',50.475203,-104.574342
+1167,'1167','Leonard St / Pettigrew Ave St',50.477082,-104.572296
+1174,'1174','Cameron St / 13th Ave',50.445995,-104.62549
+1180,'1180','Winnipeg St / 12th Ave',50.448588,-104.595306
+1181,'1181','Winnipeg St / Victoria Ave',50.446746,-104.595306
+1182,'1182','Winnipeg St / 13th Ave',50.445472,-104.595196
+1183,'1183','Winnipeg St / Broadway Ave',50.438378,-104.595364
+1186,'1186','15th Ave / Winnipeg St',50.442484,-104.595377
+1187,'1187','15th Ave / St John St',50.442494,-104.602487
+1188,'1188','Rose St / 15th Ave',50.442659,-104.607913
+1189,'1189','Rose St / 13th Ave',50.445509,-104.607927
+1194,'1194','15th Ave / Scarth St',50.442467,-104.611006
+1195,'1195','Smith St / 14th Ave',50.44452,-104.61519
+1196,'1196','Mcintyre St / 15th Ave',50.443246,-104.616529
+1197,'1197','Mcintyre St / 13th Ave',50.444648,-104.616543
+1199,'1199','Robinson St / 13th Ave',50.445876,-104.623806
+1206,'1206','Lakeridge Rd / Genereux Dr',50.500735,-104.655309
+1207,'1207','Lakeridge Rd / Boswell Cres',50.503238,-104.655712
+1208,'1208','Lakeridge Rd / Fenwick Cres',50.504044,-104.658559
+1209,'1209','Lakeridge Rd / Rousseau Cres',50.503768,-104.660853
+1212,'1212','Radway St / Whelan Dr',50.499163,-104.667248
+1213,'1213','Radway St / Steele Cres',50.501437,-104.666545
+1214,'1214','Radway St / Wadge St',50.502968,-104.667735
+1215,'1215','Devonshire Dr / Ehrle Cres',50.503764,-104.670762
+1216,'1216','Devonshire Dr / Hird Cres',50.503039,-104.673194
+1217,'1217','Devonshire Dr / Gillmore Dr',50.501608,-104.67387
+1218,'1218','Devonshire Dr / Lakewood Dr',50.500343,-104.673869
+1219,'1219','Whelan Dr / Devonshire Dr',50.49894,-104.673909
+1222,'1222','Blackwood St / Butterfield Cr',50.497441,-104.684976
+1223,'1223','Rochdale Blvd / Blackwood St',50.495259,-104.684352
+1224,'1224','Rochdale Blvd / Arnason St',50.494748,-104.680026
+1225,'1225','Rochdale Blvd / Cedar Meadow Dr',50.49475,-104.675148
+1226,'1226','Rochdale Blvd / Devonshire Dr',50.494751,-104.673159
+1227,'1227','Ist Ave N / Edward St',50.470971,-104.642761
+1228,'1228','University Dr S / Kinesiology Bld',50.415702,-104.587325
+1229,'1229','Grant Rd / Marsh Cres',50.403315,-104.613299
+1231,'1231','3rd Ave N / Toronto St',50.473934,-104.598766
+1232,'1232','2nd Ave N / Quebec St',50.472421,-104.596666
+1233,'1233','Quance St / Willow Pl',50.443513,-104.527901
+1234,'1234','Mccarthy Blvd / Irvin Cr',50.482708,-104.663974
+1235,'1235','Mccarthy Blvd / Irvin Cres',50.483056,-104.663933
+1255,'1255','Pasqua Gate E / Sangster Blvd',50.489774,-104.639081
+1256,'1256','Pasqua Gate East / Pasqua St',50.489737,-104.64078
+1262,'1262','Rochdale Blvd / Lakeridge Rd',50.495718,-104.660156
+1263,'1263','Pasqua St / Wascana St',50.424555,-104.64078
+1264,'1264','Gordon Rd / Rae St',50.40447,-104.619743
+1265,'1265','Quance St / Truesdale Dr',50.444462,-104.55499
+1266,'1266','Sherwood Dr / Mcgillvery Cres',50.476461,-104.647668
+1267,'1267','Quance Gate / Victoria Ave',50.447656,-104.527522
+1268,'1268','7th Ave N / Milne St',50.480905,-104.655807
+1270,'1270','Rochdale Blvd / Kenderdine Dr',50.49493,-104.682431
+1271,'1271','Broad St / Saskatchewan Dr',50.451449,-104.606394
+1272,'1272','2nd Ave N / Winnipeg St',50.472467,-104.594677
+1273,'1273','Albert St / 9th Ave',50.453181,-104.618214
+1274,'1274','Park St / Mcdonald St',50.473051,-104.580463
+1275,'1275','Pettigrew Ave / Leonard St',50.476155,-104.568678
+1276,'1276','Pettigrew Ave / Henderson Dr',50.475209,-104.562724
+1277,'1277','Henderson Dr / Turvey Rd',50.47728,-104.561438
+1279,'1279','Henderson Dr / Leonard St',50.479667,-104.570941
+1280,'1280','Mcdonald St / Henderson Dr',50.478769,-104.574975
+1281,'1281','Mcdonald St / Hodsman Rd',50.476845,-104.577104
+1282,'1282','Park St / Mcleod St',50.471941,-104.5773
+1283,'1283','Park St / Vennels St',50.470409,-104.574014
+1284,'1284','Park St / 1st Ave',50.468043,-104.572371
+1288,'1288','Radway St / Wadge St',50.502308,-104.667458
+1289,'1289','Radway St / Wellband Dr',50.499603,-104.667428
+1293,'1293','7th Ave / Cavendish St',50.458221,-104.557905
+1295,'1295','7th Ave / Cannon St',50.458228,-104.552298
+1296,'1296','7th Ave / Fleet St',50.458226,-104.548389
+1297,'1297','7th Ave / Bentley Dr',50.458463,-104.545461
+1298,'1298','Fines Dr / Coleman Cres',50.449304,-104.542088
+1299,'1299','Fines Dr / 2nd St',50.449316,-104.545885
+1312,'1312','Queen St / Lincoln Dr',50.403057,-104.636811
+1318,'1318','Cavendish St / Cambridge Ave',50.450576,-104.557746
+1326,'1326','Prince Of Wales Dr / Truesdale Dr',50.43252,-104.537441
+1327,'1327','Prince Of Wales Dr / Truesdale Dr(Nb',50.43296,-104.537192
+1328,'1328','Assiniboine Ave / Windfield Rd',50.425934,-104.567858
+1330,'1330','Henderson Dr / Maxwell Cres',50.471498,-104.56951
+1331,'1331','Dalgliesh Dr / Swainson St',50.492054,-104.677661
+1333,'1333','11th Ave / Scarth St',50.45045,-104.611185
+1336,'1336','Henderson Dr / Leonard St',50.473525,-104.573031
+1337,'1337','Pasqua St / Mcphail Ave',50.423465,-104.641028
+1338,'1338','College Ave / Arcola Ave',50.441444,-104.575219
+1352,'1352','Reasearch Dr / University Dr S',50.414979,-104.590913
+1355,'1355','11th Ave / Hamilton St',50.450358,-104.609004
+1356,'1356','12th Ave / Smith St',50.448864,-104.616336
+1360,'1360','Albert St / 12th Ave',50.449286,-104.618021
+1361,'1361','11th Ave / Broad St',50.450294,-104.605676
+1362,'1362','Broad St / 12th Ave',50.449203,-104.606435
+1364,'1364','Dewdney Ave / Rose St',50.455106,-104.607456
+1365,'1365','Dewdney Ave / Scarth St',50.455106,-104.610094
+1366,'1366','Dewdney Ave / Lorne St',50.455097,-104.614168
+1367,'1367','Dewdney Ave / Mcintyre St',50.45507,-104.616833
+1368,'1368','Dewdney Ave / Lorne St',50.45509,-104.613694
+1369,'1369','Dewdney Ave / Rose St',50.45507,-104.60834
+1370,'1370','Gordon Rd / Pasqua St',50.405466,-104.640399
+1371,'1371','Gordon Rd / Pasqua St',50.405356,-104.640565
+1372,'1372','Prince Of Wales Dr / Victoria Ave',50.448887,-104.532878
+1373,'1373','Eastgate Dr / Prince Of Wales Dr',50.451472,-104.533096
+1374,'1374','Eastgate Dr / Eastgate Bay',50.450254,-104.535721
+1375,'1375','Eastgate Dr / Eastgate Bay',50.448679,-104.53727
+1376,'1376','Eastgate Dr / Eastgate Bay',50.448926,-104.536841
+1377,'1377','Eastgate Dr / Eastgate Bay',50.4503,-104.535473
+1378,'1378','Eastgate Dr / Prince Of Wales Dr',50.451362,-104.533069
+1379,'1379','4th Ave / Mackay St',50.463022,-104.579488
+1380,'1380','Grant Dr / Academy Park Rd',50.408007,-104.607103
+1384,'1384','Pasqua St / Wascana St',50.425334,-104.641029
+1387,'1387','Gordon Rd / Lewvan Dr',50.40552,-104.645257
+1388,'1388','Gordon Rd / Lewvan Dr',50.405355,-104.645243
+1389,'1389','Park St / Ross Ave',50.465156,-104.572415
+1390,'1390','Sioux St / Ross Ave',50.466162,-104.564762
+1391,'1391','Powerhouse Dr / Wascana Dr',50.433071,-104.595117
+1393,'1393','Parliament Ave / Montague St',50.415438,-104.630384
+1394,'1394','Parliament Ave / Argyle St',50.415456,-104.632772
+1395,'1395','Parliament Ave / Queen St',50.415859,-104.636705
+1396,'1396','Parliament Ave / Pasqua St',50.416555,-104.640432
+1397,'1397','Harbour Landing Dr / Parliament Ave',50.417442,-104.649003
+1403,'1403','Grasslands Rd / Harbour Landing Dr',50.407324,-104.651605
+1406,'1406','Harvard Way / Harbour Landing Dr',50.402504,-104.649022
+1407,'1407','Harvard Way / Gordon Rd',50.404237,-104.648154
+1410,'1410','Harbour Landing Dr / Harvard Way',50.407654,-104.651881
+1411,'1411','Harbour Landing Dr / Malcolm Dr',50.410239,-104.648888
+1412,'1412','Harbour Landing Dr / Jim Cairns Blvd',50.412008,-104.648724
+1413,'1413','Harbour Landing Dr / Skinner Cr',50.414088,-104.64867
+1414,'1414','Parliament Ave / Harbour Landing Dr',50.41736,-104.648175
+1415,'1415','Parliament Ave / Pasqua St',50.416335,-104.640404
+1416,'1416','Parliament Ave / Queen St',50.415749,-104.636498
+1417,'1417','Parliament Ave / Argyle St',50.415346,-104.632344
+1418,'1418','Harbour Landing Dr / Wright Rd',50.409038,-104.650309
+1419,'1419','Harbour Landing Dr / Tutor Way',50.416168,-104.648671
+1420,'1420','Dewdney Ave / Prince Of Wales Dr',50.454403,-104.529253
+1421,'1421','Sherwood Dr / Shillington Rd',50.480981,-104.708306
+1422,'1422','Prince Of Wales Dr / Eastgate Dr',50.450418,-104.532807
+1423,'1423','Stockton St / Child Ave',50.497923,-104.645371
+1424,'1424','Child Ave / Mazinke Cr',50.497922,-104.648453
+1425,'1425','Mcintosh St / Child Ave',50.497967,-104.652419
+1426,'1426','Mccarthy Blvd / Whelan Dr',50.499109,-104.663876
+1427,'1427','Mccarthy Blvd / Lakeridge Rd',50.502804,-104.663879
+1428,'1428','Mccarthy Blvd / Koep Ave',50.50627,-104.663882
+1429,'1429','Diefenbaker Dr / Blake Rd',50.508866,-104.660041
+1430,'1430','Diefenbaker Dr / Simes Blvd',50.508858,-104.655204
+1431,'1431','Stockton St / Junor Dr',50.501975,-104.644959
+1432,'1432','Stockton St / Child Ave',50.497639,-104.645468
+1433,'1433','Rochdale Blvd / Stockton St',50.49652,-104.645012
+1434,'1434','Winnipeg St / 6th Ave N',50.479085,-104.59538
+1435,'1435','Winnipeg St / 2nd Ave N',50.472723,-104.594995
+1436,'1436','Neville Dr / Dakota Dr',50.452597,-104.528441
+1440,'1440','Haughton Rd / Prince Of Wales Dr',50.440537,-104.532641
+1441,'1441','Haughton Rd / Willow Rd',50.440536,-104.530017
+1442,'1442','Windsor Park Rd / Haughton Rd',50.440598,-104.527477
+1443,'1443','University Park Dr / Arens Rd',50.440912,-104.549111
+1444,'1444','Hillsdale St / Jubilee Ave',50.421945,-104.601594
+1445,'1445','Radway St / Rochdale Blvd',50.496073,-104.668475
+1446,'1446','Mapleridge Dr / Whelan Dr',50.498975,-104.677792
+1447,'1447','Mapleridge Dr / Gillmore Dr',50.50212,-104.677864
+1448,'1448','Mapleridge Dr / Maple St',50.503577,-104.68081
+1449,'1449','Mapleridge Dr / Maple Way',50.501393,-104.684801
+1450,'1450','Mapleridge Dr / Mapleton Bay',50.499248,-104.682367
+1451,'1451','Mcintosh St / Rochdale Blvd',50.497087,-104.652046
+1452,'1452','Child Ave / Mazinke Cr',50.497757,-104.648384
+1453,'1453','Quance Gate / Quance St',50.44376,-104.527459
+1454,'1454','6th Ave N / Angus Rd',50.479086,-104.621697
+1455,'1455','6th Ave N / Shepherd St',50.479416,-104.623272
+1456,'1456','6th Ave N / Smith St',50.478756,-104.614762
+1457,'1457','6th Ave N / Cornwall St',50.478775,-104.611958
+1458,'1458','6th Ave N / Hamilton St',50.478793,-104.609098
+1459,'1459','6th Ave N / Broad St',50.478775,-104.606142
+1460,'1460','6th Ave N / Halifax St',50.478802,-104.60324
+1461,'1461','6th Ave N / Ottawa St',50.478747,-104.600353
+1462,'1462','6th Ave N / Montreal St',50.478774,-104.597493
+1463,'1463','Winnipeg St / 6th Ave N',50.479204,-104.595034
+1464,'1464','9th Ave N / 297 9th Ave N',50.484107,-104.584519
+1465,'1465','9th Ave N / 119 9th Ave N',50.483731,-104.581645
+1466,'1466','9th Ave N / Coop Refinery',50.482364,-104.578537
+1467,'1467','9th Ave N / Coop Refinery',50.482795,-104.579159
+1468,'1468','9th Ave N / 119 9th Ave N',50.484015,-104.581479
+1469,'1469','9th Ave N / 297 9th Ave N',50.484456,-104.584712
+1470,'1470','6th Ave N / Toronto St',50.479003,-104.5994
+1471,'1471','6th Ave N / Halifax St',50.479077,-104.603724
+1472,'1472','6th Ave N / Broad St',50.478995,-104.606791
+1473,'1473','6th Ave N / Hamilton St',50.479022,-104.609609
+1474,'1474','6th Ave N / Cornwall St',50.47905,-104.612441
+1475,'1475','Eastgate Dr / Neville Dr',50.450626,-104.528678
+1476,'1476','Eastgate Dr / Argan Dr',50.449049,-104.527976
+1477,'1477','Turvey Rd / Henderson Dr',50.478041,-104.561216
+1478,'1478','Solomon Dr / Turvey Rd',50.477608,-104.556879
+1479,'1479','Solomon Dr / Stock Rd',50.474638,-104.55684
+1480,'1480','Emmett Hall Rd / Solomon Dr',50.472557,-104.556358
+1481,'1481','Emmett Hall Rd / 2215 Emmett Hall',50.474197,-104.553138
+1482,'1482','Emmett Hall Rd / Fleet St',50.47546,-104.54967
+1483,'1483','Fleet St / Sgi',50.473425,-104.549409
+1484,'1484','Ross Ave / Macrae Bay',50.464892,-104.551973
+1485,'1485','Ross Ave / Macrae Dr',50.46494,-104.556932
+1486,'1486','Ross Ave / Bower Cr',50.464914,-104.56091
+1487,'1487','Ross Ave / Bower Cr',50.465226,-104.563409
+1488,'1488','Henderson Dr / Leonard St',50.47447,-104.575019
+1490,'1490','Mcdonald St / 6th Ave',50.460071,-104.583522
+1491,'1491','Mcdonald St / 4th Ave',50.46327,-104.583534
+1492,'1492','Mcdonald St / Ross Ave',50.465296,-104.583464
+1493,'1493','Mcdonald St / 1st Ave',50.467835,-104.583463
+1494,'1494','Mcdonald St / Hoffer Dr',50.471969,-104.582245
+1495,'1495','Mcdonald St / Park St',50.47339,-104.580601
+1496,'1496','Sherwood Dr / Krivel Cr',50.478178,-104.667396
+1500,'1500','1st Ave N / Mcsherry Cr',50.474445,-104.671993
+1501,'1501','1st Ave N / Bastedo Cr',50.472751,-104.66927
+1503,'1503','Windsor Park Rd / Buckingham Dr',50.429471,-104.526277
+1504,'1504','Buckingham Dr / Windsor Pk Rd',50.429288,-104.52625
+1505,'1505','Windsor Park Rd / Haughton Rd',50.44036,-104.527684
+1506,'1506','Windsor Park Rd / Cumberland Rd',50.43717,-104.526681
+1507,'1507','Windsor Park Rd / Sunninghill Cr',50.434108,-104.526437
+1508,'1508','Windsor Park Rd / Cranbourn Cr',50.432349,-104.526356
+1510,'1510','Woodland Grove / Woodhams Dr',50.425154,-104.526408
+1511,'1511','Green Ridge Gate / Woodland Grove Dr',50.422075,-104.526081
+1512,'1512','Green Pine Gate / Green Bank Rd',50.423668,-104.524615
+1513,'1513','Arbour Grove Dr / Woodland Grove Gate',50.423515,-104.528232
+1514,'1514','Arbour Grove Dr / Hazel Grove',50.423425,-104.530482
+1515,'1515','Arbour Grove Dr / Arbour Grove Dr',50.42525,-104.534054
+1516,'1516','Woodhams Dr / Gloucester Bay',50.426523,-104.532258
+1517,'1517','Woodhams Dr / Buckingham Dr',50.427533,-104.5343
+1518,'1518','Woodhams Dr / Buckingham Dr',50.427395,-104.534231
+1519,'1519','Arbour Grove Dr / Woodhams Dr',50.426276,-104.532286
+1521,'1521','Arbour Grove Dr / Hazel Grove',50.423489,-104.530854
+1522,'1522','Woodland Grove Gate / Arbour Grove Dr',50.423542,-104.528121
+1523,'1523','Woodland Grove Dr / Woodhams Dr',50.42531,-104.526242
+1525,'1525','Windsor Park Rd / Cranbourn Cr',50.432587,-104.526218
+1526,'1526','Windsor Park Rd / Sunninghill Cr',50.434237,-104.526216
+1527,'1527','Windsor Park Rd / Cumberland Rd',50.437417,-104.526515
+1528,'1528','Windsor Park Rd / Lepine Rd',50.438911,-104.527106
+1529,'1529','Winnipeg St / 18th Ave',50.436196,-104.595172
+1530,'1530','Stockton St / Nicurity Dr',50.500105,-104.645594
+1531,'1531','Junor Dr / Stockton St',50.502369,-104.645263
+1532,'1532','Junor Dr / Sherlock Dr',50.502855,-104.647848
+1533,'1533','Mcintosh St / Junor Dr',50.502735,-104.650736
+1534,'1534','Mcintosh St / Taylor Cr',50.500232,-104.651688
+1535,'1535','Radway St / Baird St',50.497604,-104.668186
+1536,'1536','6th Ave N / Garnet St',50.479278,-104.626491
+1537,'1537','11th Ave / Scarth St',50.450358,-104.610854
+1538,'1538','11th Ave / Cornwall St',50.450285,-104.611696
+1539,'1539','Winnipeg St / Quinn Dr',50.436517,-104.595323
+1540,'1540','Wascana Dr / Powerhouse Rd',50.434005,-104.593019
+1541,'1541','Stockton St / Nicurity Dr',50.500041,-104.645787
+1542,'1542','Smith St / 12th Ave',50.448553,-104.6153
+1544,'1544','11th Ave / Cornwall St',50.450358,-104.612359
+1545,'1545','11th Ave / Lorne St',50.450459,-104.613422
+1547,'1547','Victoria Ave / Scarth St',50.447251,-104.610716
+1548,'1548','Willow Rd / Quance St',50.443368,-104.530345
+1549,'1549','1st Ave N / Dorothy St',50.474982,-104.682299
+1550,'1550','Junor Dr / Stockton St',50.502186,-104.644614
+1551,'1551','Wascana Pkwy / Lakeshore Dr',50.424328,-104.595258
+1552,'1552','9th Ave N / Hesse Bay',50.484394,-104.614942
+1554,'1554','5200 Block Parliament Ave',50.417495,-104.655558
+1555,'1555','James Hill Rd / Parliament Ave',50.417384,-104.659161
+1556,'1556','James Hill Rd / Tutor Way',50.415331,-104.659546
+1557,'1557','James Hill Rd / Jim Cairns Blvd',50.411638,-104.659584
+1558,'1558','James Hill Rd / Campling Ave',50.40964,-104.659597
+1559,'1559','James Hill Rd / Gordon Rd',50.405214,-104.66038
+1560,'1560','James Hill Rd / Pearsal Cr',50.401081,-104.66006
+1561,'1561','James Hill Rd / Cornell Gate',50.400789,-104.656293
+1562,'1562','James Hill Rd / Padwick Rd',50.400864,-104.651063
+1563,'1563','James Hill Rd / Aerodrome Rd',50.407257,-104.660174
+1564,'1564','Diefenbaker Dr / Armour Rd',50.506358,-104.644975
+1565,'1565','Eastgate Dr / Prince Of Wales Dr',50.451307,-104.532461
+1566,'1566','Harvard Way / Grasslands',50.406885,-104.648197
+1567,'1567','Gordon Rd / Harbour Landing Dr',50.405454,-104.652377
+1568,'1568','Broad St / Lakeshore Dr',50.428691,-104.602214

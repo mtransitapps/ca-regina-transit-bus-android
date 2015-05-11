@@ -1,0 +1,51 @@
+Title: Regina Transit Bus - MonTrans…
+----------
+Short description:
+Regina Transit buses for MonTransit BETA.
+Schedule. News.
+----------
+What's new in this version?:
+Schedule from April 26, 2015 to June 27, 2015.
+Tweets from @YQRTransit.
+
+BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
+----------
+Full description:
+This app adds Regina Transit buses information to MonTransit BETA.
+
+This app provides the schedule as well as news from @YQRTransit on Twitter.
+
+BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
+
+Regina Transit buses serve Regina in Saskatchewan, Canada.
+
+Once this application is installed, the MonTransit BETA app will display buses information (schedule...).
+
+This application only has a temporary icon and no screen: download the MonTransit BETA app (free) in the "More ..." section bellow or by following this Google Play link http://goo.gl/pCk5mV
+
+You can install this application on the SD card but it is not recommended.
+
+The information comes from the GTFS file provided by Regina Transit and the City of Regina.
+http://openregina.cloudapp.net/
+
+This application is free and open-source:
+https://github.com/mtransitapps/ca-regina-transit-bus-android
+
+This app is not related with Regina Transit and the City of Regina.
+
+Permissions:
+- Other: required to read news from Twitter
+----------
+Application type: Applications
+----------
+Category: Transportation
+----------
+Content rating: Low Maturity
+----------
+Website: https://github.com/mtransitapps/ca-regina-transit-bus-android
+----------
+Email: mtransit.apps+GooglePlay@gmail.com
+----------
+Phone: 
+----------
+Privacy Policy:
