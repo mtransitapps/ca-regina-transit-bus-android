@@ -2,7 +2,7 @@ Title: Regina Transit Bus - MonTrans…
 ----------
 Short description:
 Regina Transit buses for MonTransit BETA.
-Schedule. News.
+Schedule. Real-Time. News.
 ----------
 What's new in this version?:
 Schedule from May 3, 2015 to June 27, 2015.
@@ -13,7 +13,7 @@ BETA: Thanks for your patience while the last features are being added and the l
 Full description:
 This app adds Regina Transit buses information to MonTransit BETA.
 
-This app provides the schedule as well as news from @YQRTransit on Twitter.
+This app provides the schedule (offline and real-time from transitlive.com) as well as news from @YQRTransit on Twitter.
 
 BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
 
@@ -34,7 +34,7 @@ https://github.com/mtransitapps/ca-regina-transit-bus-android
 This app is not related with Regina Transit and the City of Regina.
 
 Permissions:
-- Other: required to read news from Twitter
+- Other: required to read real-time schedule from transitlive.com and to read news from Twitter
 ----------
 Application type: Applications
 ----------
