@@ -361,7 +361,7 @@
 382,'382','University Dr E / Luther College',50.418011,-104.583694
 383,'383','Wascana Pkwy / Kramer Blvd',50.415365,-104.595468
 384,'384','Saskatchewan Polytechnic / Main Campus',50.407435,-104.58196
-385,'385','Saskatchewan Polytechnic / Parkway Bldg',50.406701,-104.576552
+385,'385','Saskatchewan Polytechnic / Pkwy Bldg',50.406701,-104.576552
 387,'387','Jubilee Ave / Hillsdale St',50.42178,-104.601884
 388,'388','Jubilee Ave / Turgeon Cr',50.42124,-104.605169
 389,'389','Scott St / Jubilee Ave',50.421203,-104.608357
@@ -1167,15 +1167,7 @@
 1284,'1284','Pk St / 1st Ave',50.468043,-104.572371
 1288,'1288','Radway St / Wadge St',50.502308,-104.667458
 1289,'1289','Radway St / Wellband Dr',50.499603,-104.667428
-1293,'1293','7th Ave / Cavendish St',50.458221,-104.557905
-1295,'1295','7th Ave / Cannon St',50.458228,-104.552298
-1296,'1296','7th Ave / Fleet St',50.458226,-104.548389
-1297,'1297','7th Ave / Bentley Dr',50.458463,-104.545461
-1298,'1298','Fines Dr / Coleman Cres',50.449304,-104.542088
-1299,'1299','Fines Dr / 2nd St',50.449316,-104.545885
 1312,'1312','Queen St / Lincoln Dr',50.403057,-104.636811
-1318,'1318','Cavendish St / Cambridge Ave',50.450576,-104.557746
-1326,'1326','Prince Of Wales Dr / Truesdale Dr',50.43252,-104.537441
 1327,'1327','Prince Of Wales Dr / Truesdale Dr(Nb',50.43296,-104.537192
 1328,'1328','Assiniboine Ave / Windfield Rd',50.425934,-104.567858
 1330,'1330','Henderson Dr / Maxwell Cres',50.471498,-104.56951
