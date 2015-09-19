@@ -393,7 +393,6 @@
 415,'415','Elphinstone St / 1st Ave',50.467819,-104.631144
 416,'416','Elphinstone St / Mckinley Ave',50.469863,-104.631158
 417,'417','Elphinstone St / Patricia Ave',50.472568,-104.631145
-418,'418','Argyle St N / Sherwood Dr',50.474694,-104.632596
 419,'419','Sherwood Dr / Argyle St N',50.475556,-104.632872
 420,'420','Sherwood Dr / Queen St',50.475565,-104.636644
 421,'421','Sherwood Dr / Carey St',50.475555,-104.638605
@@ -1121,6 +1120,7 @@
 1207,'1207','Lakeridge Rd / Boswell Cres',50.503238,-104.655712
 1208,'1208','Lakeridge Rd / Fenwick Cres',50.504044,-104.658559
 1209,'1209','Lakeridge Rd / Rousseau Cres',50.503768,-104.660853
+1210,'1210','Mccarthy Blvd / Wadge Cres',50.502538,-104.664031
 1212,'1212','Radway St / Whelan Dr',50.499163,-104.667248
 1213,'1213','Radway St / Steele Cres',50.501437,-104.666545
 1214,'1214','Radway St / Wadge St',50.502968,-104.667735
@@ -1165,8 +1165,6 @@
 1282,'1282','Pk St / Mcleod St',50.471941,-104.5773
 1283,'1283','Pk St / Vennels St',50.470409,-104.574014
 1284,'1284','Pk St / 1st Ave',50.468043,-104.572371
-1288,'1288','Radway St / Wadge St',50.502308,-104.667458
-1289,'1289','Radway St / Wellband Dr',50.499603,-104.667428
 1293,'1293','7th Ave / Cavendish St',50.458221,-104.557905
 1295,'1295','7th Ave / Cannon St',50.458228,-104.552298
 1296,'1296','7th Ave / Fleet St',50.458226,-104.548389
@@ -1202,9 +1200,6 @@
 1373,'1373','Eastgate Dr / Prince Of Wales Dr',50.451472,-104.533096
 1374,'1374','Eastgate Dr / Eastgate Bay',50.450254,-104.535721
 1375,'1375','Eastgate Dr / Eastgate Bay',50.448679,-104.53727
-1376,'1376','Eastgate Dr / Eastgate Bay',50.448926,-104.536841
-1377,'1377','Eastgate Dr / Eastgate Bay',50.4503,-104.535473
-1378,'1378','Eastgate Dr / Prince Of Wales Dr',50.451362,-104.533069
 1379,'1379','4th Ave / Mackay St',50.463022,-104.579488
 1380,'1380','Grant Dr / Academy Pk Rd',50.408007,-104.607103
 1384,'1384','Pasqua St / Wascana St',50.425334,-104.641029
@@ -1335,7 +1330,6 @@
 1532,'1532','Junor Dr / Sherlock Dr',50.502855,-104.647848
 1533,'1533','Mcintosh St / Junor Dr',50.502735,-104.650736
 1534,'1534','Mcintosh St / Taylor Cr',50.500232,-104.651688
-1535,'1535','Radway St / Baird St',50.497604,-104.668186
 1536,'1536','6th Ave N / Garnet St',50.479278,-104.626491
 1537,'1537','11th Ave / Scarth St',50.450358,-104.610854
 1538,'1538','11th Ave / Cornwall St',50.450285,-104.611696
@@ -1366,3 +1360,17 @@
 1566,'1566','Harvard Way / Grasslands',50.406885,-104.648197
 1567,'1567','Gordon Rd / Harbour Lndg Dr',50.405454,-104.652377
 1568,'1568','Broad St / Lakeshore Dr',50.428691,-104.602214
+1569,'1569','Rochdale Blvd / Vanstone St',50.496595,-104.636748
+1570,'1570','Rochdale Blvd / Argyle St N',50.496605,-104.631082
+1571,'1571','Rochdale Blvd / Elgaard Dr',50.496587,-104.628097
+1572,'1572','Rochdale Blvd / Poley St',50.496661,-104.625472
+1573,'1573','Mceachern Dr / Narcisse Dr',50.498091,-104.623993
+1574,'1574','Mceachern Dr / Mazurak Cres',50.498678,-104.624173
+1575,'1575','Rochdale Blvd / Mceachern Dr',50.496752,-104.624242
+1576,'1576','Rochdale Blvd / Galloway St',50.496651,-104.628305
+1577,'1577','Rochdale Blvd / Argyle St',50.496697,-104.631248
+1578,'1578','Rochdale Blvd / Vanstone St',50.496696,-104.636748
+1579,'1579','Mccarthy Blvd / Whelan Dr',50.498953,-104.663931
+1580,'1580','Dewdney Ave / Dove Rd',50.455103,-104.534528
+1581,'1581','Dewdney Ave / Bishop Cr',50.455092,-104.531807
+1582,'1582','Dewdney Ave / Brown St',50.455115,-104.540397
