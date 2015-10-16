@@ -53,7 +53,7 @@
 57,'57','5th Ave N / Smith St',50.47707,-104.615632
 58,'58','Albert St / 5th Ave N',50.477546,-104.618091
 59,'59','Albert St / 6th Ave N',50.479389,-104.618078
-60,'60','7th Ave N / Smith St',50.480691,-104.615632
+60,'60','7th Ave N / Smith St',50.480682,-104.615218
 61,'61','Lorne St / 8th Ave N',50.482543,-104.613726
 62,'62','9th Ave N / Lorne St',50.484349,-104.613325
 63,'63','9th Ave N / Kleisinger Cr',50.484339,-104.609733
@@ -489,7 +489,7 @@
 532,'532','Quance St / Westfair Rd',50.444847,-104.537067
 533,'533','Coleman Cr / Eastgate Dr',50.447856,-104.540571
 534,'534','Fines Dr / Fines Dr',50.449486,-104.539381
-535,'535','Brown St / Thompson Ave',50.451962,-104.540552
+535,'535','Brown St / Thomson Ave',50.451962,-104.540552
 536,'536','Brown St / Dewdney Ave',50.455262,-104.540548
 537,'537','Brown St / Mackenzie Cr',50.457407,-104.540601
 538,'538','7th Ave E / Brown St',50.459158,-104.54129
@@ -956,7 +956,7 @@
 1013,'1013','Windfield Rd / Michener Dr',50.433164,-104.562662
 1014,'1014','Windfield Rd / Metcalfe Rd',50.431368,-104.564706
 1015,'1015','Windfield Rd / Mayfield Rd',50.430195,-104.565881
-1016,'1016','Windfield Rd / Winfield Gt',50.428427,-104.567621
+1016,'1016','Windfield Rd / Windfield Gt',50.428427,-104.567621
 1017,'1017','Windfield Rd / Assiniboine Ave',50.426255,-104.568313
 1018,'1018','Assiniboine Av / University Pk Dr',50.425914,-104.56224
 1019,'1019','Assiniboine Ave / Edinburgh Dr',50.424637,-104.55418
@@ -1089,7 +1089,7 @@
 1151,'1151','Mccarthy Blvd / 4th Ave',50.462767,-104.672438
 1152,'1152','Mccarthy Blvd / Oriole Pl',50.464178,-104.672439
 1153,'1153','Mikkelson Dr / Mccarthy Blvd',50.466764,-104.671724
-1154,'1154','Mikkeson Dr / Straub Cres',50.467321,-104.676006
+1154,'1154','Mikkelson Dr / Straub Cres',50.467321,-104.676006
 1155,'1155','Mikkelson Dr / Sweeney St',50.46732,-104.678699
 1156,'1156','Mikkelson Dr / Dorothy St',50.467318,-104.682291
 1157,'1157','Dorothy St / Read Ave',50.469756,-104.682542
@@ -1356,7 +1356,6 @@
 1562,'1562','James Hl Rd / Padwick Rd',50.400864,-104.651063
 1563,'1563','James Hl Rd / Aerodrome Rd',50.407257,-104.660174
 1564,'1564','Diefenbaker Dr / Armour Rd',50.506358,-104.644975
-1565,'1565','Eastgate Dr / Prince Of Wales Dr',50.451307,-104.532461
 1566,'1566','Harvard Way / Grasslands',50.406885,-104.648197
 1567,'1567','Gordon Rd / Harbour Lndg Dr',50.405454,-104.652377
 1568,'1568','Broad St / Lakeshore Dr',50.428691,-104.602214
@@ -1374,3 +1373,4 @@
 1580,'1580','Dewdney Ave / Dove Rd',50.455103,-104.534528
 1581,'1581','Dewdney Ave / Bishop Cr',50.455092,-104.531807
 1582,'1582','Dewdney Ave / Brown St',50.455115,-104.540397
+1583,'1583','Fleet St / Redbear Ave',50.469006,-104.549303
