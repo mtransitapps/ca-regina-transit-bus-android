@@ -94,7 +94,7 @@
 98,'98','Toronto St / 5th Ave N',50.476675,-104.599221
 99,'99','Toronto St / 4th Ave N',50.475263,-104.599207
 101,'101','2nd Ave N / Toronto St',50.472412,-104.599553
-102,'102','2nd Ave N / St John St',50.472412,-104.601584
+102,'102','2nd Ave N / Saint John St',50.472412,-104.601584
 103,'103','2nd Ave N / Halifax St',50.472412,-104.603891
 104,'104','Broad St / 2nd Ave N',50.472376,-104.60646
 105,'105','Broad St / 1st Ave N',50.470698,-104.606474
@@ -424,7 +424,7 @@
 448,'448','Sherwood Dr / Goldie St',50.480958,-104.684723
 449,'449','Sherwood Dr / Dorothy St',50.480592,-104.681711
 450,'450','Dorothy St / Sherwood Dr',50.480217,-104.681503
-452,'452','Dorothy St / 1060 Dorothy Dy',50.476714,-104.682715
+452,'452','1060 Dorothy St',50.476714,-104.682715
 453,'453','Dorothy St / 1st Ave N',50.475293,-104.6827
 454,'454','1st Ave N / Greenwood St',50.475056,-104.679205
 455,'455','1st Ave N / Greenwood Cr',50.475049,-104.675986
@@ -597,7 +597,7 @@
 641,'641','11th Ave / Royal St',50.45047,-104.650594
 642,'642','11th Ave / Forget St',50.450461,-104.649185
 643,'643','11th Ave / Connaught St',50.450462,-104.646382
-644,'644','11th Ave / Alexandr St',50.450471,-104.644076
+644,'644','11th Ave / Alexandra St',50.450471,-104.644076
 645,'645','13th Ave / Lewvan Dr',50.445421,-104.642983
 646,'646','13th Ave / Pasqua St',50.445412,-104.640788
 647,'647','13th Ave / King St',50.445413,-104.638178
@@ -608,7 +608,7 @@
 652,'652','13th Ave / Robinson St',50.445432,-104.623749
 653,'653','13th Ave / Rae St',50.445432,-104.620877
 654,'654','13th Ave / Angus St',50.445432,-104.619427
-656,'656','11th Ave / Halifax St',50.45029,-104.603575
+656,'656','11th Ave / Halifax St',50.450358,-104.603328
 657,'657','11th Ave / Ottawa St',50.45028,-104.600441
 658,'658','11th Ave / Montreal St',50.45028,-104.597555
 659,'659','Winnipeg St / 11th Ave',50.450536,-104.595069
@@ -743,7 +743,7 @@
 792,'792','Halifax St / 14th Ave',50.443759,-104.603592
 793,'793','Halifax St / 15th Ave',50.442228,-104.603606
 794,'794','Halifax St / College Ave',50.440908,-104.603606
-795,'795','College Ave / St John St',50.440679,-104.601756
+795,'795','College Ave / Saint John St',50.440679,-104.601756
 796,'796','College Ave / Ottawa St',50.440679,-104.600292
 797,'797','College Ave / Montreal St',50.440688,-104.597434
 798,'798','College Ave / Wallace St',50.440779,-104.593486
@@ -776,9 +776,9 @@
 830,'830','Woodhams Rd / Ss Leisure Ctr',50.428972,-104.535692
 831,'831','Assiniboine Av / Prince Of Wales',50.421654,-104.544425
 832,'832','Assiniboine Ave / Philip Rd',50.421655,-104.546523
-833,'833','Assiniboine Av / Balmoral Gt',50.423178,-104.550786
+833,'833','Assiniboine Ave / Balmoral Gt',50.423178,-104.550786
 834,'834','Assiniboine Ave / Banberry Dr',50.425875,-104.556415
-835,'835','Assiniboine Av / University Pk Dr',50.426079,-104.562157
+835,'835','Assiniboine Ave / University Pk Dr',50.426079,-104.562157
 836,'836','Assiniboine Ave / Windfield Rd',50.426118,-104.570273
 837,'837','Pk St / Assiniboine Ave',50.426678,-104.571971
 838,'838','Assiniboine Ave / Pk St',50.425954,-104.571405
@@ -958,7 +958,7 @@
 1015,'1015','Windfield Rd / Mayfield Rd',50.430195,-104.565881
 1016,'1016','Windfield Rd / Windfield Gt',50.428427,-104.567621
 1017,'1017','Windfield Rd / Assiniboine Ave',50.426255,-104.568313
-1018,'1018','Assiniboine Av / University Pk Dr',50.425914,-104.56224
+1018,'1018','Assiniboine Ave / University Pk Dr',50.425914,-104.56224
 1019,'1019','Assiniboine Ave / Edinburgh Dr',50.424637,-104.55418
 1020,'1020','Assiniboine Ave / Boyle St',50.423123,-104.551076
 1021,'1021','Assiniboine Ave / Philip Rd',50.42149,-104.545777
@@ -996,12 +996,12 @@
 1056,'1056','College Ave / Wallace St',50.440944,-104.593969
 1057,'1057','College Ave / Quebec St',50.440852,-104.596716
 1059,'1059','College Ave / Toronto St',50.440844,-104.599643
-1060,'1060','College Ave / St John St',50.440844,-104.602336
+1060,'1060','College Ave / Saint John St',50.440844,-104.602336
 1061,'1061','Halifax St / College Ave',50.440963,-104.603357
 1062,'1062','Halifax St / 15th Ave',50.44264,-104.603343
 1063,'1063','14th Ave / Halifax St',50.444034,-104.603882
-1064,'1064','Mccarthy Blve / Sherwood Dr',50.477098,-104.664066
-1065,'1065','Mccarthy Blve / Button Pk',50.474118,-104.664851
+1064,'1064','Mccarthy Blvd / Sherwood Dr',50.477098,-104.664066
+1065,'1065','Mccarthy Blvd / Button Pk',50.474118,-104.664851
 1066,'1066','Mccarthy Blvd / 1st Ave N',50.471358,-104.66728
 1067,'1067','Mccarthy Blvd / Mikkelson Dr',50.467837,-104.670481
 1068,'1068','Mikkelson Dr / Mccarthy Blvd',50.466333,-104.671019
@@ -1108,7 +1108,7 @@
 1182,'1182','Winnipeg St / 13th Ave',50.445472,-104.595196
 1183,'1183','Winnipeg St / Broadway Ave',50.438378,-104.595364
 1186,'1186','15th Ave / Winnipeg St',50.442484,-104.595377
-1187,'1187','15th Ave / St John St',50.442494,-104.602487
+1187,'1187','15th Ave / Saint John St',50.442494,-104.602487
 1188,'1188','Rose St / 15th Ave',50.442659,-104.607913
 1189,'1189','Rose St / 13th Ave',50.445509,-104.607927
 1194,'1194','15th Ave / Scarth St',50.442467,-104.611006
@@ -1182,7 +1182,7 @@
 1336,'1336','Henderson Dr / Leonard St',50.473525,-104.573031
 1337,'1337','Pasqua St / Mcphail Ave',50.423465,-104.641028
 1338,'1338','College Ave / Arcola Ave',50.441444,-104.575219
-1352,'1352','Reasearch Dr / University Dr S',50.414979,-104.590913
+1352,'1352','Research Dr / University Dr S',50.414979,-104.590913
 1355,'1355','11th Ave / Hamilton St',50.450358,-104.609004
 1356,'1356','12th Ave / Smith St',50.448864,-104.616336
 1360,'1360','Albert St / 12th Ave',50.449286,-104.618021
@@ -1374,3 +1374,6 @@
 1581,'1581','Dewdney Ave / Bishop Cr',50.455092,-104.531807
 1582,'1582','Dewdney Ave / Brown St',50.455115,-104.540397
 1583,'1583','Fleet St / Redbear Ave',50.469006,-104.549303
+1584,'1584','Parliament Ave / 4545 Parliament Ave',50.417369,-104.646491
+1585,'1585','Parliament Ave / 4546 Prliament Ave',50.417442,-104.646629
+1586,'1586','University Dr N / Adhum Bldg',50.419909,-104.586633
