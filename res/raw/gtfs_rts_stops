@@ -364,7 +364,7 @@
 385,'385','Saskatchewan Polytechnic / Pkwy Bldg',50.406701,-104.576552
 387,'387','Jubilee Ave / Hillsdale St',50.42178,-104.601884
 388,'388','Jubilee Ave / Turgeon Cr',50.42124,-104.605169
-389,'389','Scott St / Jubilee Ave',50.421203,-104.608357
+389,'389','Jubilee Ave / Scott St',50.420993,-104.608164
 390,'390','Memorial Way / Wascana Rehab',50.42398,-104.610745
 391,'391','Albert St / 23rd Ave',50.423651,-104.618047
 392,'392','Albert St / 22nd Ave',50.427014,-104.618061
@@ -845,8 +845,8 @@
 900,'900','Elphinstone St / College Ave',50.440623,-104.631274
 901,'901','Elphinstone St / 17th Ave',50.438506,-104.63126
 902,'902','Qu''appelle Dr / Elphinstone St',50.43715,-104.631563
-903,'903','Qu''appelle Dr / Argyle St',50.437369,-104.634352
-904,'904','Qu''appelle Dr / Mctavish St',50.437397,-104.634421
+903,'903','Qu''appelle Dr / Qu''appelle',50.438652,-104.637735
+904,'904','Qu''appelle Dr / Mctavish St',50.437387,-104.634504
 905,'905','Qu''appelle Dr / Wascana St',50.438762,-104.639323
 906,'906','Pasqua St / 18th Ave',50.437634,-104.64102
 907,'907','Pasqua St / 19th Ave',50.435682,-104.641006
@@ -1377,3 +1377,4 @@
 1584,'1584','Parliament Ave / 4545 Parliament Ave',50.417369,-104.646491
 1585,'1585','Parliament Ave / 4546 Prliament Ave',50.417442,-104.646629
 1586,'1586','University Dr N / Adhum Bldg',50.419909,-104.586633
+1588,'1588','Winnipeg St / 17th Ave',50.439477,-104.595212
