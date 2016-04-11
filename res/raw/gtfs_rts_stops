@@ -62,7 +62,7 @@
 66,'66','Fairview Rd / Broad St',50.492315,-104.605601
 67,'67','Fairview Rd / Lloyd Cr',50.492324,-104.603211
 68,'68','Bothwell Cr / Aitken Cr',50.491966,-104.601055
-69,'69','Sturdy St / 12th Ave N',50.493827,-104.597158
+69,'69','Sturdy St / 12th Ave N',50.494157,-104.597061
 70,'70','Rodenbush Dr / Andrews Cr',50.496495,-104.597738
 71,'71','Rodenbush Dr / Cullum Pl',50.497871,-104.600805
 72,'72','Rodenbush Dr / Fairview Rd',50.49788,-104.603196
@@ -131,7 +131,7 @@
 140,'140','Dewdney Ave / Kent St',50.455204,-104.674226
 141,'141','Dewdney Ave / Southam St',50.455202,-104.677085
 142,'142','Dewdney Ave / Dorothy St',50.455201,-104.67993
-143,'143','Dewdney Ave / Easement 7100 Blk',50.45519,-104.683879
+143,'143','Dewdney Ave / 7100 Dewdney Ave',50.45519,-104.683879
 144,'144','Sangster Blvd / Stern Bay',50.487905,-104.630113
 145,'145','Sangster Blvd / Semple Bay',50.488272,-104.626714
 146,'146','Sangster Blvd / Vernon Cr',50.489757,-104.623661
@@ -358,7 +358,7 @@
 376,'376','Scott St / Lamont Cr',50.422798,-104.608412
 377,'377','Jubilee Ave / Scott St',50.420974,-104.608233
 378,'378','Jubilee Ave / Turgeon Cr',50.421304,-104.604865
-382,'382','University Dr E / Luther College',50.418011,-104.583694
+382,'382','University Dr E / 1st Nations Way',50.418011,-104.583694
 383,'383','Wascana Pkwy / Kramer Blvd',50.415365,-104.595468
 384,'384','Saskatchewan Polytechnic / Main Campus',50.407435,-104.58196
 385,'385','Saskatchewan Polytechnic / Pkwy Bldg',50.406701,-104.576552
@@ -1213,10 +1213,10 @@
 1395,'1395','Parliament Ave / Queen St',50.415859,-104.636705
 1396,'1396','Parliament Ave / Pasqua St',50.416555,-104.640432
 1397,'1397','Parliament Ave / Harbour Lndg Dr',50.417442,-104.649003
-1403,'1403','Grasslands Rd / Harbour Lndg Dr',50.407324,-104.651605
+1403,'1403','Grasslands Dr / Harbour Lndg Dr',50.407324,-104.651605
 1406,'1406','Harvard Way / Harbour Lndg Dr',50.402504,-104.649022
 1407,'1407','Harvard Way / Gordon Rd',50.404237,-104.648154
-1410,'1410','Harbour Lndg Dr / Harvard Way',50.407654,-104.651881
+1410,'1410','Harbour Lndg Dr / Grasslands Dr',50.407654,-104.651881
 1411,'1411','Harbour Lndg Dr / Malcolm Dr',50.410239,-104.648888
 1412,'1412','Harbour Lndg Dr / Jim Cairns Blvd',50.412008,-104.648724
 1413,'1413','Harbour Lndg Dr / Skinner Cr',50.414088,-104.64867
@@ -1356,7 +1356,7 @@
 1562,'1562','James Hl Rd / Padwick Rd',50.400864,-104.651063
 1563,'1563','James Hl Rd / Aerodrome Rd',50.407257,-104.660174
 1564,'1564','Diefenbaker Dr / Armour Rd',50.506358,-104.644975
-1566,'1566','Harvard Way / Grasslands',50.406885,-104.648197
+1566,'1566','Harvard Way / Grasslands Dr',50.406885,-104.648197
 1567,'1567','Gordon Rd / Harbour Lndg Dr',50.405454,-104.652377
 1568,'1568','Broad St / Lakeshore Dr',50.428691,-104.602214
 1569,'1569','Rochdale Blvd / Vanstone St',50.496595,-104.636748
