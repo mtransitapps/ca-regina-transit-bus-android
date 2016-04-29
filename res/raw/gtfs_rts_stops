@@ -140,7 +140,6 @@
 149,'149','Sangster Blvd / Hicke Bay',50.491498,-104.633181
 150,'150','Sangster Blvd / Shr Bay',50.491498,-104.635309
 151,'151','Sangster Blvd / Garuik Cr',50.490938,-104.638528
-152,'152','Rochdale Blvd / Walmart',50.495311,-104.638834
 153,'153','Rochdale Blvd / Pasqua St',50.496713,-104.642248
 155,'155','Sangster Blvd / Mcgee Cr',50.488848,-104.638569
 156,'156','Sangster Blvd / Brockelbank Cr',50.487977,-104.638071
@@ -1121,6 +1120,7 @@
 1208,'1208','Lakeridge Rd / Fenwick Cres',50.504044,-104.658559
 1209,'1209','Lakeridge Rd / Rousseau Cres',50.503768,-104.660853
 1210,'1210','Mccarthy Blvd / Wadge Cres',50.502538,-104.664031
+1211,'1211','Whelan Dr / Mccarthy Blvd',50.499082,-104.664153
 1212,'1212','Radway St / Whelan Dr',50.499163,-104.667248
 1213,'1213','Radway St / Steele Cres',50.501437,-104.666545
 1214,'1214','Radway St / Wadge St',50.502968,-104.667735
@@ -1181,7 +1181,6 @@
 1333,'1333','11th Ave / Scarth St',50.45045,-104.611185
 1336,'1336','Henderson Dr / Leonard St',50.473525,-104.573031
 1337,'1337','Pasqua St / Mcphail Ave',50.423465,-104.641028
-1338,'1338','College Ave / Arcola Ave',50.441444,-104.575219
 1352,'1352','Research Dr / University Dr S',50.414979,-104.590913
 1355,'1355','11th Ave / Hamilton St',50.450358,-104.609004
 1356,'1356','12th Ave / Smith St',50.448864,-104.616336
@@ -1330,6 +1329,7 @@
 1532,'1532','Junor Dr / Sherlock Dr',50.502855,-104.647848
 1533,'1533','Mcintosh St / Junor Dr',50.502735,-104.650736
 1534,'1534','Mcintosh St / Taylor Cr',50.500232,-104.651688
+1535,'1535','Radway St / Baird St',50.497604,-104.668186
 1536,'1536','6th Ave N / Garnet St',50.479278,-104.626491
 1537,'1537','11th Ave / Scarth St',50.450358,-104.610854
 1538,'1538','11th Ave / Cornwall St',50.450285,-104.611696
@@ -1342,7 +1342,6 @@
 1547,'1547','Victoria Ave / Scarth St',50.447251,-104.610716
 1548,'1548','Willow Rd / Quance St',50.443368,-104.530345
 1549,'1549','1st Ave N / Dorothy St',50.474982,-104.682299
-1550,'1550','Junor Dr / Stockton St',50.502186,-104.644614
 1551,'1551','Wascana Pkwy / Lakeshore Dr',50.424328,-104.595258
 1552,'1552','9th Ave N / Hesse Bay',50.484394,-104.614942
 1554,'1554','5200 Block Parliament Ave',50.417495,-104.655558
@@ -1369,7 +1368,6 @@
 1576,'1576','Rochdale Blvd / Galloway St',50.496651,-104.628305
 1577,'1577','Rochdale Blvd / Argyle St',50.496697,-104.631248
 1578,'1578','Rochdale Blvd / Vanstone St',50.496696,-104.636748
-1579,'1579','Mccarthy Blvd / Whelan Dr',50.498953,-104.663931
 1580,'1580','Dewdney Ave / Dove Rd',50.455103,-104.534528
 1581,'1581','Dewdney Ave / Bishop Cr',50.455092,-104.531807
 1582,'1582','Dewdney Ave / Brown St',50.455115,-104.540397
@@ -1378,3 +1376,5 @@
 1585,'1585','Parliament Ave / 4546 Prliament Ave',50.417442,-104.646629
 1586,'1586','University Dr N / Adhum Bldg',50.419909,-104.586633
 1588,'1588','Winnipeg St / 17th Ave',50.439477,-104.595212
+1589,'1589','Vanstone St / Big Bear Blvd',50.499428,-104.636113
+1590,'1590','Vanstone St / Rochdale Blvd',50.49676,-104.636126
