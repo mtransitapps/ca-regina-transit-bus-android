@@ -681,10 +681,6 @@
 731,'731','Mcveety Dr / Gould Bay',50.459137,-104.537064
 732,'732','Brown St / 7th Ave E',50.458782,-104.541304
 733,'733','Brown St / Mackenzie Way',50.457507,-104.540781
-734,'734','Brown St / Dewdney Ave',50.455051,-104.540576
-735,'735','Brown St / Peart Cres',50.453117,-104.540675
-736,'736','Fines Dr / Thomson Ave',50.45164,-104.539517
-737,'737','Fines Dr / Fines Dr',50.449303,-104.539962
 738,'738','Quance St / Starlite St',50.445117,-104.544716
 739,'739','Quance St / Coleman St',50.446095,-104.540103
 740,'740','Quance St / Coleman Cres',50.446151,-104.541374
@@ -1165,15 +1161,7 @@
 1282,'1282','Pk St / Mcleod St',50.471941,-104.5773
 1283,'1283','Pk St / Vennels St',50.470409,-104.574014
 1284,'1284','Pk St / 1st Ave',50.468043,-104.572371
-1293,'1293','7th Ave / Cavendish St',50.458221,-104.557905
-1295,'1295','7th Ave / Cannon St',50.458228,-104.552298
-1296,'1296','7th Ave / Fleet St',50.458226,-104.548389
-1297,'1297','7th Ave / Bentley Dr',50.458463,-104.545461
-1298,'1298','Fines Dr / Coleman Cres',50.449304,-104.542088
-1299,'1299','Fines Dr / 2nd St',50.449316,-104.545885
 1312,'1312','Queen St / Lincoln Dr',50.403057,-104.636811
-1318,'1318','Cavendish St / Cambridge Ave',50.450576,-104.557746
-1326,'1326','Prince Of Wales Dr / Truesdale Dr',50.43252,-104.537441
 1327,'1327','Prince Of Wales Dr / Truesdale Dr',50.43296,-104.537192
 1328,'1328','Assiniboine Ave / Windfield Rd',50.425934,-104.567858
 1330,'1330','Henderson Dr / Maxwell Cres',50.471498,-104.56951
