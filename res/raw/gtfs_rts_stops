@@ -232,7 +232,7 @@
 246,'246','23rd Ave / Quincy Dr',50.423723,-104.597577
 247,'247','Wascana Pkwy / 23rd Ave',50.424236,-104.595327
 248,'248','University Dr W / Classroom Bldg',50.419603,-104.593079
-249,'249','University Dr W / Riddell Ctr',50.416327,-104.59388
+249,'249','University Dr W / Riddell Ctr',50.415758,-104.592376
 250,'250','Kramer Blvd / Wascana Pkwy',50.415621,-104.595578
 251,'251','Kramer Blvd / Darke St',50.415603,-104.59809
 252,'252','Hillsdale St / Latta St',50.416254,-104.601636
@@ -252,7 +252,7 @@
 267,'267','Macpherson Ave / Knowles St',50.416722,-104.605266
 268,'268','Kramer Blvd / Hillsdale St',50.415567,-104.601388
 269,'269','Kramer Blvd / Centennial St',50.415576,-104.597538
-270,'270','University Dr W / Riddell Ctr',50.416354,-104.593853
+270,'270','University Dr W / Riddell Ctr',50.416207,-104.592307
 271,'271','University Dr W / Classroom Bldg',50.419452,-104.593051
 272,'272','23rd Ave / Wascana Pkwy',50.424328,-104.5957
 273,'273','23rd Ave / Hillsdale St',50.423467,-104.599675
@@ -357,7 +357,7 @@
 376,'376','Scott St / Lamont Cr',50.422798,-104.608412
 377,'377','Jubilee Ave / Scott St',50.420974,-104.608233
 378,'378','Jubilee Ave / Turgeon Cr',50.421304,-104.604865
-382,'382','University Dr E / 1st Nations Way',50.418011,-104.583694
+382,'382','University Dr E / 1st Nations Way',50.418378,-104.583873
 383,'383','Wascana Pkwy / Kramer Blvd',50.415365,-104.595468
 384,'384','Saskatchewan Polytechnic / Main Campus',50.407435,-104.58196
 385,'385','Saskatchewan Polytechnic / Pkwy Bldg',50.406701,-104.576552
@@ -769,7 +769,7 @@
 823,'823','Arens Rd / Crocus Cres',50.440618,-104.547013
 829,'829','Woodhams Rd / Prince Of Wales Dr',50.429074,-104.537197
 830,'830','Woodhams Rd / Ss Leisure Ctr',50.428972,-104.535692
-831,'831','Assiniboine Av / Prince Of Wales',50.421654,-104.544425
+831,'831','Assiniboine Ave / Prince Of Wales',50.421654,-104.544425
 832,'832','Assiniboine Ave / Philip Rd',50.421655,-104.546523
 833,'833','Assiniboine Ave / Balmoral Gt',50.423178,-104.550786
 834,'834','Assiniboine Ave / Banberry Dr',50.425875,-104.556415
