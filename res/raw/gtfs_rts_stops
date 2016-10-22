@@ -371,7 +371,6 @@
 419,'419','Sherwood Dr / Argyle St N',50.475556,-104.632872
 420,'420','Sherwood Dr / Queen St',50.475565,-104.636644
 421,'421','Sherwood Dr / Carey St',50.475555,-104.638605
-422,'422','Sherwood Dr / Edward St',50.475664,-104.642736
 423,'423','Sherwood Dr / Ellison Cr',50.476232,-104.645513
 425,'425','Sherwood Dr / Stapleford Cr',50.476781,-104.648773
 426,'426','Mcintosh St / Sherwood Dr',50.47723,-104.652503
@@ -578,7 +577,6 @@
 658,'658','11th Ave / Montreal St',50.45028,-104.597555
 659,'659','Winnipeg St / 11th Ave',50.450536,-104.595069
 660,'660','Winnipeg St / Saskatchewan Dr',50.452058,-104.595068
-661,'661','Winnipeg St / 9th Ave',50.453359,-104.595068
 662,'662','Winnipeg St / Dewdney Ave',50.454734,-104.595081
 663,'663','Winnipeg St / 8th Ave',50.456815,-104.59508
 664,'664','Winnipeg St / 7th Ave',50.458373,-104.595066
@@ -1181,7 +1179,6 @@
 1403,'1403','Grasslands Dr / Harbour Lndg Dr',50.407324,-104.651605
 1406,'1406','Harvard Way / Harbour Lndg Dr',50.402504,-104.649022
 1407,'1407','Harvard Way / Gordon Rd',50.404237,-104.648154
-1410,'1410','Harbour Lndg Dr / Grasslands Dr',50.407654,-104.651881
 1411,'1411','Harbour Lndg Dr / Malcolm Dr',50.410239,-104.648888
 1412,'1412','Harbour Lndg Dr / Jim Cairns Blvd',50.412008,-104.648724
 1413,'1413','Harbour Lndg Dr / Skinner Cr',50.414088,-104.64867
@@ -1197,7 +1194,7 @@
 1423,'1423','Stockton St / Child Ave',50.497923,-104.645371
 1424,'1424','Child Ave / Mazinke Cr',50.497922,-104.648453
 1425,'1425','Mcintosh St / Child Ave',50.497967,-104.652419
-1426,'1426','Mccarthy Blvd / Whelan Dr',50.499109,-104.663876
+1426,'1426','Mccarthy Blvd / Whelan Dr',50.498688,-104.663834
 1427,'1427','Mccarthy Blvd / Lakeridge Rd',50.502804,-104.663879
 1428,'1428','Mccarthy Blvd / Koep Ave',50.50627,-104.663882
 1429,'1429','Diefenbaker Dr / Blake Rd',50.508866,-104.660041
@@ -1272,7 +1269,7 @@
 1506,'1506','Windsor Pk Rd / Cumberland Rd',50.43717,-104.526681
 1507,'1507','Windsor Pk Rd / Sunninghill Cr',50.434108,-104.526437
 1508,'1508','Windsor Pk Rd / Cranbourn Cr',50.432349,-104.526356
-1510,'1510','Woodland Grv / Woodhams Dr',50.425154,-104.526408
+1510,'1510','Woodland Grv Dr / Woodhams Dr',50.425154,-104.526408
 1511,'1511','Grn Rdg Gt / Woodland Grv Dr',50.422075,-104.526081
 1512,'1512','Grn Pine Gt / Grn Bank Rd',50.423668,-104.524615
 1513,'1513','Arbour Grv Dr / Woodland Grv Gt',50.423515,-104.528232
@@ -1320,7 +1317,7 @@
 1561,'1561','James Hl Rd / Cornell Gt',50.400789,-104.656293
 1562,'1562','James Hl Rd / Padwick Rd',50.400864,-104.651063
 1563,'1563','James Hl Rd / Aerodrome Rd',50.407257,-104.660174
-1564,'1564','Diefenbaker Dr / Armour Rd',50.506358,-104.644975
+1564,'1564','Diefenbaker Dr / Armour Rd',50.506349,-104.64369
 1566,'1566','Harvard Way / Grasslands Dr',50.406885,-104.648197
 1567,'1567','Gordon Rd / Harbour Lndg Dr',50.405454,-104.652377
 1568,'1568','Broad St / Lakeshore Dr',50.428691,-104.602214
@@ -1328,7 +1325,6 @@
 1570,'1570','Rochdale Blvd / Argyle St N',50.496605,-104.631082
 1571,'1571','Rochdale Blvd / Elgaard Dr',50.496587,-104.628097
 1572,'1572','Rochdale Blvd / Poley St',50.496661,-104.625472
-1573,'1573','Mceachern Dr / Narcisse Dr',50.498091,-104.623993
 1574,'1574','Mceachern Dr / Mazurak Cres',50.498678,-104.624173
 1575,'1575','Rochdale Blvd / Mceachern Dr',50.496752,-104.624242
 1576,'1576','Rochdale Blvd / Galloway St',50.496651,-104.628305
