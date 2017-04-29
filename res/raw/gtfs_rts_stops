@@ -22,7 +22,6 @@
 23,'23','Dewdney Ave / Royal St',50.455193,-104.65057
 24,'24','Dewdney Ave / Hewitt Pl',50.455185,-104.648361
 25,'25','Dewdney Ave / York St',50.455176,-104.645668
-26,'26','Dewdney Ave / Pasqua St',50.455113,-104.641276
 27,'27','Dewdney Ave / Wascana St',50.455067,-104.639371
 28,'28','Dewdney Ave / Princess St',50.455059,-104.634965
 29,'29','Dewdney Ave / Argyle St',50.455078,-104.632134
@@ -111,8 +110,6 @@
 125,'125','Dewdney Ave / Mctavish St',50.455105,-104.634302
 126,'126','Dewdney Ave / Queen St',50.455095,-104.637216
 127,'127','Dewdney Ave / Wascana St',50.455113,-104.640089
-128,'128','Dewdney Ave / Pasqua St',50.45515,-104.641221
-129,'129','Dewdney Ave / Lewvan Dr',50.455204,-104.643997
 130,'130','Dewdney Ave / York St',50.455213,-104.645557
 131,'131','Dewdney Ave / Connaught St',50.455222,-104.646966
 132,'132','Dewdney Ave / Forget St',50.455212,-104.649825
@@ -879,7 +876,6 @@
 970,'970','3rd Ave / Queen St',50.464601,-104.63722
 971,'971','3rd Ave / Pasqua St',50.4646,-104.640618
 972,'972','4th Ave / Connaught St',50.462967,-104.646307
-973,'973','4th Ave / Connaught St',50.463004,-104.647053
 974,'974','4th Ave / Arthur St',50.462994,-104.648393
 975,'975','4th Ave / Royal St',50.462994,-104.651514
 976,'976','Mcintosh St / 4th Ave',50.463333,-104.652343
@@ -1355,3 +1351,4 @@
 1605,'1605','Wascana Cir / Wascana Gln',50.421558,-104.535232
 1606,'1606','Wascana Cir / Wascana Highlands',50.422193,-104.54038
 1607,'1607','Grn Apple Dr / Grn Rose Cr',50.420779,-104.520603
+1608,'1608','Grn Apple Dr / Grn Water Dr',50.420721,-104.5162
