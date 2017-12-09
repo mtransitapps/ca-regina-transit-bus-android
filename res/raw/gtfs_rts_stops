@@ -276,7 +276,7 @@
 316,'316','Dalgliesh Dr / Courtney St',50.491463,-104.686918
 317,'317','Dalgliesh Dr / Vanier Dr',50.491465,-104.682704
 318,'318','Dalgliesh Dr / Battel St',50.491961,-104.679333
-319,'319','Dalgliesh Dr / Landsdown Ave',50.491964,-104.673695
+319,'319','Dalgliesh Dr / Landsdowne Dr',50.491964,-104.673695
 320,'320','Devonshire Dr / Hopkins Cr',50.493367,-104.671693
 321,'321','Rochdale Blvd / Devonshire Dr',50.495082,-104.671515
 322,'322','Rochdale Blvd / Radway St',50.495706,-104.668765
@@ -312,7 +312,6 @@
 352,'352','5th Ave / King St',50.461374,-104.638199
 353,'353','5th Ave / Princess St',50.461375,-104.635327
 354,'354','5th Ave / Argyle St',50.461366,-104.63244
-355,'355','5th Ave / Elphinstone St',50.461366,-104.630962
 356,'356','5th Ave / Montague St',50.461366,-104.629553
 357,'357','5th Ave / Garnet St',50.461366,-104.626598
 358,'358','5th Ave / Robinson St',50.461357,-104.623767
@@ -357,7 +356,7 @@
 407,'407','7th Ave / Robinson St',50.458296,-104.624084
 408,'408','7th Ave / Garnet St',50.458296,-104.62697
 409,'409','7th Ave / Athol St',50.458295,-104.628406
-410,'410','Elphinstone St / 7th Ave',50.458799,-104.631141
+410,'410','Elphinstone St / 6th Ave',50.459413,-104.631114
 411,'411','Elphinstone St / 5th Ave',50.46154,-104.631156
 412,'412','Elphinstone St / 4th Ave',50.46308,-104.631156
 413,'413','Elphinstone St / 3rd Ave',50.464684,-104.631143
@@ -424,7 +423,6 @@
 486,'486','Garnet St / Woodward Ave',50.478435,-104.62685
 487,'487','6th Ave N / Garnet St',50.479471,-104.629475
 488,'488','Argyle St N / 6th Ave N',50.47959,-104.632583
-489,'489','Donahue Ave / Argyle St N',50.480653,-104.632998
 490,'490','Donahue Ave / Derby St',50.480652,-104.637571
 491,'491','Stapleford Cr / Pasqua St',50.480642,-104.641453
 492,'492','Stapleford Cr / Drope St',50.480293,-104.643995
@@ -1356,3 +1354,4 @@
 1610,'1610','Argyle St N / Sangster Blvd',50.491379,-104.63126
 1611,'1611','Argyle St N / Davin Cr',50.488638,-104.632614
 1612,'1612','Argyle St N / Sangster Blvd',50.491599,-104.631136
+1613,'1613','Truesdale Dr / Quance St',50.445268,-104.555445
