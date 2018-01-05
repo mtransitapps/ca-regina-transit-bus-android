@@ -5,7 +5,7 @@ Regina Transit buses for MonTransit.
 Schedule. Real-Time. News.
 ----------
 What's new in this version?:
-Schedule from December 31, 2017 to April 28, 2018.
+Schedule from January 2, 2018 to April 28, 2018.
 Tweets from @YQRTransit.
 ----------
 Full description:
