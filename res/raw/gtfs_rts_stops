@@ -355,7 +355,6 @@
 406,'406','7th Ave / Rae St',50.458296,-104.621253
 407,'407','7th Ave / Robinson St',50.458296,-104.624084
 408,'408','7th Ave / Garnet St',50.458296,-104.62697
-409,'409','7th Ave / Athol St',50.458295,-104.628406
 410,'410','Elphinstone St / 6th Ave',50.459413,-104.631114
 411,'411','Elphinstone St / 5th Ave',50.46154,-104.631156
 412,'412','Elphinstone St / 4th Ave',50.46308,-104.631156
@@ -1263,9 +1262,9 @@
 1506,'1506','Windsor Pk Rd / Cumberland Rd',50.43717,-104.526681
 1507,'1507','Windsor Pk Rd / Sunninghill Cr',50.434108,-104.526437
 1508,'1508','Windsor Pk Rd / Cranbourn Cr',50.432349,-104.526356
-1510,'1510','Woodland Grv Dr / Woodhams Dr',50.425154,-104.526408
+1510,'1510','Woodhams Dr / Woodland Grv Dr',50.4252,-104.526615
 1511,'1511','Grn Rdg Gt / Woodland Grv Dr',50.422075,-104.526081
-1512,'1512','Grn Pine Gt / Grn Bank Rd',50.423668,-104.524615
+1512,'1512','Woodland Grv Dr / Grn Pine Gt',50.423734,-104.52623
 1513,'1513','Arbour Grv Dr / Woodland Grv Gt',50.423515,-104.528232
 1514,'1514','Arbour Grv Dr / Hazel Grv',50.423425,-104.530482
 1515,'1515','Arbour Grv Dr / Arbour Grv Dr',50.42525,-104.534054
@@ -1275,7 +1274,7 @@
 1519,'1519','Arbour Grv Dr / Woodhams Dr',50.426276,-104.532286
 1521,'1521','Arbour Grv Dr / Hazel Grv',50.423489,-104.530854
 1522,'1522','Woodland Grv Gt / Arbour Grv Dr',50.423542,-104.528121
-1523,'1523','Woodland Grv Dr / Woodhams Dr',50.42531,-104.526242
+1523,'1523','Woodhams Dr / Woodland Grv Dr',50.425301,-104.526725
 1525,'1525','Windsor Pk Rd / Cranbourn Cr',50.432587,-104.526218
 1526,'1526','Windsor Pk Rd / Sunninghill Cr',50.434237,-104.526216
 1527,'1527','Windsor Pk Rd / Cumberland Rd',50.437417,-104.526515
