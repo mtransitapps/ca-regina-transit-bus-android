@@ -430,6 +430,9 @@
 495,'495','7th Ave N / Pickard St',50.480904,-104.657811
 496,'496','7th Ave N / Hanley Cr',50.480903,-104.66161
 497,'497','7th Ave N / Mccarthy Blvd',50.480902,-104.665174
+504,'504','Dorothy St / 1st Ave N',50.475385,-104.682658
+505,'505','Dorothy St / 1067 Dorothy St',50.477429,-104.68255
+506,'506','Dorothy St / Sherwood Dr',50.480052,-104.681544
 507,'507','Sherwood Dr / Dorothy St',50.480574,-104.681435
 508,'508','Sherwood Dr / Goldie St',50.480985,-104.685248
 509,'509','Sherwood Dr / Courtney St',50.480983,-104.688301
@@ -730,6 +733,9 @@
 822,'822','Arens Rd / Heseltine Rd',50.439295,-104.541437
 823,'823','Arens Rd / Crocus Cres',50.440618,-104.547013
 824,'824','University Pk Dr / Elderkin Dr',50.437229,-104.553036
+825,'825','Truesdale Dr / Cunning Cres',50.43501,-104.549904
+827,'827','Truesdale Dr / Fowler St',50.433999,-104.543527
+828,'828','Truesdale Dr / Harding St',50.432713,-104.539263
 829,'829','Woodhams Rd / Prince Of Wales Dr',50.429074,-104.537197
 830,'830','Woodhams Rd / Ss Leisure Ctr',50.428972,-104.535692
 831,'831','Assiniboine Ave / Prince Of Wales',50.421654,-104.544425
@@ -1132,7 +1138,7 @@
 1299,'1299','Fines Dr / 2nd St',50.449316,-104.545885
 1312,'1312','Queen St / Lincoln Dr',50.403057,-104.636811
 1318,'1318','Cavendish St / Cambridge Ave',50.450576,-104.557746
-1327,'1327','Prince Of Wales Dr / Truesdale Dr',50.43296,-104.537192
+1326,'1326','Prince Of Wales Dr / Truesdale Dr',50.43252,-104.537441
 1328,'1328','Assiniboine Ave / Windfield Rd',50.425934,-104.567858
 1330,'1330','Henderson Dr / Maxwell Cres',50.471498,-104.56951
 1331,'1331','Dalgliesh Dr / Swainson St',50.492054,-104.677661
@@ -1172,6 +1178,7 @@
 1403,'1403','Grasslands Dr / Harbour Lndg Dr',50.407324,-104.651605
 1406,'1406','Harvard Way / Harbour Lndg Dr',50.402504,-104.649022
 1407,'1407','Harvard Way / Gordon Rd',50.404237,-104.648154
+1409,'1409','Harbour Lndg Dr / Gordon Rd',50.405628,-104.652405
 1411,'1411','Harbour Lndg Dr / Malcolm Dr',50.410239,-104.648888
 1412,'1412','Harbour Lndg Dr / Jim Cairns Blvd',50.412008,-104.648724
 1413,'1413','Harbour Lndg Dr / Skinner Cr',50.414088,-104.64867
@@ -1257,7 +1264,6 @@
 1500,'1500','1st Ave N / Mcsherry Cr',50.474445,-104.671993
 1501,'1501','1st Ave N / Bastedo Cr',50.472751,-104.66927
 1503,'1503','Windsor Pk Rd / Buckingham Dr',50.429471,-104.526277
-1504,'1504','Buckingham Dr / Windsor Pk Rd',50.429288,-104.52625
 1505,'1505','Windsor Pk Rd / Haughton Rd',50.44036,-104.527684
 1506,'1506','Windsor Pk Rd / Cumberland Rd',50.43717,-104.526681
 1507,'1507','Windsor Pk Rd / Sunninghill Cr',50.434108,-104.526437
@@ -1265,15 +1271,9 @@
 1510,'1510','Woodhams Dr / Woodland Grv Dr',50.4252,-104.526615
 1511,'1511','Grn Rdg Gt / Woodland Grv Dr',50.422075,-104.526081
 1512,'1512','Woodland Grv Dr / Grn Pine Gt',50.423734,-104.52623
-1513,'1513','Arbour Grv Dr / Woodland Grv Gt',50.423515,-104.528232
-1514,'1514','Arbour Grv Dr / Hazel Grv',50.423425,-104.530482
-1515,'1515','Arbour Grv Dr / Arbour Grv Dr',50.42525,-104.534054
 1516,'1516','Woodhams Dr / Gloucester Bay',50.426523,-104.532258
 1517,'1517','Woodhams Dr / Buckingham Dr',50.427533,-104.5343
 1518,'1518','Woodhams Dr / Buckingham Dr',50.427395,-104.534231
-1519,'1519','Arbour Grv Dr / Woodhams Dr',50.426276,-104.532286
-1521,'1521','Arbour Grv Dr / Hazel Grv',50.423489,-104.530854
-1522,'1522','Woodland Grv Gt / Arbour Grv Dr',50.423542,-104.528121
 1523,'1523','Woodhams Dr / Woodland Grv Dr',50.425301,-104.526725
 1525,'1525','Windsor Pk Rd / Cranbourn Cr',50.432587,-104.526218
 1526,'1526','Windsor Pk Rd / Sunninghill Cr',50.434237,-104.526216
@@ -1354,3 +1354,30 @@
 1611,'1611','Argyle St N / Davin Cr',50.488638,-104.632614
 1612,'1612','Argyle St N / Sangster Blvd',50.491599,-104.631136
 1613,'1613','Truesdale Dr / Quance St',50.445268,-104.555445
+1614,'1614','Grn Bank Rd / Grn Pine Gt',50.423806,-104.524132
+1615,'1615','Jim Cairns Blvd / Aviator Cr',50.411942,-104.654161
+1616,'1616','Gordon Rd / James Hl Rd',50.405287,-104.659718
+1617,'1617','Gordon Rd / Universal Cr',50.405316,-104.656447
+1618,'1618','Grasslands Dr / Harbour Lndg Dr',50.40726,-104.651826
+1619,'1619','Harvard Way / Grasslands Dr',50.406867,-104.648376
+1620,'1620','Buckingham Dr / Woodhams Dr',50.42756,-104.533955
+1621,'1621','Buckingham Dr / Essex Cr',50.428979,-104.531027
+1622,'1622','Buckingham Dr / Windsor Pk Rd',50.429426,-104.527202
+1623,'1623','Buckingham Dr / Essex Cr',50.429272,-104.53017
+1624,'1624','Doiron Rd / Sherwood Dr',50.481318,-104.695679
+1625,'1625','Doiron Rd / Kestral Dr',50.478165,-104.696158
+1626,'1626','1st Ave N / Courtney St',50.475007,-104.687548
+1627,'1627','Gordon Staseson Blvd / Prairie Vw Dr',50.475085,-104.694497
+1628,'1628','Gordon Staseson Blvd / Brookview Dr',50.474996,-104.68951
+1629,'1629','Primrose Grn Dr / Grn Bank Rd',50.42595,-104.52348
+1630,'1630','Primrose Grn Dr / Grn Brk Rd',50.425948,-104.520057
+1631,'1631','Primrose Grn Dr / Grn Jade Ln',50.425944,-104.51426
+1632,'1632','Chuka Blvd / Grn Water Rd',50.423487,-104.513325
+1633,'1633','Dewdney Ave / Atkinson St',50.455068,-104.592114
+1634,'1634','Dewdney Ave / Edgar St',50.45504,-104.587778
+1635,'1635','Dewdney Ave / Mcdonald St',50.455066,-104.583055
+1636,'1636','Dewdney Ave / Fleury St',50.455102,-104.5776
+1637,'1637','Dewdney Ave / Pk St',50.455174,-104.572642
+1638,'1638','Dewdney Ave / Fleury St',50.455203,-104.577918
+1639,'1639','Dewdney Ave / Mcara St',50.455213,-104.582751
+1640,'1640','Dewdney Ave / Edgar St',50.455177,-104.588206
