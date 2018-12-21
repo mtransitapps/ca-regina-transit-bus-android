@@ -111,7 +111,6 @@
 125,'0125','Dewdney Ave / Mctavish St',50.45514,-104.63447
 126,'0126','Dewdney Ave / Queen St',50.45513,-104.63739
 127,'0127','Dewdney Ave / Wascana St',50.45513,-104.64026
-129,'0129','Dewdney Ave / Lewvan Dr',50.45527,-104.644171
 130,'0130','Dewdney Ave / York St',50.45525,-104.64586
 131,'0131','Dewdney Ave / Connaught St',50.45526,-104.64728
 132,'0132','Dewdney Ave / Forget St',50.45526,-104.65019
@@ -141,7 +140,7 @@
 158,'0158','Argyle St N / Sangster Blvd',50.4875,-104.63273
 159,'0159','Argyle St N / Mccaul Cr',50.4833,-104.63273
 160,'0160','Mcmurchy Ave / Argyle St N',50.48207,-104.6322
-161,'0161','Mcmurchy Ave / Mcinnis Cr',50.48209,-104.629809
+161,'0161','Mcmurchy Ave / Mcinnis Cr',50.482044,-104.629025
 162,'0162','Mcmurchy Ave / Garnet St',50.482054,-104.62642
 163,'0163','Mcmurchy Ave / Lawson St',50.482048,-104.624571
 164,'0164','Angus Rd / Mcmurchy Ave',50.48184,-104.62041
@@ -424,7 +423,6 @@
 486,'0486','Garnet St / Woodward Ave',50.47875,-104.626819
 487,'0487','6th Ave N / Garnet St',50.47937,-104.62934
 488,'0488','Argyle St N / 6th Ave N',50.48008,-104.632559
-489,'0489','Donahue Ave / Argyle St N',50.48065,-104.633499
 490,'0490','Donahue Ave / Derby St',50.48068,-104.636861
 491,'0491','Stapleford Cr / Pasqua St',50.48068,-104.641579
 492,'0492','Stapleford Cr / Drope St',50.48029,-104.64415
@@ -433,9 +431,9 @@
 495,'0495','7th Ave N / Pickard St',50.48094,-104.65801
 496,'0496','7th Ave N / Hanley Cr',50.48092,-104.66187
 497,'0497','7th Ave N / Mccarthy Blvd',50.481085,-104.66474
-504,'504','Dorothy St / 1st Ave N',50.475352,-104.682584
-505,'505','Dorothy St / Murphy Cr',50.47768,-104.682568
-506,'506','Dorothy St / Westbrook Ct',50.479933,-104.681537
+504,'0504','Dorothy St / 1st Ave N',50.475281,-104.682562
+505,'0505','Dorothy St / Murphy Cr',50.477766,-104.68252
+506,'0506','Dorothy St / Westbrook Ct',50.480008,-104.68146
 507,'0507','Sherwood Dr / Dorothy St',50.48071,-104.68175
 508,'0508','Sherwood Dr / Goldie St',50.48106,-104.68596
 509,'0509','Sherwood Dr / Courtney St',50.48107,-104.68929
@@ -461,7 +459,7 @@
 530,'0530','Prince Of Wales Dr / Westfair Rd',50.44431,-104.533151
 531,'0531','Quance St / Prince Of Wales Dr',50.44358,-104.53393
 532,'0532','Quance St / Westfair Rd',50.44524,-104.5376
-533,'0533','Coleman Cr / Eastgate Dr',50.44803,-104.54054
+533,'0533','Coleman Cr / Eastgate Dr',50.448771,-104.540473
 534,'0534','Fines Dr / Fines Dr',50.44987,-104.53932
 536,'0536','Brown St / Dewdney Ave',50.45556,-104.54052
 537,'0537','Brown St / Mackenzie Cr',50.457739,-104.54063
@@ -612,7 +610,6 @@
 698,'0698','13th Ave / Queen St',50.44553,-104.63742
 699,'0699','13th Ave / King St',50.44555,-104.63883
 700,'0700','13th Ave / Pasqua St',50.44555,-104.64148
-701,'0701','13th Ave / Edward St',50.44553,-104.642739
 702,'0702','Alexandra St / 11th Ave',50.45092,-104.64374
 703,'0703','10th Ave / York St',50.45216,-104.645209
 704,'0704','10th Ave / Connaught St',50.45215,-104.64649
@@ -735,9 +732,9 @@
 822,'0822','Arens Rd / Heseltine Rd',50.43988,-104.543141
 823,'0823','Arens Rd / Crocus Cres',50.44061,-104.54712
 824,'0824','University Pk Dr / Elderkin Dr',50.43708,-104.55338
-825,'825','Truesdale Dr / Cunning Cr',50.435003,-104.5506
-827,'827','Truesdale Dr / Fowler St',50.433986,-104.543431
-828,'828','Truesdale Dr / Harding St',50.432723,-104.53914
+825,'0825','Truesdale Dr / Cunning Cr',50.43498,-104.550449
+827,'0827','Truesdale Dr / Fowler St',50.433895,-104.543319
+828,'0828','Truesdale Dr / Harding St',50.432698,-104.538974
 829,'0829','Woodhams Rd / Prince Of Wales Dr',50.429,-104.53658
 830,'0830','Woodhams Rd / Ss Leisure Ctr',50.428881,-104.535271
 831,'0831','Assiniboine Ave / Prince Of Wales',50.42159,-104.54485
@@ -1315,6 +1312,7 @@
 1564,'1564','Diefenbaker Dr / Armour Rd',50.50633,-104.64346
 1566,'1566','Harvard Way / Grasslands Dr',50.40727,-104.648192
 1567,'1567','Gordon Rd / Harbour Lndg Dr',50.40535,-104.65143
+1568,'1568','Broad St / Lakeshore Dr',50.429077,-104.602725
 1569,'1569','Rochdale Blvd / Vanstone St',50.49657,-104.63699
 1570,'1570','Rochdale Blvd / Argyle St N',50.4966,-104.63039
 1571,'1571','Rochdale Blvd / Elgaard Dr',50.496544,-104.627658
@@ -1355,6 +1353,7 @@
 1610,'1610','Argyle St / Sangster Blvd',50.491036,-104.631729
 1611,'1611','Argyle St / Davin Cr',50.488396,-104.632099
 1612,'1612','Argyle St / Sangster Blvd',50.491867,-104.630632
+1613,'1613','Truesdale Dr / Quance St',50.444889,-104.555483
 1614,'1614','Grn Bank Rd / Grn Pine Gt',50.423808,-104.524057
 1615,'1615','Jim Cairns Blvd / Aviator Cr',50.411964,-104.654065
 1616,'1616','Gordon Rd / James Hl Rd',50.405193,-104.659772
@@ -1382,3 +1381,4 @@
 1638,'1638','Dewdney Ave / Fleury St',50.455244,-104.577937
 1639,'1639','Dewdney Ave / Mcara St',50.455242,-104.582429
 1640,'1640','Dewdney Ave / Edgar St',50.455259,-104.588229
+1641,'1641','Gordon Rd / Lockwood Rd',50.405114,-104.625315
