@@ -276,7 +276,7 @@
 316,'0316','Dalgliesh Dr / Courtney St',50.49146,-104.68662
 317,'0317','Dalgliesh Dr / Vanier Dr',50.49148,-104.682409
 318,'0318','Dalgliesh Dr / Battel St',50.491935,-104.67934
-319,'0319','Dalgliesh Dr / Landsdown Ave',50.49197,-104.67354
+319,'0319','Dalgliesh Dr / Landsdowne Dr',50.49197,-104.67354
 320,'0320','Devonshire Dr / Hopkins Cr',50.49399,-104.67169
 321,'0321','Rochdale Blvd / Devonshire Dr',50.49513,-104.67164
 322,'0322','Rochdale Blvd / Radway St',50.49568,-104.6688
@@ -710,7 +710,7 @@
 801,'0801','College Ave / Lindsay St',50.44086,-104.58453
 802,'0802','College Ave / Mcara St',50.44086,-104.581821
 803,'0803','College Ave / Francis St',50.44085,-104.57887
-804,'0804','College Ave / Abbott St',50.44086,-104.57703
+804,'0804','College Ave / Abbott Rd',50.44086,-104.57703
 805,'0805','Pk St / Arcola Ave',50.4421,-104.572099
 806,'0806','14th Ave / Pk St',50.44403,-104.57173
 807,'0807','14th Ave / Cochrane High',50.44402,-104.567089
@@ -942,7 +942,7 @@
 1039,'1039','Truesdale Dr / Sinclair St',50.44385,-104.557049
 1040,'1040','Truesdale Dr / Longworthy Bay',50.44099,-104.558441
 1041,'1041','Truesdale Dr / Lee Pl',50.43782,-104.558429
-1042,'1042','Truesdale Dr / Kilman Cres',50.43602,-104.55592
+1042,'1042','Truesdale Dr / Kliman Cres',50.43602,-104.55592
 1043,'1043','University Pk Dr / Truesdale Dr',50.43546,-104.55442
 1044,'1044','Dixon Cres / Froom Cres',50.440781,-104.567577
 1045,'1045','Dixon Cres / Froom Cres',50.441565,-104.566371
@@ -950,7 +950,7 @@
 1047,'1047','14th Ave / Vaughn St',50.44405,-104.56782
 1048,'1048','14th Ave / Rothwell St',50.44405,-104.569971
 1049,'1049','Pk St / 14th Ave',50.44354,-104.57242
-1050,'1050','College Ave / Abbott St',50.44107,-104.57629
+1050,'1050','College Ave / Abbott Rd',50.44107,-104.57629
 1051,'1051','College Ave / Harvey St',50.44089,-104.57836
 1052,'1052','College Ave / Mackay St',50.4409,-104.58125
 1053,'1053','College Ave / Mcdonald St',50.440915,-104.58418
@@ -1063,7 +1063,7 @@
 1164,'1164','Henderson Dr / Maxwell Cres',50.46974,-104.56783
 1165,'1165','Henderson Dr / Maxwell Cres',50.47242,-104.57097
 1166,'1166','Leonard St / Henderson Dr',50.47503,-104.5747
-1167,'1167','Leonard St / Pettigrew Ave St',50.47705,-104.5725
+1167,'1167','Leonard St / Pettigrew Ave',50.47705,-104.5725
 1174,'1174','Cameron St / 13th Ave',50.44586,-104.625389
 1180,'1180','Winnipeg St / 12th Ave',50.448551,-104.595259
 1181,'1181','Winnipeg St / Victoria Ave',50.44671,-104.595255
@@ -1097,7 +1097,7 @@
 1224,'1224','Rochdale Blvd / Arnason St',50.49475,-104.67993
 1225,'1225','Rochdale Blvd / Cedar Mdw Dr',50.49476,-104.67539
 1226,'1226','Rochdale Blvd / Devonshire Dr',50.49477,-104.673191
-1227,'1227','Ist Ave N / Edward St',50.47105,-104.642911
+1227,'1227','1st Ave N / Edward St',50.47105,-104.642911
 1228,'1228','University Dr S / Kinesiology Bld',50.41571,-104.58942
 1229,'1229','Grant Rd / Marsh Cres',50.40329,-104.6133
 1231,'1231','3rd Ave N / Toronto St',50.47392,-104.59876
@@ -1266,7 +1266,7 @@
 1506,'1506','Windsor Pk Rd / Cumberland Rd',50.43693,-104.526611
 1507,'1507','Windsor Pk Rd / Sunninghill Cr',50.43328,-104.52631
 1508,'1508','Windsor Pk Rd / Cranbourn Cr',50.43221,-104.526339
-1510,'1510','Woodland Grv Dr / Woodhams Dr',50.42495,-104.52643
+1510,'1510','Woodhams Dr / Woodland Grv Dr',50.425197,-104.52674
 1511,'1511','Grn Rdg Gt / Woodland Grv Dr',50.422079,-104.525984
 1512,'1512','Woodland Grv Dr / Grn Pine Gt',50.423873,-104.52605
 1516,'1516','Woodhams Dr / Gloucester Bay',50.42661,-104.532619
@@ -1326,7 +1326,7 @@
 1582,'1582','Dewdney Ave / Brown St',50.45511,-104.54
 1583,'1583','Fleet St / Redbear Ave',50.46871,-104.54928
 1584,'1584','Parliament Ave / 4545 Parliament Ave',50.41726,-104.64569
-1585,'1585','Parliament Ave / 4546 Prliament Ave',50.41745,-104.64616
+1585,'1585','Parliament Ave / 4546 Parliament Ave',50.41745,-104.64616
 1586,'1586','University Dr N / Adhum Bldg',50.41993,-104.586431
 1587,'1587','Grn Apple Rd / Grn Bank Rd',50.420992,-104.523584
 1588,'1588','Winnipeg St / 17th Ave',50.43958,-104.59519
@@ -1335,9 +1335,9 @@
 1592,'1592','Grant Rd / Elgin Rd',50.40731,-104.61065
 1593,'1593','Woodhams Dr / Olive Grv',50.42612,-104.53097
 1594,'1594','Grn Apple Dr / Grn Bank Rd',50.42096,-104.52357
-1595,'1595','Grn Apple / Chuka Blvd',50.42026,-104.512575
+1595,'1595','Chuka Blvd / Grn Apple Dr',50.42026,-104.512575
 1596,'1596','Chuka Blvd / Grn Jewel Blvd',50.4185,-104.51356
-1597,'1597','Chuka Blvd / Grn Fall Dr',50.41667,-104.51686
+1597,'1597','Chuka Blvd / Grn Falls Dr',50.41667,-104.51686
 1598,'1598','Chuka Blvd / Goldfinch Way',50.414342,-104.519915
 1600,'1600','Wascana Gt / Wascana Vw Dr',50.415,-104.526731
 1601,'1601','Wascana Gt / Wascana Gdns Dr',50.415,-104.529
@@ -1366,13 +1366,13 @@
 1624,'1624','Doiron Rd / Sherwood Dr',50.481412,-104.6957
 1625,'1625','Doiron Rd / Kestral Dr',50.478105,-104.696223
 1626,'1626','1st Ave N / Courtney St',50.474996,-104.687503
-1627,'1627','Gordon Staseson Blvd / Prairie Vw Rd',50.475089,-104.694657
+1627,'1627','Gordon Staseson Blvd / Prairie Vw Dr',50.475089,-104.694657
 1628,'1628','Gordon Staseson Blvd / Brookview Dr',50.47501,-104.690672
 1629,'1629','Primrose Grn Dr / Grn Bank Rd',50.425938,-104.523545
 1630,'1630','Primrose Grn Dr / Grn Brk Rd',50.425941,-104.519871
 1631,'1631','Primrose Grn Dr / Grn Jade Ln',50.425927,-104.513212
 1632,'1632','Chuka Blvd / Grn Water Rd',50.423219,-104.512149
-1633,'1633','Dewdney Ave / Atkinson',50.454943,-104.592224
+1633,'1633','Dewdney Ave / Atkinson St',50.454943,-104.592224
 1634,'1634','Dewdney Ave / Edgar St',50.455049,-104.587787
 1635,'1635','Dewdney Ave / Mcdonald St',50.455066,-104.583236
 1636,'1636','Dewdney Ave / Fleury St',50.455071,-104.577669
