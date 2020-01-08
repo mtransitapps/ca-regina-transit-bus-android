@@ -1119,8 +1119,6 @@
 1276,'1276','Pettigrew Ave / Henderson Dr',50.4753,-104.56279
 1277,'1277','Henderson Dr / Turvey Rd',50.47758,-104.561511
 1279,'1279','Henderson Dr / Leonard St',50.47969,-104.57112
-1280,'1280','Mcdonald St / Henderson Dr',50.47824,-104.5755
-1281,'1281','Mcdonald St / Hodsman Rd',50.47671,-104.5772
 1282,'1282','Pk St / Mcleod St',50.47217,-104.57773
 1283,'1283','Pk St / Vennels St',50.47069,-104.574381
 1284,'1284','Pk St / 1st Ave',50.46784,-104.572329
@@ -1223,9 +1221,6 @@
 1461,'1461','6th Ave N / Ottawa St',50.47885,-104.60012
 1462,'1462','6th Ave N / Montreal St',50.47883,-104.597389
 1463,'1463','Winnipeg St / 6th Ave N',50.47919,-104.59513
-1464,'1464','9th Ave N / 297 9th Ave N',50.484259,-104.585251
-1465,'1465','9th Ave N / 119 9th Ave N',50.4834,-104.58079
-1466,'1466','9th Ave N / Coop Refinery',50.482459,-104.578316
 1467,'1467','9th Ave N / Coop Refinery',50.4826,-104.5787
 1468,'1468','9th Ave N / 119 9th Ave N',50.48395,-104.58156
 1469,'1469','9th Ave N / 297 9th Ave N',50.48433,-104.585731
@@ -1367,7 +1362,6 @@
 1629,'1629','Primrose Grn Dr / Grn Bank Rd',50.425938,-104.523545
 1630,'1630','Primrose Grn Dr / Grn Brk Rd',50.425941,-104.519871
 1631,'1631','Primrose Grn Dr / Grn Jade Ln',50.425927,-104.513212
-1632,'1632','Chuka Blvd / Grn Water Rd',50.423219,-104.512149
 1633,'1633','Dewdney Ave / Atkinson St',50.454943,-104.592224
 1634,'1634','Dewdney Ave / Edgar St',50.455049,-104.587787
 1635,'1635','Dewdney Ave / Mcdonald St',50.455066,-104.583236
@@ -1377,3 +1371,7 @@
 1639,'1639','Dewdney Ave / Mcara St',50.455242,-104.582429
 1640,'1640','Dewdney Ave / Edgar St',50.455259,-104.588229
 1641,'1641','Gordon Rd / Lockwood Rd',50.405114,-104.625315
+1642,'1642','Primrose Grn Dr / Grn Lily Rd',50.425881,-104.507031
+1643,'1643','Primrose Grn Dr / Grn Turtle Rd',50.425868,-104.503779
+1644,'1644','Grn Apple Dr / Grn Turtle Rd',50.42142,-104.503773
+1645,'1645','Grn Apple Dr / Grn Lily Rd',50.42122,-104.507274
