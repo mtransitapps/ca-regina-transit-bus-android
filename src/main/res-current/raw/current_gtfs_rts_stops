@@ -383,13 +383,6 @@
 440,'0440','Rochdale Blvd @ Lakeridge Rd (WB)',50.49603,-104.658
 441,'0441','Rochdale Blvd @ Mccarthy Blvd (WB)',50.4958,-104.66263
 442,'0442','Rochdale Blvd @ Mccarthy Blvd (WB)',50.49574,-104.66496
-443,'0443','Sherwood Dr @ Herman Cr (WB)',50.48112,-104.70596
-444,'0444','Sherwood Dr @ Fairway Rd (EB)',50.481307,-104.700784
-445,'0445','Sherwood Dr @ Warwick Dr (EB)',50.481685,-104.697599
-446,'0446','Sherwood Dr @ Doiron Rd (EB)',50.4815,-104.69486
-447,'0447','Sherwood Dr @ Venture Rd (EB)',50.48091,-104.689909
-448,'0448','Sherwood Dr @ Goldie St (EB)',50.48095,-104.68439
-449,'0449','Sherwood Dr @ Dorothy St (EB)',50.48059,-104.681849
 450,'0450','Dorothy St @ Sherwood Dr (SB)',50.48004,-104.68167
 452,'0452','1060 Dorothy St (SB)',50.47669,-104.682771
 453,'0453','Dorothy St @ 1st Ave N (SB)',50.47522,-104.68273
@@ -397,15 +390,6 @@
 455,'0455','1st Ave N @ Greenwood Cr (EB)',50.47504,-104.67598
 458,'0458','7th Ave N @ Sherwood Dr (NB)',50.47944,-104.66865
 459,'0459','7th Ave N @ Mccarthy Blvd (EB)',50.480689,-104.664634
-460,'0460','7th Ave N @ Champ Cr (EB)',50.48088,-104.658761
-461,'0461','7th Ave N @ Milne St (EB)',50.48087,-104.65553
-462,'0462','Stapleford Cr @ Sherwood Dr (NB)',50.47703,-104.648361
-463,'0463','Stapleford Cr @ Eddy St (NB)',50.479432,-104.645828
-464,'0464','Stapleford Cr @ Drope St (EB)',50.480437,-104.64326
-465,'0465','Donahue Ave @ Pasqua St (EB)',50.480582,-104.640491
-466,'0466','Donahue Ave @ Derby St (EB)',50.48062,-104.63674
-467,'0467','Argyle St N @ Donahue Ave (SB)',50.48028,-104.63271
-468,'0468','6th Ave N @ Argyle St N (EB)',50.47923,-104.63203
 470,'0470','Garnet St @ 6th Ave N (SB)',50.478997,-104.627029
 471,'0471','Garnet St @ Woodward Ave (SB)',50.47775,-104.62693
 472,'0472','Garnet St @ 4th Ave N (SB)',50.47542,-104.626901
@@ -421,13 +405,6 @@
 486,'0486','Garnet St @ Woodward Ave (NB)',50.47875,-104.626819
 487,'0487','6th Ave N @ Garnet St (WB)',50.47937,-104.62934
 488,'0488','Argyle St N @ 6th Ave N (NB)',50.48008,-104.632559
-490,'0490','Donahue Ave @ Derby St (WB)',50.48068,-104.636861
-491,'0491','Stapleford Cr @ Pasqua St (WB)',50.48068,-104.641579
-492,'0492','Stapleford Cr @ Drope St (WB)',50.48029,-104.64415
-493,'0493','Stapleford Cr @ Eddy St (WB)',50.47911,-104.64655
-494,'0494','7th Ave N @ Mcintosh St (WB)',50.48098,-104.65304
-495,'0495','7th Ave N @ Pickard St (WB)',50.48094,-104.65801
-496,'0496','7th Ave N @ Hanley Cr (WB)',50.48092,-104.66187
 497,'0497','7th Ave N @ Mccarthy Blvd (WB)',50.481085,-104.66474
 504,'0504','Dorothy St @ 1st Ave N (NB)',50.475281,-104.682562
 505,'0505','Dorothy St @ Murphy Cr (NB)',50.477766,-104.68252
@@ -436,8 +413,6 @@
 508,'0508','Sherwood Dr @ Goldie St (WB)',50.48106,-104.68596
 509,'0509','Sherwood Dr @ Courtney St (WB)',50.48107,-104.68929
 510,'0510','Sherwood Dr @ Discovery Rd (WB)',50.48119,-104.69118
-511,'0511','Sherwood Dr @ Doiron Rd (WB)',50.48183,-104.696431
-512,'0512','Sherwood Dr @ Fairway Rd (WB)',50.48126,-104.702181
 513,'0513','Dewdney Ave @ Cavendish St (EB)',50.45517,-104.55885
 514,'0514','9th Ave @ Cavendish St (WB)',50.4535,-104.55844
 515,'0515','Oxford St @ 10th Ave (SB)',50.4516,-104.56067
@@ -639,10 +614,6 @@
 731,'0731','Mcveety Dr @ Gould Bay (NB)',50.45914,-104.537109
 732,'0732','Brown St @ 7th Ave E (SB)',50.45884,-104.54121
 733,'0733','Brown St @ Mackenzie Way (SB)',50.45733,-104.54063
-734,'0734','Brown St @ Dewdney Ave (SB)',50.454728,-104.540614
-735,'0735','Brown St @ Peart Cres (SB)',50.45298,-104.540625
-736,'0736','Fines Dr @ Thomson Ave (SB)',50.4515,-104.53941
-737,'0737','Fines Dr @ Fines Dr (WB)',50.449278,-104.539946
 738,'0738','Quance St @ Starlite St (EB)',50.44534,-104.544489
 739,'0739','Quance St @ Coleman St (EB)',50.44607,-104.53989
 740,'0740','Quance St @ Coleman Cres (WB)',50.44612,-104.541662
@@ -729,7 +700,6 @@
 821,'0821','Arens Rd @ Parkland Dr (WB)',50.43858,-104.53994
 822,'0822','Arens Rd @ Heseltine Rd (WB)',50.43988,-104.543141
 823,'0823','Arens Rd @ Crocus Cres (WB)',50.44061,-104.54712
-824,'0824','University Pk Dr @ Elderkin Dr (SB)',50.43708,-104.55338
 825,'0825','Truesdale Dr @ Cunning Cr (EB)',50.43498,-104.550449
 827,'0827','Truesdale Dr @ Fowler St (EB)',50.433895,-104.543319
 828,'0828','Truesdale Dr @ Harding St (EB)',50.432698,-104.538974
@@ -930,7 +900,6 @@
 1026,'1026','Truesdale Dr @ Shooter Dr (WB)',50.43478,-104.545681
 1027,'1027','Truesdale Dr @ Harding St (WB)',50.43514,-104.548479
 1028,'1028','Truesdale Dr @ Cunning Cres (WB)',50.43531,-104.552301
-1031,'1031','University Pk Dr @ Brodie Bay (NB)',50.43861,-104.550621
 1032,'1032','Arens Rd @ University Pk Dr (EB)',50.440529,-104.548645
 1033,'1033','Arens Rd @ Heseltine Rd (EB)',50.440462,-104.546257
 1034,'1034','Arens Rd @ Crocus Dr (EB)',50.440121,-104.544021
@@ -1109,27 +1078,17 @@
 1265,'1265','Quance St @ Truesdale Dr (EB)',50.44461,-104.55559
 1266,'1266','Sherwood Dr @ Mcgillvery Cres (EB)',50.47648,-104.647621
 1267,'1267','Quance Gt @ Victoria Ave (SB)',50.44666,-104.52763
-1268,'1268','7th Ave N @ Milne St (WB)',50.48093,-104.65612
 1270,'1270','Rochdale Blvd @ Kenderdine Dr (EB)',50.49493,-104.68232
 1271,'1271','Broad St @ Saskatchewan Dr (NB)',50.45153,-104.60636
-1272,'1272','2nd Ave N @ Winnipeg St (WB)',50.472706,-104.594289
 1273,'1273','Albert St @ 9th Ave (SB)',50.45302,-104.61817
 1274,'1274','Pk St @ Mcdonald St (EB)',50.47285,-104.579721
 1275,'1275','Pettigrew Ave @ Leonard St (EB)',50.47618,-104.568421
 1276,'1276','Pettigrew Ave @ Henderson Dr (EB)',50.4753,-104.56279
 1277,'1277','Henderson Dr @ Turvey Rd (NB)',50.47758,-104.561511
-1279,'1279','Henderson Dr @ Leonard St (WB)',50.47969,-104.57112
 1282,'1282','Pk St @ Mcleod St (EB)',50.47217,-104.57773
 1283,'1283','Pk St @ Vennels St (EB)',50.47069,-104.574381
 1284,'1284','Pk St @ 1st Ave (SB)',50.46784,-104.572329
-1293,'1293','7th Ave @ Cavendish St (EB)',50.458263,-104.557819
-1295,'1295','7th Ave @ Cannon St (EB)',50.45831,-104.552191
-1296,'1296','7th Ave @ Fleet St (EB)',50.4583,-104.54821
-1297,'1297','7th Ave @ Bentley Dr (EB)',50.45856,-104.54534
-1298,'1298','Fines Dr @ Coleman Cres (WB)',50.44926,-104.542831
-1299,'1299','Fines Dr @ 2nd St (WB)',50.44924,-104.5464
 1312,'1312','Queen St @ Lincoln Dr (NB)',50.4033,-104.636866
-1318,'1318','Cavendish St @ Cambridge Ave (NB)',50.4507,-104.557809
 1326,'1326','Prince Of Wales Dr @ Truesdale Dr (SB)',50.432606,-104.537431
 1328,'1328','Assiniboine Ave @ Windfield Rd (EB)',50.425965,-104.56769
 1330,'1330','Henderson Dr @ Maxwell Cres (NB)',50.47092,-104.56892
@@ -1181,7 +1140,6 @@
 1418,'1418','Harbour Lndg Dr @ Wright Rd (NB)',50.40895,-104.65052
 1419,'1419','Harbour Lndg Dr @ Tutor Way (NB)',50.41651,-104.64875
 1420,'1420','Dewdney Ave @ Prince Of Wales Dr (EB)',50.45442,-104.52907
-1421,'1421','Sherwood Dr @ Shillington Rd (EB)',50.48107,-104.7079
 1422,'1422','Prince Of Wales Dr @ Eastgate Dr (NB)',50.45023,-104.532821
 1423,'1423','Stockton St @ Child Ave (NB)',50.49776,-104.64538
 1424,'1424','Child Ave @ Mazinke Cr (WB)',50.49795,-104.6481
@@ -1195,7 +1153,6 @@
 1432,'1432','Stockton St @ Child Ave (SB)',50.49743,-104.645499
 1433,'1433','Rochdale Blvd @ Stockton St (EB)',50.49656,-104.64468
 1434,'1434','Winnipeg St @ 6th Ave N (SB)',50.47933,-104.595279
-1435,'1435','Winnipeg St @ 2nd Ave N (NB)',50.47308,-104.595159
 1436,'1436','Neville Dr @ Dakota Dr (SB)',50.45241,-104.528351
 1440,'1440','Haughton Rd @ Prince Of Wales Dr (EB)',50.44058,-104.53163
 1441,'1441','Haughton Rd @ Willow Rd (EB)',50.440426,-104.529687
@@ -1213,22 +1170,6 @@
 1453,'1453','Quance Gt @ Quance St (NB)',50.443906,-104.527303
 1454,'1454','6th Ave N @ Angus Rd (EB)',50.47908,-104.62166
 1455,'1455','6th Ave N @ Shepherd St (WB)',50.47937,-104.623111
-1456,'1456','6th Ave N @ Smith St (EB)',50.47885,-104.61464
-1457,'1457','6th Ave N @ Cornwall St (EB)',50.47886,-104.61191
-1458,'1458','6th Ave N @ Hamilton St (EB)',50.47884,-104.609
-1459,'1459','6th Ave N @ Broad St (EB)',50.478832,-104.60592
-1460,'1460','6th Ave N @ Halifax St (EB)',50.47886,-104.60295
-1461,'1461','6th Ave N @ Ottawa St (EB)',50.47885,-104.60012
-1462,'1462','6th Ave N @ Montreal St (EB)',50.47883,-104.597389
-1463,'1463','Winnipeg St @ 6th Ave N (NB)',50.47919,-104.59513
-1467,'1467','9th Ave N @ Coop Refinery (WB)',50.4826,-104.5787
-1468,'1468','9th Ave N @ 119 9th Ave N (WB)',50.48395,-104.58156
-1469,'1469','9th Ave N @ 297 9th Ave N (WB)',50.48433,-104.585731
-1470,'1470','6th Ave N @ Toronto St (WB)',50.47896,-104.59984
-1471,'1471','6th Ave N @ Halifax St (WB)',50.47893,-104.60391
-1472,'1472','6th Ave N @ Broad St (WB)',50.47895,-104.607069
-1473,'1473','6th Ave N @ Hamilton St (WB)',50.47896,-104.609889
-1474,'1474','6th Ave N @ Cornwall St (WB)',50.47894,-104.61282
 1475,'1475','Eastgate Dr @ Neville Dr (EB)',50.4505,-104.52827
 1476,'1476','Eastgate Dr @ Argan Dr (SB)',50.44876,-104.52787
 1477,'1477','Turvey Rd @ Henderson Dr (EB)',50.478149,-104.560878
@@ -1284,7 +1225,6 @@
 1542,'1542','Smith St @ 12th Ave (SB)',50.44855,-104.61519
 1544,'1544','11th Ave @ Cornwall St (EB)',50.450325,-104.61239
 1545,'1545','11th Ave @ Lorne St (WB)',50.45038,-104.61347
-1547,'1547','Victoria Ave @ Scarth St (WB)',50.447218,-104.610621
 1548,'1548','Willow Rd @ Quance St (SB)',50.44318,-104.53033
 1549,'1549','1st Ave N @ Dorothy St (EB)',50.475028,-104.682331
 1551,'1551','Wascana Pkwy @ Lakeshore Dr (NB)',50.42437,-104.59515
@@ -1322,7 +1262,6 @@
 1587,'1587','Grn Apple Rd @ Grn Bank Rd (EB)',50.420992,-104.523584
 1588,'1588','Winnipeg St @ 17th Ave (NB)',50.43958,-104.59519
 1589,'1589','Vanstone St @ Big Bear Blvd (SB)',50.49913,-104.636281
-1591,'1591','University Pk Dr @ Arens Rd (SB)',50.44012,-104.54939
 1592,'1592','Grant Rd @ Elgin Rd (SB)',50.40731,-104.61065
 1593,'1593','Woodhams Dr @ Olive Grv (EB)',50.42612,-104.53097
 1594,'1594','Grn Apple Dr @ Grn Bank Rd (EB)',50.42096,-104.52357
@@ -1343,7 +1282,6 @@
 1610,'1610','Argyle St @ Sangster Blvd (SB)',50.491036,-104.631729
 1611,'1611','Argyle St @ Davin Cr (NB)',50.488396,-104.632099
 1612,'1612','Argyle St @ Sangster Blvd (NB)',50.491867,-104.630632
-1613,'1613','Truesdale Dr @ Quance St (NB)',50.444889,-104.555483
 1614,'1614','Grn Bank Rd @ Grn Pine Gt (NB)',50.423808,-104.524057
 1615,'1615','Jim Cairns Blvd @ Aviator Cr (WB)',50.411964,-104.654065
 1616,'1616','Gordon Rd @ James Hl Rd (EB)',50.405193,-104.659772
