@@ -645,7 +645,7 @@
 741,'0741','Quance St @ Starlite St (SB)',50.44476,-104.54517
 742,'0742','University Pk Dr @ Quance St (NB)',50.44416,-104.54913
 743,'0743','University Pk Dr @ Vic Sq (NB)',50.44592,-104.54915
-744,'0744','Fleet St @ North Service Rd (NB)',50.448609,-104.549126
+744,'0744','Fleet St @ N Service Rd (NB)',50.448609,-104.549126
 745,'0745','Fleet St @ Fines Dr (NB)',50.449614,-104.549111
 746,'0746','Cambridge Ave @ Milford Cres (WB)',50.45041,-104.5513
 747,'0747','Cambridge Ave @ Glencairn Rd (WB)',50.450435,-104.555519
@@ -776,9 +776,9 @@
 874,'0874','4th Ave @ Fort St (EB)',50.46254,-104.66638
 875,'0875','4th Ave @ Campbell St (EB)',50.46291,-104.66347
 876,'0876','Horace St @ 4th Ave (SB)',50.46256,-104.65971
-877,'0877','North West Blvd @ Horace St (EB)',50.46073,-104.65913
-878,'0878','North West Blvd @ Minto St (EB)',50.46075,-104.65626
-879,'0879','North West Blvd @ Mcintosh St (EB)',50.46049,-104.65272
+877,'0877','N W Blvd @ Horace St (EB)',50.46073,-104.65913
+878,'0878','N W Blvd @ Minto St (EB)',50.46075,-104.65626
+879,'0879','N W Blvd @ Mcintosh St (EB)',50.46049,-104.65272
 880,'0880','Mcintosh St @ 7th Ave (SB)',50.45799,-104.65251
 881,'0881','Elphinstone St @ Dewdney Ave (SB)',50.454608,-104.631235
 882,'0882','Elphinstone St @ 10th Ave (SB)',50.4512,-104.63119
@@ -1023,7 +1023,7 @@
 1130,'1130','Regina Ave @ Princess St (WB)',50.43496,-104.63617
 1131,'1131','Regina Ave @ Coronation St (WB)',50.43494,-104.638401
 1132,'1132','Pasqua St @ Regina Ave (NB)',50.43529,-104.640807
-1133,'1133','PASQUA ST @ 18th AVE (NB)',50.4376,-104.64088
+1133,'1133','Pasqua St @ 18th Ave (NB)',50.4376,-104.64088
 1134,'1134','Qu''appelle Dr @ Wascana St (EB)',50.438639,-104.63884
 1135,'1135','Qu''appelle Dr @ Coronation St (EB)',50.4377,-104.63549
 1136,'1136','Qu''appelle Dr @ Argyle St (EB)',50.43704,-104.63348
@@ -1035,9 +1035,9 @@
 1142,'1142','Elphinstone St @ 9th Ave (NB)',50.45322,-104.631141
 1143,'1143','Mcintosh St @ 8th Ave (NB)',50.4572,-104.652461
 1144,'1144','Mcintosh St @ 7th Ave (NB)',50.45875,-104.652451
-1145,'1145','North West Blvd @ Mcintosh St (WB)',50.46091,-104.6537
-1146,'1146','North West Blvd @ Minto St (WB)',50.460935,-104.657149
-1147,'1147','Horace St @ North West Blvd (NB)',50.46111,-104.659605
+1145,'1145','N W Blvd @ Mcintosh St (WB)',50.46091,-104.6537
+1146,'1146','N W Blvd @ Minto St (WB)',50.460935,-104.657149
+1147,'1147','Horace St @ N W Blvd (NB)',50.46111,-104.659605
 1148,'1148','4th Ave @ Horace St (WB)',50.46299,-104.66035
 1149,'1149','4th Ave @ Campbell St (WB)',50.46259,-104.66437
 1150,'1150','4th Ave @ Lyons St (WB)',50.46263,-104.668311
@@ -1096,7 +1096,7 @@
 1234,'1234','Mccarthy Blvd @ Irvin Cr (SB)',50.48285,-104.66407
 1235,'1235','Mccarthy Blvd @ Irvin Cres (NB)',50.48333,-104.66385
 1255,'1255','Pasqua Gt E @ Sangster Blvd (WB)',50.48983,-104.639141
-1256,'1256','Pasqua Gt East @ Pasqua St (EB)',50.48967,-104.640291
+1256,'1256','Pasqua Gt E @ Pasqua St (EB)',50.48967,-104.640291
 1262,'1262','Rochdale Blvd @ Lakeridge Rd (EB)',50.49579,-104.65868
 1263,'1263','Pasqua St @ Wascana St (NB)',50.4248,-104.640891
 1264,'1264','Gordon Rd @ Rae St (EB)',50.40451,-104.61999
