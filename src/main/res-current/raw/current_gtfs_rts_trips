@@ -25,8 +25,12 @@
 1700,0,'Maple Rdg',17
 1801,0,'Harbour Lndg',18
 1800,0,'University',18
+2101,0,'Glencairn',21
+2100,0,'University',21
 2201,0,'Arcola E',22
 2200,0,'University',22
+3001,0,'Rochdale',30
+3000,0,'University',30
 4001,0,'Albert N',40
 4000,0,'Albert S',40
 5001,0,'Downtown Victoria',50

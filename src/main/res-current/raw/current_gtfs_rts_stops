@@ -639,6 +639,10 @@
 731,'0731','Mcveety Dr @ Gould Bay (NB)',50.45914,-104.537109
 732,'0732','Brown St @ 7th Ave E (SB)',50.45884,-104.54121
 733,'0733','Brown St @ Mackenzie Way (SB)',50.45733,-104.54063
+734,'0734','Brown St @ Dewdney Ave (SB)',50.454728,-104.540614
+735,'0735','Brown St @ Peart Cres (SB)',50.45298,-104.540625
+736,'0736','Fines Dr @ Thomson Ave (SB)',50.4515,-104.53941
+737,'0737','Fines Dr @ Fines Dr (WB)',50.449278,-104.539946
 738,'0738','Quance St @ Starlite St (EB)',50.44534,-104.544489
 739,'0739','Quance St @ Coleman St (EB)',50.44607,-104.53989
 740,'0740','Quance St @ Coleman St (WB)',50.44612,-104.541662
@@ -725,6 +729,7 @@
 821,'0821','Arens Rd @ Parkland Dr (WB)',50.43858,-104.53994
 822,'0822','Arens Rd @ Heseltine Rd (WB)',50.43988,-104.543141
 823,'0823','Arens Rd @ Crocus Cres (WB)',50.44061,-104.54712
+824,'0824','University Pk Dr @ Elderkin Dr (SB)',50.43708,-104.55338
 825,'0825','Truesdale Dr @ Cunning Cr (EB)',50.43498,-104.550449
 827,'0827','Truesdale Dr @ Fowler St (EB)',50.433895,-104.543319
 828,'0828','Truesdale Dr @ Harding St (EB)',50.432698,-104.538974
@@ -925,6 +930,7 @@
 1026,'1026','Truesdale Dr @ Shooter Dr (WB)',50.43478,-104.545681
 1027,'1027','Truesdale Dr @ Harding St (WB)',50.43514,-104.548479
 1028,'1028','Truesdale Dr @ Cunning Cres (WB)',50.43531,-104.552301
+1031,'1031','University Pk Dr @ Brodie Bay (NB)',50.43861,-104.550621
 1032,'1032','Arens Rd @ University Pk Dr (EB)',50.440529,-104.548645
 1033,'1033','Arens Rd @ Heseltine Rd (EB)',50.440462,-104.546257
 1034,'1034','Arens Rd @ Crocus Dr (EB)',50.440121,-104.544021
@@ -1057,6 +1063,7 @@
 1165,'1165','Henderson Dr @ Maxwell Cres (NB)',50.47242,-104.57097
 1166,'1166','Leonard St @ Henderson Dr (NB)',50.47503,-104.5747
 1167,'1167','Leonard St @ Pettigrew Ave (NB)',50.47705,-104.5725
+1168,'1168','Leonard St @ 199 Leonard St (NB)',50.476069,-104.573529
 1174,'1174','Cameron St @ 13th Ave (SB)',50.44586,-104.625389
 1180,'1180','Winnipeg St @ 12th Ave (SB)',50.448551,-104.595259
 1181,'1181','Winnipeg St @ Victoria Ave (SB)',50.44671,-104.595255
@@ -1106,6 +1113,7 @@
 1268,'1268','7th Ave N @ Milne St (WB)',50.48093,-104.65612
 1270,'1270','Rochdale Blvd @ Kenderdine Dr (EB)',50.49493,-104.68232
 1271,'1271','Broad St @ Saskatchewan Dr (NB)',50.45153,-104.60636
+1272,'1272','2nd Ave N @ Winnipeg St (WB)',50.472706,-104.594289
 1273,'1273','Albert St @ 9th Ave (SB)',50.45302,-104.61817
 1274,'1274','Pk St @ Mcdonald St (EB)',50.47285,-104.579721
 1275,'1275','Pettigrew Ave @ Leonard St (EB)',50.47618,-104.568421
@@ -1115,7 +1123,14 @@
 1282,'1282','Pk St @ Mcleod St (EB)',50.47217,-104.57773
 1283,'1283','Pk St @ Vennels St (EB)',50.47069,-104.574381
 1284,'1284','Pk St @ 1st Ave (SB)',50.46784,-104.572329
+1293,'1293','7th Ave @ Cavendish St (EB)',50.458263,-104.557819
+1295,'1295','7th Ave @ Cannon St (EB)',50.45831,-104.552191
+1296,'1296','7th Ave @ Fleet St (EB)',50.4583,-104.54821
+1297,'1297','7th Ave @ Bentley Dr (EB)',50.45856,-104.54534
+1298,'1298','Fines Dr @ Coleman Cres (WB)',50.44926,-104.542831
+1299,'1299','Fines Dr @ 2nd St (WB)',50.44924,-104.5464
 1312,'1312','Queen St @ Lincoln Dr (NB)',50.4033,-104.636866
+1318,'1318','Cavendish St @ Cambridge Ave (NB)',50.4507,-104.557809
 1326,'1326','Prince Of Wales Dr @ Truesdale Dr (SB)',50.432606,-104.537431
 1328,'1328','Assiniboine Ave @ Windfield Rd (EB)',50.425965,-104.56769
 1330,'1330','Henderson Dr @ Maxwell Cres (NB)',50.47092,-104.56892
@@ -1181,6 +1196,7 @@
 1432,'1432','Stockton St @ Child Ave (SB)',50.49743,-104.645499
 1433,'1433','Rochdale Blvd @ Stockton St (EB)',50.49656,-104.64468
 1434,'1434','Winnipeg St @ 6th Ave N (SB)',50.47933,-104.595279
+1435,'1435','Winnipeg St @ 2nd Ave N (NB)',50.47308,-104.595159
 1436,'1436','Neville Dr @ Dakota Dr (SB)',50.45241,-104.528351
 1440,'1440','Haughton Rd @ Prince Of Wales Dr (EB)',50.44058,-104.53163
 1441,'1441','Haughton Rd @ Willow Rd (EB)',50.440426,-104.529687
@@ -1306,6 +1322,7 @@
 1586,'1586','University Dr N @ Adhum Bldg (EB)',50.41993,-104.586431
 1588,'1588','Winnipeg St @ 17th Ave (NB)',50.43958,-104.59519
 1589,'1589','Vanstone St @ Big Bear Blvd (SB)',50.49913,-104.636281
+1591,'1591','University Pk Dr @ Arens Rd (SB)',50.44012,-104.54939
 1592,'1592','Grant Rd @ Elgin Rd (SB)',50.40731,-104.61065
 1593,'1593','Woodhams Dr @ Olive Grv (EB)',50.42612,-104.53097
 1594,'1594','Grn Apple Dr @ Grn Bank Rd (EB)',50.42096,-104.52357
