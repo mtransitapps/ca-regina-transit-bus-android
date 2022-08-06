@@ -1,2 +1,1 @@
-Regina Transit buses for MonTransit.
-Schedule. Real-Time. News.
+Regina Transit buses for MonTransit. Schedule. Real-Time. News.
