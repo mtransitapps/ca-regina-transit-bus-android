@@ -1,22 +1,22 @@
-1,'1','Dieppe/Westerra - Broad North','1AA68A'
-2,'2','Argyle Pk - Wood Mdws','FF8000'
-3,'3','University - Sherwood Ests','A8A800'
-4,'4','Hillsdale - Walsh Acres','A4A400'
-5,'5','Uplands - Downtown','0000A0'
-6,'6','Westhill - Ross Ind','006200'
-7,'7','Glencairn - Whitmore','0000FF'
-8,'8','Normandy Hts - Eastview','A40000'
-9,'9','Parkridge - Albert Pk','BF00BF'
-10,'10','Rcmp - Normanview','FF0FF9'
-12,'12','Varsity Pk - Mt Royal','00C100'
-15,'15','Heritage West - Heritage East','D700D7'
-16,'16','Hawkstone - Lakeridge','494949'
-17,'17','Maple Rdg West - Maple Rdg East','BE50AB'
-18,'18','Harbour Lndg - University','5AB300'
-21,'21','University - Glencairn','F32136'
-22,'22','University - Arcola East','00A600'
-24,'24','Airport - Downtown','9D9D9D'
-30,'30','University - Rochdale Express','B3B300'
-40,'40','Albert S Express - Albert N Express','00CECE'
-50,'50','Victoria E Exp - Victoria Dwtn Exp','970000'
-60,'60','Arcola E Exp - Arcola Dwtn Exp','808000'
+1,'1','Dieppe/Westerra - Broad North','1AA68A',1504640,3
+2,'2','Argyle Pk - Wood Mdws','FF8000',1534431,3
+3,'3','University - Sherwood Ests','A8A800',1564222,3
+4,'4','Hillsdale - Walsh Acres','A4A400',1594013,3
+5,'5','Uplands - Downtown','0000A0',1623804,3
+6,'6','Westhill - Ross Ind','006200',1653595,3
+7,'7','Glencairn - Whitmore','0000FF',1683386,3
+8,'8','Normandy Hts - Eastview','A40000',1713177,3
+9,'9','Parkridge - Albert Pk','BF00BF',1742968,3
+10,'10','Rcmp - Normanview','FF0FF9',46727378,3
+12,'12','Varsity Pk - Mt Royal','00C100',46786960,3
+15,'15','Heritage West - Heritage East','D700D7',46876333,3
+16,'16','Hawkstone - Lakeridge','494949',46906124,3
+17,'17','Maple Rdg West - Maple Rdg East','BE50AB',46935915,3
+18,'18','Harbour Lndg - University','5AB300',46965706,3
+21,'21','University - Glencairn','F32136',47680690,3
+22,'22','University - Arcola East','00A600',47710481,3
+24,'24','Airport - Downtown','9D9D9D',47770063,3
+30,'30','University - Rochdale Express','B3B300',48574420,3
+40,'40','Albert S Express - Albert N Express','00CECE',49497941,3
+50,'50','Victoria E Exp - Victoria Dwtn Exp','970000',50421462,3
+60,'60','Arcola E Exp - Arcola Dwtn Exp','808000',51344983,3
