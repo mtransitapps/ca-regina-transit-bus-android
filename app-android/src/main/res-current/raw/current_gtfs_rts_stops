@@ -1380,10 +1380,8 @@
 1655,'1655','Sandra Schmirler Way (SB)',50.44261,-104.65209,0,1513349
 1656,'1656','Chipmunk Dr @ Tiger Moth Ln (SB)',50.44029,-104.65185,0,1513350
 1657,'1657','Chipmunk Dr @ Tiger Moth Ln (NB)',50.43998,-104.65172,0,1513351
-1658,'1658','Airport Rd @ Chipmunk Dr (SB)',50.43822,-104.65047,0,1513352
 1659,'1659','Chipmunk Dr @ Airport Rd (NB)',50.43815,-104.65032,0,1513353
 1660,'1660','Airport',50.43291,-104.65458,0,1513375
-1661,'1661','Airport Rd @ Buffalo Trl (SB)',50.43598,-104.65258,0,1513376
 1662,'1662','Airport Rd @ Buffalo Trl (NB)',50.43605,-104.65244,0,1513377
 1663,'1663','University Dr S @ Buffaloberry Way (WB)',50.41574,-104.59214,0,1513378
 1664,'1664','University Dr W @ Buffaloberry Way (NB)',50.41682,-104.59379,0,1513379
@@ -1397,3 +1395,4 @@
 1672,'1672','Saskatchewan Dr @ Hamilton St (EB)',50.45217,-104.60903,0,1513408
 1673,'1673','Woodland Grv Dr @ Arcola Ave (NB)',50.42036,-104.52630,0,1513409
 1674,'1674','Anaquod Rd @ Optimist (SB)',50.44363,-104.50536,0,1513410
+1675,'1675','Sandra Schmirler Way @ Airport Rd (SB)',50.43771,-104.64762,0,1513411
