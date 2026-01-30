@@ -29,11 +29,6 @@ public class ReginaTransitBusAgencyTools extends DefaultAgencyTools {
 		return LANG_EN;
 	}
 
-	@Override
-	public boolean defaultExcludeEnabled() {
-		return true;
-	}
-
 	@NotNull
 	@Override
 	public String getAgencyName() {
@@ -45,6 +40,17 @@ public class ReginaTransitBusAgencyTools extends DefaultAgencyTools {
 	public Integer getAgencyRouteType() {
 		return MAgency.ROUTE_TYPE_BUS;
 	}
+
+    @Override
+    public @Nullable String getServiceIdCleanupRegex() {
+        return "^\\d{6}-\\w{3}-";
+    }
+
+	@Override
+    public @Nullable String getTripIdCleanupRegex() {
+        return "\\d{6}-\\w{3}-";
+    }
+
 
 	@Override
 	public boolean defaultRouteIdEnabled() {
