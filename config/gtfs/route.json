@@ -2,7 +2,10 @@
     "route_id_previous_char_configs": [
         {
             "char": "SPC",
-            "id_part": 19163000
-        }
+            "id_part": 1916000
+        },
+        {
+            "char": "WKSH",
+            "id_part": 2311000
     ]
 }
