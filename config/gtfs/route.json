@@ -3,10 +3,12 @@
         {
             "char": "SPC",
             "id_part": 1916000
-        },
+        }
+    ],
+    "route_short_name_to_route_id_configs": [
         {
-            "char": "WKSH",
-            "id_part": 2311000
+            "route_short_name": "WKSH",
+            "route_id": 2311198
         }
     ]
 }
