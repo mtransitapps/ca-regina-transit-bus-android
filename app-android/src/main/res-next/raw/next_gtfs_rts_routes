@@ -1,0 +1,29 @@
+1,'1','Dieppe/Westerra - Broad North','1AA68A',1504671,3
+2,'2','Argyle Pk - Wood Mdws','FF8000',1534462,3
+3,'3','University - Sherwood Ests','A8A800',1564253,3
+4,'4','Hillsdale - Walsh Acres','A4A400',1594044,3
+5,'5','Uplands - Downtown','0000A0',1623835,3
+6,'6','Westhill - Ross Ind','006200',1653626,3
+7,'7','Glencairn - Whitmore','0000FF',1683417,3
+8,'8','Normandy Hts - Eastview','A40000',1713208,3
+9,'9','Parkridge - Albert Pk','BF00BF',1742999,3
+10,'10','Rcmp - Normanview','FF0FF9',46727409,3
+12,'12','Varsity Pk - Mt Royal','00C100',46786991,3
+15,'15','Heritage West - Heritage East','D700D7',46876364,3
+16,'16','Hawkstone - Lakeridge','494949',46906155,3
+17,'17','Maple Rdg West - Maple Rdg East','BE50AB',46935946,3
+18,'18','Harbour Lndg - University','5AB300',46965737,3
+21,'21','University - Glencairn','F32136',47680721,3
+22,'22','University - Arcola East','00A600',47710512,3
+24,'24','Airport - Downtown','9D9D9D',47770094,3
+30,'30','University - Rochdale Express','B3B300',48574451,3
+40,'40','Albert S Express - Albert N Express','00CECE',49497972,3
+50,'50','Victoria E Exp - Victoria Dwtn Exp','970000',50421493,3
+60,'60','Arcola E Exp - Arcola Dwtn Exp','808000',51345014,3
+1916001,'SPC1','Special 1','FF0000',-1292893147,3
+1916003,'SPC3','Special 3','800080',-1292833565,3
+1916006,'SPC6','Special 6','008C00',-1292744192,3
+1916008,'SPC8','Special 8','00CECE',-1292684610,3
+1916009,'SPC9','Special 9','FF8000',-1292654819,3
+2311198,'WKSH','Workshop','EA2015',2129437351,3
+24000255,'X255','Extra 255','FF80C0',-2022026698,3
