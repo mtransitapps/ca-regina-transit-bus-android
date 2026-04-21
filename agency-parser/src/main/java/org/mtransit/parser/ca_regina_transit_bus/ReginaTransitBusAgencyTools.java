@@ -14,31 +14,10 @@ import java.util.List;
 import java.util.Locale;
 import java.util.regex.Pattern;
 
-// http://open.regina.ca/
-// http://open.regina.ca/dataset/transit-network
-// https://opengis.regina.ca/reginagtfs/google_transit.zip
 public class ReginaTransitBusAgencyTools extends DefaultAgencyTools {
 
 	public static void main(@NotNull String[] args) {
 		new ReginaTransitBusAgencyTools().start(args);
-	}
-
-	@Nullable
-	@Override
-	public List<Locale> getSupportedLanguages() {
-		return LANG_EN;
-	}
-
-	@NotNull
-	@Override
-	public String getAgencyName() {
-		return "Regina Transit";
-	}
-
-	@NotNull
-	@Override
-	public Integer getAgencyRouteType() {
-		return MAgency.ROUTE_TYPE_BUS;
 	}
 
     @Override
@@ -73,21 +52,6 @@ public class ReginaTransitBusAgencyTools extends DefaultAgencyTools {
 		routeLongName = CleanUtils.toLowerCaseUpperCaseWords(getFirstLanguageNN(), routeLongName, getIgnoredWord());
 		routeLongName = CleanUtils.cleanStreetTypes(routeLongName);
 		return CleanUtils.cleanLabel(routeLongName);
-	}
-
-	@Override
-	public boolean defaultAgencyColorEnabled() {
-		return true;
-	}
-
-	private static final String AGENCY_COLOR_BLUE = "0AB0DE"; // LIGHT BLUE (from PDF schedule)
-
-	private static final String AGENCY_COLOR = AGENCY_COLOR_BLUE;
-
-	@NotNull
-	@Override
-	public String getAgencyColor() {
-		return AGENCY_COLOR;
 	}
 
 	@Override
