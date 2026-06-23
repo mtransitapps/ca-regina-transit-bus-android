@@ -17,7 +17,7 @@ on:
         default: false
         required: false
       skip-app-release:
-        description: 'App release > SKIP (event if data change or latest release old)'
+        description: 'App release > SKIP (even if data change or latest release old)'
         type: boolean
         default: false
         required: false
@@ -75,6 +75,11 @@ env:
   MT_ORG_PUSH_STORE_OFF: ${{ secrets.MT_ORG_PUSH_STORE_OFF }}
   MT_PUSH_STORE_ON: ${{ secrets.MT_PUSH_STORE_ON }}
   MT_PUSH_STORE_OFF: ${{ secrets.MT_PUSH_STORE_OFF }}
+  # push to store > internal
+  MT_ORG_STORE_INTERNAL_ON: ${{ secrets.MT_ORG_STORE_INTERNAL_ON }}
+  MT_ORG_STORE_INTERNAL_OFF: ${{ secrets.MT_ORG_STORE_INTERNAL_OFF }}
+  MT_STORE_INTERNAL_ON: ${{ secrets.MT_STORE_INTERNAL_ON }}
+  MT_STORE_INTERNAL_OFF: ${{ secrets.MT_STORE_INTERNAL_OFF }}
   # push to store > alpha
   MT_ORG_STORE_ALPHA_ON: ${{ secrets.MT_ORG_STORE_ALPHA_ON }}
   MT_ORG_STORE_ALPHA_OFF: ${{ secrets.MT_ORG_STORE_ALPHA_OFF }}
@@ -94,7 +99,7 @@ jobs:
   MT-SYNC-CODE-DATA-JOB:
     name: "MT Sync Code & Data"
     # if: ${{ env.MT_IS_MAIN_REPO != 'true' }} # can NOT use env here:
-    if: ${{ ! endsWith(github.repository, '/mtransit-for-android') && (github.event_name != 'pull_request' || !github.event.pull_request.draft) }}
+    if: ${{ ! endsWith(github.repository, '/mtransit-for-android') && ! contains(github.repository, '/xx-') && (github.event_name != 'pull_request' || !github.event.pull_request.draft) }}
     # timeout-minutes: 45
     timeout-minutes: 90
     runs-on: ubuntu-latest
@@ -126,12 +131,12 @@ jobs:
           fi
 
       - name: MT commit code change
-        if: ${{ github.ref == format('refs/heads/{0}', env.MT_DEFAULT_BRANCH_NAME) }}
+        if: ${{ github.ref == format('refs/heads/{0}', env.MT_DEFAULT_BRANCH_NAME) || github.event_name == 'pull_request' }}
         run: ./commit_code_change.sh
 
-      # DOWNLOAD (not PR) AND PARSE (NOT main repo/bike)
+      # DOWNLOAD (not PR, OR PR without archive data) AND PARSE (NOT main repo/bike)
       - name: MT download data (& archive)
-        if: ${{ github.event_name != 'pull_request' && env.MT_IS_AGENCY_BIKE != 'true' && env.MT_IS_MAIN_REPO != 'true' && github.event.inputs.skip-download-data != 'true' }}
+        if: ${{ (github.event_name != 'pull_request' || hashFiles('agency-parser/archive/**/*.zip') == '') && env.MT_IS_AGENCY_BIKE != 'true' && env.MT_IS_MAIN_REPO != 'true' && github.event.inputs.skip-download-data != 'true' }}
         id: mt-download-data
         timeout-minutes: 10
         continue-on-error: true # optional (continue with archive data)
